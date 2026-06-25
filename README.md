@@ -13,9 +13,9 @@ Funciona al **PC i al mòbil**, es pot instal·lar com a **app (PWA)** i estudia
 
 | Secció | Descripció |
 |---|---|
-| **📚 Estudi** | Resums dels **90 temes** de l'Annex I amb esquemes i fonts oficials, organitzats en blocs. |
-| **📝 Examen** | Prova tipus test amb **correcció automàtica** i puntuació segons la Base 7.7. |
-| **⚖️ Casos** | Casos teòrico-pràctics amb **correcció per criteris** (offline) i opció de **correcció amb Claude**. |
+| **📚 Estudi** | Resums detallats dels **90 temes** de l'Annex I amb esquemes i fonts oficials, organitzats en blocs. |
+| **📝 Examen** | **502 preguntes** tipus test amb **correcció automàtica** i puntuació segons la Base 7.7. |
+| **⚖️ Casos** | **25 casos** teòrico-pràctics amb **correcció per criteris** (offline) i opció de **correcció amb Claude**. |
 | **🕓 Historial** | Exàmens desats, notes i progrés d'estudi (tot al navegador). |
 | **🔗 Fonts** | Tota la normativa del temari amb enllaços als textos consolidats (BOE / Portal Jurídic). |
 
@@ -81,19 +81,24 @@ Tot el contingut viu a fitxers JSON dins de [`/data`](./data):
 ```
 Les `keywords` són grups de sinònims: el criteri es considera cobert si la resposta menciona prou grups.
 
-> **Objectiu:** 1000 preguntes i 50 casos. Aquest repositori s'omple **per fases**; el lot actual cobreix
-> tots els blocs perquè l'app sigui plenament funcional des del primer dia.
+> **Estat actual:** 502 preguntes test, 25 casos pràctics i els 90 resums complets. **Objectiu final:**
+> 1000 preguntes i 50 casos; el banc s'amplia **per fases** mantenint la cobertura de tots els 90 temes.
 
 ---
 
 ## Desplegament a GitHub Pages
 
-Aquest repo inclou un workflow ([`.github/workflows/deploy-pages.yml`](./.github/workflows/deploy-pages.yml))
-que publica l'app automàticament. Per activar-ho un sol cop:
+L'app és un lloc **estàtic** (sense build). La manera més senzilla de publicar-la:
 
-1. **Settings → Pages → Build and deployment → Source: GitHub Actions.**
-2. Fes un push a `main` (o executa el workflow manualment des de la pestanya *Actions*).
-3. La URL apareixerà a *Settings → Pages* (normalment `https://<usuari>.github.io/montornes-del-valles/`).
+1. **Settings → Pages → Build and deployment → Source: _Deploy from a branch_.**
+2. Branca: **`main`** · carpeta: **`/ (root)`** · **Save**.
+3. Al cap d'1-2 minuts la URL apareix a *Settings → Pages*
+   (`https://xexifm.github.io/montornes-del-valles/`).
+
+El fitxer `.nojekyll` evita que GitHub processi el lloc amb Jekyll.
+
+> Si actualitzes el contingut i no el veus al mòbil, fes una recàrrega forçada
+> (l'app usa un *service worker* amb memòria cau; en canviar de versió es refresca sol).
 
 ### Provar-ho en local
 ```bash
