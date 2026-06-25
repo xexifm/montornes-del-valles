@@ -1548,127 +1548,154 @@
       "key": "Aprofitament urbanístic: edificabilitat ponderada per coeficients d'ús. Aprofitament mitjà → equidistribució de beneficis i càrregues. El privat s'apropia d'un % i cedeix l'excés a l'AP."
     },
     "48": {
-      "intro": "Drets i deures de les persones propietàries; règim del subsol i deure de cessió (TRLUC).",
+      "intro": "Els drets i deures de les persones propietàries del sòl configuren l'estatut de la propietat urbana: el dret de propietat s'exerceix dins els límits i amb el compliment dels deures que estableix la legislació urbanística (funció social de la propietat). Es regulen al TRLUC i al TRLS estatal.",
       "sections": [
         {
-          "h": "Drets i deures",
+          "h": "Estatut del propietari",
           "scheme": {
-            "cap": "Estatut del propietari",
-            "body": "DRETS → ús, gaudi i disposició dins del planejament;\n   aprofitament susceptible d'apropiació\nDEURES →\n   • cessió de sòl per a sistemes i d'aprofitament\n   • costejar i, si escau, executar la urbanització\n   • conservació de les construccions\n   • edificar els solars dins de termini"
+            "cap": "Drets i deures",
+            "body": "DRETS → usar, gaudir i disposar del sòl conforme a la seva\n  classificació i qualificació; fer seu l'aprofitament\n  susceptible d'apropiació\nDEURES (en sòl objecte de transformació) →\n  • CESSIÓ de sòl per a sistemes i de l'aprofitament que\n    correspon a l'Administració\n  • COSTEJAR i, si escau, EXECUTAR la urbanització\n  • CONSERVAR les construccions (seguretat, salubritat,\n    ornament)\n  • EDIFICAR els solars dins de termini"
           }
         },
         {
-          "h": "Subsol",
-          "list": [
-            "El dret sobre el subsol es limita al que requereixin els usos urbanístics autoritzats en superfície.",
-            "L'incompliment dels deures pot derivar en execució forçosa o substitució."
-          ]
+          "h": "Règim del subsol",
+          "p": "El dret del propietari sobre el subsol s'estén fins on sigui necessari per als usos urbanístics autoritzats en superfície; més enllà, l'aprofitament del subsol pot correspondre a l'Administració, que el pot destinar a usos d'interès públic (aparcaments, infraestructures). El planejament pot qualificar específicament el subsol."
+        },
+        {
+          "h": "Limitacions i incompliment de deures",
+          "p": "Les facultats urbanístiques estan condicionades al compliment dels deures. L'incompliment del deure d'edificar o de conservar pot derivar en mesures com l'edificació o rehabilitació forçoses, la col·locació de la finca en situació d'execució per substitució (venda forçosa) o l'expropiació per incompliment de la funció social."
+        },
+        {
+          "key": "El propietari té dret a l'aprofitament susceptible d'apropiació, amb deures de cessió, urbanització, conservació i edificació. El subsol es limita als usos autoritzats en superfície."
         }
       ],
-      "key": "Propietari: dret a l'aprofitament + deures de cessió, urbanització, conservació i edificació. Subsol limitat als usos."
+      "key": "Estatut del propietari: dret a l'aprofitament + deures (cessió, urbanització, conservació, edificació). Subsol limitat als usos autoritzats. Incompliment → edificació/rehabilitació forçosa, venda forçosa o expropiació."
     },
     "49": {
-      "intro": "Règim d'ús provisional del sòl: usos i obres de caràcter provisional i el seu procediment d'autorització (TRLUC).",
+      "intro": "El règim d'ús provisional del sòl permet autoritzar usos i obres de caràcter provisional que no dificultin l'execució del planejament, amb caràcter precari (TRLUC).",
       "sections": [
         {
           "h": "Caracterització",
           "scheme": {
-            "cap": "Usos provisionals",
-            "body": "NATURALESA → precaris i temporals\nNO poden → dificultar l'execució del planejament\nCESSAMENT → quan ho ordeni l'Administració, SENSE indemnització\nFORMALITAT → llicència + acceptació de condicions\n   + INSCRIPCIÓ al Registre de la Propietat"
+            "cap": "Usos i obres provisionals",
+            "body": "NATURALESA → PRECARIS i TEMPORALS\nREQUISIT essencial → NO han de dificultar l'execució del\n  planejament ni desincentivar-la\nCESSAMENT → quan ho ordeni l'Administració, SENSE dret a\n  indemnització\nGARANTIES → llicència + acceptació expressa de les condicions\n  (compromís d'enderroc/cessament) + INSCRIPCIÓ al Registre\n  de la Propietat"
           }
         },
         {
-          "h": "Procediment",
-          "list": [
-            "Es tramiten amb informació pública i les garanties que estableix el TRLUC.",
-            "Compromís exprés d'enderroc/cessament i renúncia a la indemnització."
-          ]
+          "h": "Procediment d'autorització",
+          "p": "L'autorització d'usos i obres provisionals es tramita amb les garanties que estableix el TRLUC (sovint amb informació pública i informes), i s'hi fa constar el caràcter precari, el termini o condició de cessament i la renúncia a la indemnització. Es poden exigir garanties econòmiques per assegurar l'enderroc o restitució."
+        },
+        {
+          "h": "Límits materials",
+          "p": "No es poden autoritzar com a provisionals usos prohibits ni obres de difícil o costós enderroc que, de fet, consolidin una situació contrària al planejament. El caràcter provisional ha de ser real i efectiu."
+        },
+        {
+          "key": "Usos provisionals: precaris, no dificulten el pla, cessen sense indemnització, amb llicència, acceptació de condicions i inscripció registral."
         }
       ],
-      "key": "Usos provisionals: precaris, no dificulten el pla, cessen sense indemnització, amb inscripció registral."
+      "key": "Usos i obres provisionals: precaris i temporals; no han de dificultar el planejament; cessen sense indemnització; llicència + acceptació de condicions + inscripció registral."
     },
     "50": {
-      "intro": "Figures del planejament urbanístic: els plans directors urbanístics (PDU) (TRLUC).",
+      "intro": "Les figures del planejament urbanístic s'ordenen jeràrquicament. Els plans directors urbanístics (PDU) són instruments de la Generalitat amb abast supramunicipal que coordinen i orienten el planejament (TRLUC).",
       "sections": [
         {
-          "h": "Plans directors",
+          "h": "Jerarquia del planejament",
           "scheme": {
-            "cap": "Planejament: jerarquia",
-            "body": "PLANS TERRITORIALS (ordenació del territori)\nPLANS DIRECTORS URBANÍSTICS (supramunicipals)\n   • directrius de coordinació, sòl no urbanitzable,\n     infraestructures, sostenibilitat\nPLANEJAMENT GENERAL (POUM)\nPLANEJAMENT DERIVAT (plans parcials i especials)"
+            "cap": "Instruments d'ordenació",
+            "body": "ORDENACIÓ DEL TERRITORI (plans territorials) ↑\nPLANS DIRECTORS URBANÍSTICS (PDU) — supramunicipals\nPLANEJAMENT GENERAL → POUM (i normes de planejament)\nPLANEJAMENT DERIVAT → plans parcials, plans especials,\n  plans de millora urbana\n+ instruments de gestió i d'execució"
           }
         },
         {
-          "h": "Notes",
-          "list": [
-            "Els PDU els aprova la Generalitat i prevalen sobre el planejament municipal en el seu àmbit.",
-            "Permeten ordenar àmbits supramunicipals i establir reserves de sòl."
-          ]
+          "h": "Plans directors urbanístics",
+          "p": "Els PDU poden establir, en àmbits supramunicipals: directrius per coordinar l'ordenació urbanística d'un territori; determinacions sobre el desenvolupament urbanístic sostenible, la mobilitat i el sòl no urbanitzable; mesures de protecció del sòl no urbanitzable i criteris per a estructures urbanes; i la concreció d'infraestructures i reserves de sòl (p. ex. per a activitats econòmiques o habitatge). Els aprova la Generalitat."
+        },
+        {
+          "h": "Efectes",
+          "p": "Els PDU i els plans territorials prevalen sobre el planejament urbanístic municipal en el seu àmbit: el POUM s'hi ha d'ajustar. Les seves determinacions poden ser d'aplicació directa o orientar el planejament que les ha de desenvolupar."
+        },
+        {
+          "key": "PDU: instrument supramunicipal de la Generalitat, situat per damunt del POUM, que coordina i ordena àmbits territorials i el sòl no urbanitzable."
         }
       ],
-      "key": "PDU: instrument supramunicipal de la Generalitat, per damunt del POUM; coordina i ordena àmbits territorials."
+      "key": "Planejament: territorial → PDU (supramunicipal) → POUM (general) → derivat (parcials/especials). Els PDU els aprova la Generalitat i prevalen sobre el POUM; ordenen sòl no urbanitzable i infraestructures."
     },
     "51": {
-      "intro": "El planejament general: els plans d'ordenació urbanística municipal (POUM). Documentació i programa d'actuació (TRLUC).",
+      "intro": "El planejament general municipal s'articula, a Catalunya, mitjançant els plans d'ordenació urbanística municipal (POUM), instrument d'ordenació integral del territori municipal (TRLUC).",
       "sections": [
         {
-          "h": "Documentació",
+          "h": "Objecte i contingut documental",
           "scheme": {
-            "cap": "Documents del POUM",
-            "body": "MEMÒRIA (i MEMÒRIA SOCIAL → habitatge)\nNORMES URBANÍSTIQUES\nPLÀNOLS (informació i ordenació)\nCATÀLEG de béns protegits\nAGENDA i AVALUACIÓ econòmica i financera\nDOCUMENTACIÓ AMBIENTAL (avaluació ambiental estratègica)"
+            "cap": "Documentació del POUM",
+            "body": "MEMÒRIA (descriptiva i justificativa) + MEMÒRIA SOCIAL\n  (necessitats i previsions d'habitatge, especialment\n  protegit)\nNORMES URBANÍSTIQUES (règim del sòl, usos, paràmetres)\nPLÀNOLS d'informació i d'ordenació\nCATÀLEG de béns protegits / patrimoni\nAGENDA i AVALUACIÓ econòmica i financera\nDOCUMENTACIÓ AMBIENTAL (avaluació ambiental estratègica)\nPROGRAMA D'ACTUACIÓ urbanística municipal (gestió i\n  programació temporal)"
           }
+        },
+        {
+          "h": "Determinacions",
+          "p": "El POUM classifica tot el sòl, en defineix el règim, fixa l'estructura general i orgànica del territori (sistemes generals), estableix les determinacions per al desenvolupament (sectors, polígons, paràmetres d'edificació i usos) i les reserves d'habitatge protegit, i incorpora les mesures de protecció del medi i del patrimoni."
         },
         {
           "h": "Aprovació",
-          "list": [
-            "Inicial (Ajuntament) + informació pública i informes → provisional (Ple) → definitiva (Generalitat: CTU o conseller).",
-            "El programa d'actuació concreta la gestió i la programació temporal."
-          ]
-        },
-        {
-          "key": "L'aprovació definitiva del POUM correspon a la Generalitat, no al municipi."
-        }
-      ],
-      "key": "POUM: memòria (social), normes, plànols, avaluació econòmica i ambiental. Aprovació definitiva: Generalitat."
-    },
-    "52": {
-      "intro": "El planejament de desenvolupament: plans parcials i plans especials. Elaboració, aprovació i revisió (TRLUC).",
-      "sections": [
-        {
-          "h": "Tipus",
           "scheme": {
-            "cap": "Planejament derivat",
-            "body": "PLA PARCIAL → ordena el sòl urbanitzable (transformació)\n   • parcial de delimitació (urbanitzable no delimitat)\nPLA ESPECIAL → finalitats concretes (patrimoni,\n   infraestructures, millora urbana…)\nPLA DE MILLORA URBANA → en sòl urbà"
+            "cap": "Tramitació del POUM",
+            "body": "AVANÇ (opcional/recomanable) + participació\nAPROVACIÓ INICIAL (Ajuntament) + INFORMACIÓ pública (mínim\n  un mes / 45 dies) + informes sectorials\nAPROVACIÓ PROVISIONAL (Ple municipal)\nAPROVACIÓ DEFINITIVA → administració urbanística de la\n  GENERALITAT (Comissió Territorial d'Urbanisme o conseller,\n  segons la població)\nPUBLICACIÓ de l'acord i de les normes → executivitat"
           }
         },
         {
-          "h": "Tramitació",
-          "list": [
-            "Aprovació inicial i provisional municipal + aprovació definitiva (segons el cas, municipal o de la Generalitat).",
-            "Revisió/modificació amb el mateix procediment que l'aprovació."
-          ]
+          "key": "El POUM és l'instrument d'ordenació integral; l'aprovació definitiva correspon a la Generalitat, no al municipi. La memòria social justifica les previsions d'habitatge."
         }
       ],
-      "key": "Plans parcials (urbanitzable) i especials (finalitats concretes) desenvolupen el POUM amb tramitació pròpia."
+      "key": "POUM (planejament general): memòria (+social), normes, plànols, catàleg, avaluació econòmica i ambiental, programa d'actuació. Aprovació: inicial (Ajuntament) → provisional (Ple) → definitiva (Generalitat). Publicació → executivitat."
+    },
+    "52": {
+      "intro": "El planejament de desenvolupament (o derivat) concreta i executa les previsions del planejament general. Els plans parcials ordenen el sòl urbanitzable i els plans especials atenen finalitats concretes (TRLUC).",
+      "sections": [
+        {
+          "h": "Plans parcials",
+          "scheme": {
+            "cap": "Plans parcials urbanístics",
+            "body": "OBJECTE → ordenar detalladament el SÒL URBANITZABLE per\n  fer-lo apte per a l'edificació (sectors de planejament)\nPLA PARCIAL DE DELIMITACIÓ → en sòl urbanitzable NO\n  delimitat: delimita el sector i n'estableix l'ordenació\nCONTINGUT → ordenació detallada, qualificació, sistemes\n  locals, paràmetres, gestió i avaluació econòmica"
+          }
+        },
+        {
+          "h": "Plans especials i de millora urbana",
+          "list": [
+            "Plans especials urbanístics: desenvolupen o complementen el planejament per a finalitats concretes (protecció del patrimoni o del paisatge, infraestructures, equipaments, ordenació del subsol, etc.).",
+            "Plans de millora urbana: en sòl urbà, per completar el teixit o dur a terme operacions de reforma, renovació o rehabilitació."
+          ]
+        },
+        {
+          "h": "Elaboració, aprovació i revisió",
+          "p": "S'aproven inicialment i provisionalment per l'Ajuntament, amb informació pública i informes; l'aprovació definitiva correspon, segons el cas, al mateix municipi (si té planejament general adaptat i el pla deriva d'aquest) o a la Generalitat. La modificació i la revisió segueixen, en general, el mateix procediment que l'aprovació."
+        },
+        {
+          "key": "Plans parcials (sòl urbanitzable) i especials (finalitats concretes) i de millora urbana (sòl urbà) desenvolupen el POUM; tramitació pròpia amb aprovació inicial/provisional/definitiva."
+        }
+      ],
+      "key": "Planejament derivat: plans parcials (urbanitzable; de delimitació si no delimitat), plans especials (finalitats concretes) i de millora urbana (sòl urbà). Aprovació inicial/provisional (municipi) i definitiva (municipi o Generalitat)."
     },
     "53": {
-      "intro": "Iniciativa i col·laboració dels particulars en el planejament urbanístic (TRLUC).",
+      "intro": "La iniciativa i la col·laboració dels particulars en el planejament permeten que persones privades formulin figures de planejament derivat, però la potestat de planejament és pública i indisponible (TRLUC).",
       "sections": [
         {
           "h": "Iniciativa privada",
           "scheme": {
             "cap": "Iniciativa particular",
-            "body": "FORMULACIÓ → els particulars poden redactar plans derivats\nPRESENTACIÓ → a l'Ajuntament, que tramita\nPOTESTAT → de planejament és pública i indisponible\nL'AP pot acceptar, modificar o denegar la proposta"
+            "body": "FORMULACIÓ → els particulars poden REDACTAR i PROMOURE\n  plans derivats (parcials, especials, de millora urbana)\nPRESENTACIÓ → a l'Ajuntament, que els TRAMITA segons el\n  procediment d'aprovació\nL'Administració pot ACCEPTAR, MODIFICAR o DENEGAR la\n  proposta de manera motivada"
           }
         },
         {
-          "h": "Límits",
-          "list": [
-            "La col·laboració privada no vincula l'Administració, que conserva l'ius variandi.",
-            "Es garanteix la participació ciutadana i la informació pública."
-          ]
+          "h": "Límits: potestat pública",
+          "p": "La potestat de planejament correspon en exclusiva a les administracions i és indisponible: la iniciativa privada col·labora, però no vincula l'Administració, que conserva l'ius variandi (potestat de modificar el planejament en interès públic). Els convenis urbanístics que acompanyin la iniciativa no poden substituir el procediment ni alterar el règim legal."
+        },
+        {
+          "h": "Garanties de participació",
+          "p": "La tramitació garanteix la informació pública i la participació ciutadana; els particulars interessats poden presentar al·legacions. Quan la iniciativa comporta l'execució, els promotors assumeixen els deures de cessió i urbanització."
+        },
+        {
+          "key": "Els particulars poden formular planejament derivat, però la potestat de planejament és pública i indisponible; l'Administració decideix motivadament i conserva l'ius variandi."
         }
       ],
-      "key": "Els particulars poden formular planejament derivat; la potestat de planejament és pública i indisponible."
+      "key": "Iniciativa privada: els particulars poden formular planejament derivat (a l'Ajuntament, que tramita). La potestat de planejament és pública i indisponible; l'AP accepta/modifica/denega motivadament i manté l'ius variandi."
     },
     "54": {
       "intro": "Efectes de l'aprovació de les figures de planejament: publicitat, convenis urbanístics i obligatorietat (TRLUC).",
