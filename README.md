@@ -88,12 +88,17 @@ Les `keywords` són grups de sinònims: el criteri es considera cobert si la res
 
 ## Desplegament a GitHub Pages
 
-Aquest repo inclou un workflow ([`.github/workflows/deploy-pages.yml`](./.github/workflows/deploy-pages.yml))
-que publica l'app automàticament. Per activar-ho un sol cop:
+L'app és un lloc **estàtic** (sense build). La manera més senzilla de publicar-la:
 
-1. **Settings → Pages → Build and deployment → Source: GitHub Actions.**
-2. Fes un push a `main` (o executa el workflow manualment des de la pestanya *Actions*).
-3. La URL apareixerà a *Settings → Pages* (normalment `https://<usuari>.github.io/montornes-del-valles/`).
+1. **Settings → Pages → Build and deployment → Source: _Deploy from a branch_.**
+2. Branca: **`main`** · carpeta: **`/ (root)`** · **Save**.
+3. Al cap d'1-2 minuts la URL apareix a *Settings → Pages*
+   (`https://xexifm.github.io/montornes-del-valles/`).
+
+El fitxer `.nojekyll` evita que GitHub processi el lloc amb Jekyll.
+
+> Si actualitzes el contingut i no el veus al mòbil, fes una recàrrega forçada
+> (l'app usa un *service worker* amb memòria cau; en canviar de versió es refresca sol).
 
 ### Provar-ho en local
 ```bash

@@ -1,5 +1,5 @@
 /* Service worker — cache offline-first per a estudiar sense connexió. */
-const CACHE = 'montornes-oposicio-v1';
+const CACHE = 'montornes-oposicio-v2';
 const ASSETS = [
   './',
   './index.html',
