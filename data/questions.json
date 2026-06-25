@@ -126,141 +126,6 @@
       "article": "arts. 7, 25 LRBRL"
     },
     {
-      "theme": 6,
-      "block": 2,
-      "q": "Quina llei regula el procediment administratiu comú de les administracions públiques?",
-      "options": [
-        "Llei 40/2015",
-        "Llei 39/2015",
-        "Llei 30/1992 (vigent)",
-        "Llei 7/1985"
-      ],
-      "correct": 1,
-      "explain": "La Llei 39/2015, d'1 d'octubre, regula el procediment administratiu comú; la Llei 40/2015 regula el règim jurídic del sector públic.",
-      "source": "L39_2015",
-      "article": "Llei 39/2015"
-    },
-    {
-      "theme": 6,
-      "block": 2,
-      "q": "El silenci administratiu en procediments iniciats a sol·licitud de l'interessat té, amb caràcter general, sentit:",
-      "options": [
-        "Sempre negatiu",
-        "Positiu (estimatori), llevat d'excepcions previstes per llei",
-        "Sempre positiu sense excepcions",
-        "No existeix el silenci"
-      ],
-      "correct": 1,
-      "explain": "L'art. 24 Llei 39/2015 estableix com a regla general el silenci positiu, amb les excepcions taxades (dret de petició, medi ambient, transferència de facultats sobre domini públic, etc.).",
-      "source": "L39_2015",
-      "article": "art. 24 Llei 39/2015"
-    },
-    {
-      "theme": 6,
-      "block": 2,
-      "q": "Quin d'aquests NO és un element de l'acte administratiu?",
-      "options": [
-        "La competència de l'òrgan",
-        "La causa o el fi",
-        "El benefici econòmic del funcionari",
-        "La forma"
-      ],
-      "correct": 2,
-      "explain": "Els elements de l'acte són subjectius (competència), objectius (contingut, causa/fi), formals (procediment i forma). El benefici personal no és un element; seria desviació de poder.",
-      "source": "L39_2015",
-      "article": "Llei 39/2015"
-    },
-    {
-      "theme": 7,
-      "block": 2,
-      "q": "Són nuls de ple dret els actes administratius:",
-      "options": [
-        "Amb qualsevol defecte de forma",
-        "Dictats per òrgan manifestament incompetent per raó de la matèria o del territori",
-        "Que continguin errors aritmètics",
-        "Notificats amb un dia de retard"
-      ],
-      "correct": 1,
-      "explain": "L'art. 47 Llei 39/2015 enumera els supòsits taxats de nul·litat de ple dret, entre ells la incompetència manifesta per matèria o territori.",
-      "source": "L39_2015",
-      "article": "art. 47 Llei 39/2015"
-    },
-    {
-      "theme": 7,
-      "block": 2,
-      "q": "Un defecte de forma determina l'anul·labilitat de l'acte:",
-      "options": [
-        "Sempre, en tot cas",
-        "Només si l'acte no assoleix la seva finalitat o causa indefensió",
-        "Mai",
-        "Només si ho demana l'Administració"
-      ],
-      "correct": 1,
-      "explain": "Art. 48.2 Llei 39/2015: el defecte de forma només anul·la quan impedeix assolir la finalitat de l'acte o genera indefensió.",
-      "source": "L39_2015",
-      "article": "art. 48.2 Llei 39/2015"
-    },
-    {
-      "theme": 7,
-      "block": 2,
-      "q": "Com a regla general, els actes administratius són eficaços:",
-      "options": [
-        "Des de la seva signatura interna",
-        "Des que es dicten, llevat que el seu contingut en disposi una altra cosa o estiguin sotmesos a notificació/publicació o aprovació superior",
-        "Només després de tres mesos",
-        "Quan ho decideix l'interessat"
-      ],
-      "correct": 1,
-      "explain": "Art. 39 Llei 39/2015: eficàcia des que es dicten, amb les excepcions de demora (notificació, publicació, condició o aprovació superior).",
-      "source": "L39_2015",
-      "article": "art. 39 Llei 39/2015"
-    },
-    {
-      "theme": 8,
-      "block": 2,
-      "q": "Els interessats en un procediment administratiu:",
-      "options": [
-        "Només poden ser els qui l'han iniciat",
-        "Inclouen els qui el promoguin i els titulars de drets o interessos legítims que puguin resultar afectats",
-        "Han de ser sempre persones jurídiques",
-        "Només l'Administració"
-      ],
-      "correct": 1,
-      "explain": "Art. 4 Llei 39/2015: són interessats els promotors i els titulars de drets o interessos legítims, individuals o col·lectius, afectats per la resolució.",
-      "source": "L39_2015",
-      "article": "art. 4 Llei 39/2015"
-    },
-    {
-      "theme": 9,
-      "block": 2,
-      "q": "Les fases de l'estructura del procediment administratiu són:",
-      "options": [
-        "Iniciació, ordenació, instrucció i finalització",
-        "Només iniciació i resolució",
-        "Al·legació i recurs",
-        "Inici, prova i sanció"
-      ],
-      "correct": 0,
-      "explain": "El procediment s'estructura en iniciació, ordenació, instrucció i finalització (Títol IV Llei 39/2015).",
-      "source": "L39_2015",
-      "article": "Llei 39/2015"
-    },
-    {
-      "theme": 9,
-      "block": 2,
-      "q": "El termini per esmenar una sol·licitud que no reuneix els requisits és, amb caràcter general, de:",
-      "options": [
-        "3 dies",
-        "10 dies",
-        "1 mes",
-        "20 dies"
-      ],
-      "correct": 1,
-      "explain": "Art. 68 Llei 39/2015: requeriment d'esmena en 10 dies, ampliables fins a 15 en determinats casos.",
-      "source": "L39_2015",
-      "article": "art. 68 Llei 39/2015"
-    },
-    {
       "theme": 10,
       "block": 2,
       "q": "Quan un termini està fixat en dies i no s'indica res més, s'entén que es tracta de dies:",
@@ -1431,21 +1296,6 @@
       "article": "art. 31 LRBRL"
     },
     {
-      "theme": 8,
-      "block": 2,
-      "q": "Els principis de bona regulació exigeixen que les normes siguin:",
-      "options": [
-        "Secretes",
-        "Necessàries, proporcionades, segures, transparents i eficients",
-        "Indeterminades",
-        "Retroactives sempre"
-      ],
-      "correct": 1,
-      "explain": "Art. 129 Llei 39/2015: principis de necessitat, eficàcia, proporcionalitat, seguretat jurídica, transparència i eficiència.",
-      "source": "L39_2015",
-      "article": "art. 129 Llei 39/2015"
-    },
-    {
       "theme": 23,
       "block": 5,
       "q": "La subcontractació en els contractes del sector públic:",
@@ -1849,111 +1699,6 @@
       "explain": "L'art. 25.1 LRBRL permet al municipi promoure activitats i serveis en l'àmbit de les seves competències.",
       "source": "LRBRL",
       "article": "art. 25.1 LRBRL"
-    },
-    {
-      "theme": 6,
-      "block": 2,
-      "q": "La motivació dels actes administratius és exigible, entre d'altres, en:",
-      "options": [
-        "Tots els actes de tràmit",
-        "Els actes que limiten drets, els discrecionals i els sancionadors",
-        "Cap acte",
-        "Només els verbals"
-      ],
-      "correct": 1,
-      "explain": "L'art. 35 Llei 39/2015 enumera els actes que han de motivar-se.",
-      "source": "L39_2015",
-      "article": "art. 35 Llei 39/2015"
-    },
-    {
-      "theme": 6,
-      "block": 2,
-      "q": "Quan el silenci és positiu, la resolució expressa posterior:",
-      "options": [
-        "Pot ser de qualsevol sentit",
-        "Només pot ser confirmatòria del silenci estimatori",
-        "No s'ha de dictar mai",
-        "Pot revocar lliurement"
-      ],
-      "correct": 1,
-      "explain": "Art. 24.3.a: si el silenci és estimatori, la resolució posterior només pot ser confirmatòria.",
-      "source": "L39_2015",
-      "article": "art. 24.3 Llei 39/2015"
-    },
-    {
-      "theme": 7,
-      "block": 2,
-      "q": "La revisió d'ofici d'actes nuls de ple dret (art. 106):",
-      "options": [
-        "Té termini d'1 mes",
-        "Es pot fer en qualsevol moment, amb dictamen favorable del Consell Consultiu",
-        "No requereix cap informe",
-        "La fa el jutjat penal"
-      ],
-      "correct": 1,
-      "explain": "La revisió d'ofici d'actes nuls (art. 106) no té termini i exigeix dictamen del Consell consultiu.",
-      "source": "L39_2015",
-      "article": "art. 106 Llei 39/2015"
-    },
-    {
-      "theme": 7,
-      "block": 2,
-      "q": "La declaració de lesivitat d'actes anul·lables favorables:",
-      "options": [
-        "Permet anul·lar-los directament",
-        "És previa a la impugnació davant la jurisdicció contenciosa, en el termini de 4 anys",
-        "No existeix",
-        "La fa el Defensor del Poble"
-      ],
-      "correct": 1,
-      "explain": "Art. 107: per anul·lar actes favorables anul·lables, l'Administració els declara lesius i els impugna davant el contenciós (4 anys).",
-      "source": "L39_2015",
-      "article": "art. 107 Llei 39/2015"
-    },
-    {
-      "theme": 8,
-      "block": 2,
-      "q": "L'expedient administratiu, segons la Llei 39/2015, és:",
-      "options": [
-        "En paper obligatòriament",
-        "El conjunt ordenat de documents i actuacions en format electrònic",
-        "Secret per defecte",
-        "Propietat del funcionari"
-      ],
-      "correct": 1,
-      "explain": "Art. 70: l'expedient és el conjunt ordenat de documents i actuacions, en format electrònic.",
-      "source": "L39_2015",
-      "article": "art. 70 Llei 39/2015"
-    },
-    {
-      "theme": 9,
-      "block": 2,
-      "q": "Les formes d'iniciació d'ofici d'un procediment inclouen:",
-      "options": [
-        "Només la denúncia",
-        "Acord de l'òrgan, ordre superior, petició raonada o denúncia",
-        "Únicament la sol·licitud de part",
-        "Cap"
-      ],
-      "correct": 1,
-      "explain": "Art. 58: el procediment s'inicia d'ofici per acord de l'òrgan, per ordre superior, a petició raonada d'altres òrgans o per denúncia.",
-      "source": "L39_2015",
-      "article": "art. 58 Llei 39/2015"
-    },
-    {
-      "theme": 9,
-      "block": 2,
-      "q": "La caducitat del procediment iniciat d'ofici susceptible de produir efectes desfavorables es produeix:",
-      "options": [
-        "Mai",
-        "Si transcorre el termini màxim sense resoldre, amb arxiu de les actuacions",
-        "Als 10 anys",
-        "Només a petició de l'interessat"
-      ],
-      "correct": 1,
-      "explain": "Art. 25: en procediments d'ofici desfavorables, el venciment del termini sense resoldre produeix la caducitat.",
-      "source": "L39_2015",
-      "article": "art. 25 Llei 39/2015"
     },
     {
       "theme": 10,
@@ -3771,36 +3516,6 @@
       "article": "art. 159-165 CE"
     },
     {
-      "theme": 6,
-      "block": 2,
-      "q": "L'acte presumpte per silenci positiu s'acredita:",
-      "options": [
-        "Amb una sentència",
-        "Per qualsevol mitjà de prova admès, inclòs el certificat d'acte presumpte",
-        "Només verbalment",
-        "No s'acredita"
-      ],
-      "correct": 1,
-      "explain": "L'existència de l'acte produït per silenci s'acredita per qualsevol mitjà de prova, inclòs el certificat (art. 24.4).",
-      "source": "L39_2015",
-      "article": "art. 24.4 Llei 39/2015"
-    },
-    {
-      "theme": 8,
-      "block": 2,
-      "q": "L'abstenció d'una autoritat amb interès personal en l'assumpte:",
-      "options": [
-        "És opcional",
-        "És obligatòria quan concorre causa legal d'abstenció",
-        "No existeix",
-        "Depèn de l'Alcalde"
-      ],
-      "correct": 1,
-      "explain": "Art. 23 Llei 40/2015: qui concorri en causa d'abstenció s'ha d'abstenir d'intervenir.",
-      "source": "L40_2015",
-      "article": "art. 23 Llei 40/2015"
-    },
-    {
       "theme": 12,
       "block": 3,
       "q": "El principi de sostenibilitat financera exigeix:",
@@ -3936,36 +3651,6 @@
       "article": "art. 122 Llei 39/2015"
     },
     {
-      "theme": 7,
-      "block": 2,
-      "q": "La conversió d'actes viciats permet:",
-      "options": [
-        "Anul·lar-los sempre",
-        "Que un acte nul o anul·lable produeixi els efectes d'un altre de vàlid si en té els requisits",
-        "Res",
-        "Sancionar"
-      ],
-      "correct": 1,
-      "explain": "Art. 50 Llei 39/2015: els actes nuls o anul·lables que continguin els elements d'un altre poden convertir-se.",
-      "source": "L39_2015",
-      "article": "art. 50 Llei 39/2015"
-    },
-    {
-      "theme": 9,
-      "block": 2,
-      "q": "La terminació convencional del procediment:",
-      "options": [
-        "No s'admet",
-        "És possible mitjançant acords, pactes o convenis que no siguin contraris a l'ordenament",
-        "Substitueix la llei",
-        "La decideix un tercer"
-      ],
-      "correct": 1,
-      "explain": "Art. 86 Llei 39/2015: l'Administració pot acabar el procediment per acord, sempre dins de la legalitat.",
-      "source": "L39_2015",
-      "article": "art. 86 Llei 39/2015"
-    },
-    {
       "theme": 1,
       "block": 1,
       "q": "Els valors superiors de l'ordenament jurídic (art. 1.1 CE) són:",
@@ -4054,66 +3739,6 @@
       "explain": "La intervenció exerceix el control intern i la fiscalització de la gestió econòmico-financera (funció reservada).",
       "source": "LRBRL",
       "article": "art. 92 bis LRBRL"
-    },
-    {
-      "theme": 6,
-      "block": 2,
-      "q": "La validesa d'un acte exigeix que el seu contingut sigui:",
-      "options": [
-        "Impossible",
-        "Determinat o determinable, lícit i adequat al fi",
-        "Secret",
-        "Verbal"
-      ],
-      "correct": 1,
-      "explain": "El contingut de l'acte ha de ser lícit, determinat o determinable i adequat als fins (art. 34 i ss.).",
-      "source": "L39_2015",
-      "article": "art. 34 Llei 39/2015"
-    },
-    {
-      "theme": 7,
-      "block": 2,
-      "q": "L'eficàcia retroactiva d'un acte s'admet:",
-      "options": [
-        "Mai",
-        "Quan es dicti en substitució d'un anul·lat o produeixi efectes favorables sense lesionar tercers",
-        "Sempre",
-        "Només per als sancionadors"
-      ],
-      "correct": 1,
-      "explain": "Art. 39.3 Llei 39/2015: retroactivitat possible en actes substitutius d'anul·lats o favorables sense lesió de tercers.",
-      "source": "L39_2015",
-      "article": "art. 39.3 Llei 39/2015"
-    },
-    {
-      "theme": 8,
-      "block": 2,
-      "q": "Els terceres en un procediment amb interessos legítims:",
-      "options": [
-        "No hi poden intervenir",
-        "Poden personar-s'hi com a interessats",
-        "No tenen drets",
-        "Decideixen ells la resolució"
-      ],
-      "correct": 1,
-      "explain": "Poden ser interessats els titulars d'interessos legítims que es personin abans de la resolució (art. 4).",
-      "source": "L39_2015",
-      "article": "art. 4 Llei 39/2015"
-    },
-    {
-      "theme": 9,
-      "block": 2,
-      "q": "La prova en el procediment es practica quan:",
-      "options": [
-        "Mai",
-        "L'Administració no tingui per certs els fets o ho exigeixi la naturalesa del procediment",
-        "Ho diu l'interessat sempre",
-        "És obligatòria en tots"
-      ],
-      "correct": 1,
-      "explain": "Art. 77 Llei 39/2015: s'obre període de prova quan l'òrgan no tingui per certs els fets.",
-      "source": "L39_2015",
-      "article": "art. 77 Llei 39/2015"
     },
     {
       "theme": 10,
@@ -5226,36 +4851,6 @@
       "article": "presa de decisions"
     },
     {
-      "theme": 6,
-      "block": 2,
-      "q": "La inderogabilitat singular dels reglaments significa que:",
-      "options": [
-        "Es poden derogar per a un cas concret",
-        "Una resolució no pot vulnerar un reglament, encara que la dicti un òrgan superior",
-        "Els reglaments no s'apliquen",
-        "Cap reglament obliga"
-      ],
-      "correct": 1,
-      "explain": "Art. 37 Llei 39/2015: les resolucions singulars no poden vulnerar el que estableix una disposició general.",
-      "source": "L39_2015",
-      "article": "art. 37 Llei 39/2015"
-    },
-    {
-      "theme": 8,
-      "block": 2,
-      "q": "La recusació es planteja:",
-      "options": [
-        "Per qualsevol motiu",
-        "Quan concorre una causa d'abstenció en qui ha d'intervenir",
-        "Sempre",
-        "Mai"
-      ],
-      "correct": 1,
-      "explain": "Els interessats poden recusar l'autoritat o personal en qui concorri causa d'abstenció (art. 24 Llei 40/2015).",
-      "source": "L40_2015",
-      "article": "art. 24 Llei 40/2015"
-    },
-    {
       "theme": 10,
       "block": 2,
       "q": "Els terminis es poden ampliar:",
@@ -5284,21 +4879,6 @@
       "explain": "L'alçada es pot presentar davant l'òrgan que va dictar l'acte o davant el competent per resoldre (art. 121.2).",
       "source": "L39_2015",
       "article": "art. 121.2 Llei 39/2015"
-    },
-    {
-      "theme": 7,
-      "block": 2,
-      "q": "La notificació defectuosa produeix efectes:",
-      "options": [
-        "Mai",
-        "Des que l'interessat fa actuacions que suposen el coneixement de l'acte",
-        "Sempre des de l'emissió",
-        "Als 10 anys"
-      ],
-      "correct": 1,
-      "explain": "Art. 40.3 Llei 39/2015: la notificació defectuosa té efectes des que l'interessat es dóna per assabentat.",
-      "source": "L39_2015",
-      "article": "art. 40.3 Llei 39/2015"
     },
     {
       "theme": 15,
@@ -5914,66 +5494,6 @@
       "explain": "Art. 26 LRBRL: a partir de 20.000 hab. cal protecció civil, serveis socials, prevenció i extinció d'incendis i instal·lacions esportives.",
       "source": "LRBRL",
       "article": "art. 26 LRBRL"
-    },
-    {
-      "theme": 6,
-      "block": 2,
-      "q": "El silenci en els procediments de responsabilitat patrimonial és:",
-      "options": [
-        "Positiu",
-        "Negatiu (desestimatori)",
-        "Inexistent",
-        "Variable"
-      ],
-      "correct": 1,
-      "explain": "El silenci en responsabilitat patrimonial té sentit desestimatori (excepció al silenci positiu general).",
-      "source": "L39_2015",
-      "article": "art. 24-91 Llei 39/2015"
-    },
-    {
-      "theme": 7,
-      "block": 2,
-      "q": "La suspensió de l'execució d'un acte recorregut es pot acordar:",
-      "options": [
-        "Mai",
-        "Si l'execució pot causar perjudicis de difícil reparació o l'acte és nul",
-        "Sempre automàticament",
-        "Només pel jutge"
-      ],
-      "correct": 1,
-      "explain": "Art. 117 Llei 39/2015: es pot suspendre l'execució si causa perjudicis irreparables o concorre causa de nul·litat.",
-      "source": "L39_2015",
-      "article": "art. 117 Llei 39/2015"
-    },
-    {
-      "theme": 8,
-      "block": 2,
-      "q": "La concentració de tràmits:",
-      "options": [
-        "Allarga el procediment",
-        "Acumula en un sol acte els tràmits que admetin impuls simultani",
-        "No es permet",
-        "És obligatòria sempre"
-      ],
-      "correct": 1,
-      "explain": "Art. 72 Llei 39/2015: s'acorda en un sol acte tots els tràmits que admetin impuls simultani.",
-      "source": "L39_2015",
-      "article": "art. 72 Llei 39/2015"
-    },
-    {
-      "theme": 9,
-      "block": 2,
-      "q": "L'audiència a l'interessat es fa:",
-      "options": [
-        "A l'inici",
-        "Després de la instrucció i abans de redactar la proposta de resolució",
-        "Mai",
-        "Després de resoldre"
-      ],
-      "correct": 1,
-      "explain": "Art. 82 Llei 39/2015: el tràmit d'audiència es practica un cop instruït i abans de la proposta de resolució.",
-      "source": "L39_2015",
-      "article": "art. 82 Llei 39/2015"
     },
     {
       "theme": 10,
@@ -6666,51 +6186,6 @@
       "article": "art. 176 TRLHL"
     },
     {
-      "theme": 6,
-      "block": 2,
-      "q": "La declaració responsable, com a acte de l'interessat:",
-      "options": [
-        "És un acte administratiu",
-        "És una manifestació sota responsabilitat del particular",
-        "La dicta l'òrgan",
-        "No té efectes"
-      ],
-      "correct": 1,
-      "explain": "La declaració responsable és un document de l'interessat, no un acte administratiu (art. 69 Llei 39/2015).",
-      "source": "L39_2015",
-      "article": "art. 69 Llei 39/2015"
-    },
-    {
-      "theme": 9,
-      "block": 2,
-      "q": "La proposta de resolució en un procediment sancionador:",
-      "options": [
-        "No existeix",
-        "La formula l'instructor i es notifica a l'interessat",
-        "La fa el sancionat",
-        "És secreta"
-      ],
-      "correct": 1,
-      "explain": "L'instructor formula proposta de resolució motivada, que es notifica per a al·legacions (Llei 40/2015).",
-      "source": "L40_2015",
-      "article": "art. 64 Llei 40/2015"
-    },
-    {
-      "theme": 7,
-      "block": 2,
-      "q": "Un acte administratiu favorable es pot revocar:",
-      "options": [
-        "Lliurement sempre",
-        "Quan no constitueixi dispensa contrària a la llei ni sigui contrari a la igualtat o l'interès públic",
-        "Mai",
-        "Només pel jutge"
-      ],
-      "correct": 1,
-      "explain": "Art. 109 Llei 39/2015: la revocació d'actes de gravamen o desfavorables és possible amb límits; els favorables, via revisió/lesivitat.",
-      "source": "L39_2015",
-      "article": "art. 109 Llei 39/2015"
-    },
-    {
       "theme": 21,
       "block": 5,
       "q": "L'oferta econòmicament més avantatjosa s'identifica per:",
@@ -6859,36 +6334,6 @@
       "explain": "Art. 7.2 LRBRL: les competències pròpies s'exerceixen en règim d'autonomia i sota la pròpia responsabilitat.",
       "source": "LRBRL",
       "article": "art. 7.2 LRBRL"
-    },
-    {
-      "theme": 6,
-      "block": 2,
-      "q": "Els actes de tràmit són recurribles separadament quan:",
-      "options": [
-        "Mai",
-        "Decideixen el fons, impedeixen continuar o causen indefensió o perjudici irreparable",
-        "Sempre",
-        "Ho diu l'interessat"
-      ],
-      "correct": 1,
-      "explain": "Art. 112 Llei 39/2015: els actes de tràmit qualificats són recurribles separadament.",
-      "source": "L39_2015",
-      "article": "art. 112 Llei 39/2015"
-    },
-    {
-      "theme": 8,
-      "block": 2,
-      "q": "L'òrgan competent per resoldre, si no s'indica, es determina per:",
-      "options": [
-        "L'atzar",
-        "Les normes d'atribució i, si cal, les regles de competència",
-        "El sol·licitant",
-        "El contractista"
-      ],
-      "correct": 1,
-      "explain": "La competència s'atribueix per norma; en cas de dubte s'apliquen les regles de competència (Llei 40/2015).",
-      "source": "L40_2015",
-      "article": "art. 8 Llei 40/2015"
     },
     {
       "theme": 10,
@@ -7341,21 +6786,6 @@
       "article": "arts. 59 i ss. TRLHL"
     },
     {
-      "theme": 7,
-      "block": 2,
-      "q": "L'executivitat de l'acte permet:",
-      "options": [
-        "Esperar el recurs",
-        "La seva execució forçosa pels mitjans de la Llei 39/2015",
-        "Cap execució",
-        "Només execució judicial"
-      ],
-      "correct": 1,
-      "explain": "Els actes són executius i l'Administració pot executar-los forçosament (arts. 99-105 Llei 39/2015).",
-      "source": "L39_2015",
-      "article": "arts. 99-105 Llei 39/2015"
-    },
-    {
       "theme": 74,
       "block": 12,
       "q": "La revocació d'una llicència vàlida per raons d'interès públic:",
@@ -7534,6 +6964,261 @@
       "explain": "La Llei 19/2014 obliga les administracions catalanes i ens vinculats, i en part els adjudicataris i perceptors.",
       "source": "L19_2014",
       "article": "Llei 19/2014"
+    },
+    {
+      "theme": 6,
+      "block": 2,
+      "q": "Una persona presenta una sol·licitud de llicència i l'Administració no resol ni la notifica dins del termini màxim. Amb caràcter general, quin és el sentit del silenci en els procediments iniciats a sol·licitud de l'interessat?",
+      "options": [
+        "Estimatori, tret de les excepcions que prevegi una llei o el dret de la UE",
+        "Desestimatori en tot cas, atès que així es protegeix millor l'interès públic",
+        "No produeix cap efecte fins que l'òrgan dicti i notifiqui una resolució expressa",
+        "Estimatori sempre i sense cap excepció possible"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el sentit del silenci quan el ciutadà inicia el procediment i l'Administració incompleix el deure de resoldre en termini (art. 21). Correcta (a): la regla general és el silenci POSITIU, que constitueix un acte veritable; el negatiu només opera en les excepcions previstes per llei o pel dret de la UE. Per què no: (b) el negatiu és l'excepció, no la regla, i és una ficció legal, no un acte; (c) el silenci SÍ produeix efectes sense resolució expressa (confon silenci i obligació de resoldre); (d) sí que hi ha excepcions taxades (dret de petició, domini públic, responsabilitat patrimonial, recursos). Base: art. 24 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 24 Llei 39/2015"
+    },
+    {
+      "theme": 6,
+      "block": 2,
+      "q": "En quin dels casos següents el silenci administratiu té sentit DESESTIMATORI (negatiu)?",
+      "options": [
+        "En una sol·licitud de subvenció en règim de concurrència competitiva",
+        "En els procediments de responsabilitat patrimonial",
+        "En una sol·licitud d'accés a l'ús d'un servei municipal",
+        "En una llicència d'obres de poca entitat"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta una de les excepcions al silenci positiu. Correcta (b): la Llei 39/2015 fixa el silenci negatiu, entre altres, en la responsabilitat patrimonial, el dret de petició, quan s'adquiririen facultats sobre el domini públic o el servei públic, i en la impugnació d'actes. Per què no: (a), (c) i (d) són procediments ordinaris a instància de part on regeix la regla general del silenci positiu. Base: art. 24.1 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 24 Llei 39/2015"
+    },
+    {
+      "theme": 6,
+      "block": 2,
+      "q": "Quin d'aquests NO és un element de validesa de l'acte administratiu?",
+      "options": [
+        "L'oportunitat política de la decisió adoptada",
+        "La competència de l'òrgan que el dicta",
+        "El procediment seguit i la forma de l'acte",
+        "La causa o el fi d'interès públic que es persegueix"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta quins són els elements de l'acte (subjectiu, objectiu, causal i formal). Correcta (a): l'oportunitat política NO és un element de validesa; els actes es controlen per la seva legalitat, no per oportunitat. Per què no: (b) la competència és l'element subjectiu; (c) el procediment i la forma són l'element formal; (d) la causa/fi és l'element teleològic (apartar-se'n és desviació de poder). Base: arts. 34-36 i 47-48 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "arts. 34-36 Llei 39/2015"
+    },
+    {
+      "theme": 6,
+      "block": 2,
+      "q": "La motivació de l'acte administratiu és exigible, en tot cas, en:",
+      "options": [
+        "Tots els actes de tràmit que es dictin durant el procediment",
+        "Els actes que limiten drets i els sancionadors",
+        "Únicament els actes dictats per òrgans col·legiats",
+        "Cap acte, llevat que ho demani expressament l'interessat"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta quan és obligatòria la motivació. Correcta (b): l'art. 35 imposa motivar, entre d'altres, els actes que limiten drets o interessos legítims, els discrecionals, els sancionadors, els que resolen recursos i els que se separen del criteri precedent. Per què no: (a) els actes de tràmit ordinaris no s'han de motivar sempre; (c) no depèn del tipus d'òrgan; (d) la motivació és una garantia que no depèn que es demani. Base: art. 35 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 35 Llei 39/2015"
+    },
+    {
+      "theme": 6,
+      "block": 2,
+      "q": "Una llicència sol·licitada per a un projecte clarament disconforme amb el planejament no es resol en termini. Es pot entendre atorgada per silenci?",
+      "options": [
+        "Sí, perquè en matèria urbanística el silenci sempre és positiu i estimatori",
+        "No, perquè el silenci no atorga mai facultats contràries a l'ordenament",
+        "Sí, pel sol fet que ja han transcorregut més de tres mesos",
+        "No, perquè en matèria urbanística el silenci té sempre sentit negatiu"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el límit del silenci positiu. Correcta (b): encara que el silenci en llicències sigui positiu, EN CAP CAS s'adquireixen per silenci facultats o drets contraris a la legislació o al planejament (art. 11.3 TRLS). Per què no: (a) el silenci positiu té aquest límit infranquejable; (c) el transcurs del termini no sana la il·legalitat; (d) en urbanisme el silenci és, de regla, positiu, amb el límit indicat. Base: art. 11.3 TRLS i art. 24 Llei 39/2015.",
+      "source": "TRLSRU",
+      "article": "art. 11.3 TRLS; art. 24 Llei 39/2015"
+    },
+    {
+      "theme": 7,
+      "block": 2,
+      "q": "Un acte administratiu dictat per un òrgan manifestament incompetent per raó de la matèria és:",
+      "options": [
+        "Anul·lable únicament si arriba a causar indefensió",
+        "Nul de ple dret",
+        "Vàlid si posteriorment l'òrgan competent el convalida",
+        "Una simple irregularitat que no afecta la validesa"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la conseqüència de la incompetència manifesta. Correcta (b): és un supòsit taxat de nul·litat de ple dret (art. 47.1.b): incompetència manifesta per raó de la matèria o del territori; efectes ex tunc i imprescriptible. Per què no: (a) l'anul·labilitat és per a infraccions menys greus; (c) la nul·litat de ple dret NO és convalidable; (d) no és una irregularitat menor sinó el vici més greu. Base: art. 47 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 47 Llei 39/2015"
+    },
+    {
+      "theme": 7,
+      "block": 2,
+      "q": "Un acte té un defecte de forma, però assoleix la seva finalitat i no genera cap indefensió. Quina és la conseqüència?",
+      "options": [
+        "És nul de ple dret amb efectes des de l'origen",
+        "És anul·lable en tot cas per infracció de l'ordenament",
+        "És una irregularitat no invalidant i l'acte és vàlid",
+        "Obliga l'Administració a declarar-lo lesiu"
+      ],
+      "correct": 2,
+      "explain": "Es pregunta l'efecte d'un defecte formal no rellevant. Correcta (c): el defecte de forma només determina anul·labilitat quan l'acte no assoleix la finalitat o causa indefensió (art. 48.2); si no, és una mera irregularitat i l'acte és vàlid. Per què no: (a) la nul·litat és per als supòsits taxats de l'art. 47; (b) no tot defecte de forma anul·la; (d) la lesivitat és la via per anul·lar actes favorables anul·lables, que aquí no s'aplica. Base: art. 48.2 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 48 Llei 39/2015"
+    },
+    {
+      "theme": 7,
+      "block": 2,
+      "q": "A partir de quin moment són eficaços, amb caràcter general, els actes administratius?",
+      "options": [
+        "Des de la publicació íntegra al diari oficial corresponent, sense cap excepció",
+        "Des que es dicten, tret que se'n demori l'eficàcia per notificació o aprovació",
+        "Al cap de tres mesos d'haver-se dictat, si abans no s'han notificat",
+        "Quan l'interessat hi presta la seva conformitat de manera expressa"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el règim d'eficàcia. Correcta (b): els actes produeixen efectes des de la data en què es dicten, tret que el seu contingut disposi una altra cosa o que la seva eficàcia quedi demorada per notificació, publicació o aprovació superior (art. 39). Per què no: (a) la publicació només és necessària en casos taxats; (c) no hi ha cap demora general de tres mesos; (d) l'eficàcia no depèn de la conformitat de l'interessat. Base: art. 39 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 39 Llei 39/2015"
+    },
+    {
+      "theme": 7,
+      "block": 2,
+      "q": "Dins de quin termini s'ha de cursar la notificació d'una resolució a l'interessat?",
+      "options": [
+        "Deu dies a comptar de la data en què es dicta l'acte",
+        "Un mes complet a comptar de la data en què es dicta l'acte",
+        "Tres dies hàbils com a màxim en tots els casos",
+        "No hi ha cap termini fixat legalment per fer-ho"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el termini per notificar. Correcta (a): tota notificació s'ha de cursar dins del termini de deu dies a partir de la data en què l'acte s'ha dictat (art. 40), i ha de contenir el text íntegre, els recursos, l'òrgan i el termini. Per què no: (b), (c) i (d) no es corresponen amb el termini legal. Una notificació defectuosa té efectes des que l'interessat es dóna per assabentat. Base: art. 40 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 40 Llei 39/2015"
+    },
+    {
+      "theme": 8,
+      "block": 2,
+      "q": "Qui té la consideració d'interessat en un procediment administratiu?",
+      "options": [
+        "Únicament la persona que ha iniciat el procediment amb la seva sol·licitud",
+        "Qualsevol veí del municipi pel sol fet de residir-hi, sense més requisit",
+        "Els titulars de drets o interessos legítims que la resolució pugui afectar",
+        "Únicament les persones jurídiques directament afectades per la decisió"
+      ],
+      "correct": 2,
+      "explain": "Es pregunta el concepte d'interessat. Correcta (c): són interessats els que promoguin el procediment com a titulars de drets o interessos legítims, els que tinguin drets que puguin resultar afectats, i aquells els interessos legítims dels quals puguin resultar afectats i es personin (art. 4). Per què no: (a) no només qui inicia; (b) la mera veïnatge no atorga la condició (cal un interès legítim); (d) també persones físiques i entitats sense personalitat. Base: art. 4 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 4 Llei 39/2015"
+    },
+    {
+      "theme": 8,
+      "block": 2,
+      "q": "Un funcionari té un familiar de segon grau amb interès directe en l'assumpte que ha de resoldre. Què ha de fer?",
+      "options": [
+        "Pot intervenir si considera que actuarà amb plena imparcialitat",
+        "Abstenir-se i comunicar-ho al seu superior",
+        "Sol·licitar el permís previ de la persona interessada",
+        "Res, perquè el parentiu mai no constitueix causa d'abstenció"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el deure d'abstenció. Correcta (b): qui concorri en una causa d'abstenció —parentiu de consanguinitat dins del quart grau o interès personal en l'assumpte— s'ha d'abstenir i comunicar-ho al superior (art. 23 Llei 40/2015). Per què no: (a) la causa és objectiva; (c) no és l'interessat qui dispensa; (d) el parentiu dins del quart grau SÍ és causa d'abstenció. Els interessats poden promoure la recusació (art. 24). Base: art. 23 Llei 40/2015.",
+      "source": "L40_2015",
+      "article": "art. 23 Llei 40/2015"
+    },
+    {
+      "theme": 8,
+      "block": 2,
+      "q": "Quins són els principis de bona regulació que ha de respectar la potestat reglamentària?",
+      "options": [
+        "Jerarquia normativa, competència, publicitat, legalitat i interdicció de l'arbitrarietat",
+        "Necessitat, proporcionalitat, seguretat jurídica, transparència i eficiència",
+        "Celeritat, oficialitat, contradicció i economia en la tramitació",
+        "Igualtat, mèrit, capacitat i publicitat en l'accés a la funció"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta els principis de bona regulació. Correcta (b): l'art. 129 enumera necessitat, eficàcia, proporcionalitat, seguretat jurídica, transparència i eficiència. Per què no: (a) són principis de l'ordenament (art. 9.3 CE), no els de bona regulació; (c) són principis del procediment, no de la regulació; (d) són principis d'accés a la funció pública. Base: art. 129 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 129 Llei 39/2015"
+    },
+    {
+      "theme": 8,
+      "block": 2,
+      "q": "Una resolució singular d'un òrgan superior pot deixar sense efecte, per a un cas concret, el que estableix un reglament?",
+      "options": [
+        "Sí, sempre que l'òrgan sigui jeràrquicament superior al que va aprovar el reglament",
+        "No: opera la inderogabilitat singular dels reglaments",
+        "Sí, a condició que la resolució es motivi degudament",
+        "Només quan ho autoritzi expressament la persona interessada"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la relació entre acte i reglament. Correcta (b): les resolucions de caràcter particular no poden vulnerar el que estableix una disposició general, encara que tinguin igual o superior rang (inderogabilitat singular, art. 37). Per què no: (a) i (c) el rang de l'òrgan o la motivació no permeten contravenir el reglament; (d) l'interessat no pot disposar de la legalitat. Base: art. 37 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 37 Llei 39/2015"
+    },
+    {
+      "theme": 9,
+      "block": 2,
+      "q": "Quines són les fases del procediment administratiu comú?",
+      "options": [
+        "Al·legacions, pràctica de la prova i interposició de recursos",
+        "Iniciació, ordenació, instrucció i finalització",
+        "Incoació, audiència prèvia i imposició de la sanció",
+        "Sol·licitud, emissió d'informe i ordenació del pagament"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta l'estructura del procediment. Correcta (b): el Títol IV de la Llei 39/2015 l'estructura en iniciació, ordenació, instrucció i finalització. Per què no: (a) l'al·legació, la prova i els informes són actes DINS de la instrucció; (c) la sanció no és una fase del procediment comú; (d) descriu actuacions concretes, no l'estructura. Base: Títol IV Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "arts. 54-95 Llei 39/2015"
+    },
+    {
+      "theme": 9,
+      "block": 2,
+      "q": "Una sol·licitud no reuneix tots els requisits exigits. Què ha de fer l'Administració i amb quin termini?",
+      "options": [
+        "Arxivar-la directament sense cap altre tràmit",
+        "Requerir-ne l'esmena en un termini de deu dies",
+        "Resoldre-la desestimant-la per defecte de forma",
+        "Concedir un termini de tres mesos per esmenar-la"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el tràmit d'esmena. Correcta (b): cal requerir l'interessat perquè, en deu dies, esmeni la falta o aporti els documents preceptius, amb l'advertiment que si no ho fa se'l tindrà per desistit (art. 68). Per què no: (a) no es pot arxivar sense requerir l'esmena; (c) no escau desestimar sense donar l'oportunitat d'esmenar; (d) el termini és de 10 dies (ampliables fins a 15), no de 3 mesos. Base: art. 68 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 68 Llei 39/2015"
+    },
+    {
+      "theme": 9,
+      "block": 2,
+      "q": "Si la persona requerida per esmenar una sol·licitud no ho fa dins del termini, l'efecte és que:",
+      "options": [
+        "La sol·licitud s'entén estimada per silenci administratiu",
+        "Se la té per desistida, amb la corresponent resolució",
+        "El procediment queda paralitzat fins que l'interessat decideixi reprendre'l",
+        "S'obre directament la via judicial contenciosa"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la conseqüència de no esmenar. Correcta (b): es dicta resolució que té l'interessat per desistit de la seva petició (arts. 68 i 21). Per què no: (a) la inactivitat de l'interessat no genera estimació; (c) l'Administració ha de resoldre, no paralitzar; (d) no s'obre cap via judicial automàtica. Base: arts. 68 i 21 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "arts. 68 i 21 Llei 39/2015"
+    },
+    {
+      "theme": 9,
+      "block": 2,
+      "q": "En defecte de norma específica, quin és el termini màxim per resoldre i notificar un procediment?",
+      "options": [
+        "Trenta dies",
+        "Tres mesos",
+        "Sis mesos",
+        "Dotze mesos"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el termini supletori per resoldre. Correcta (b): quan les normes reguladores no fixin el termini màxim, serà de tres mesos (art. 21.3). Per què no: (a), (c) i (d) no són el termini supletori (alguns procediments, com la responsabilitat patrimonial, tenen 6 mesos per norma pròpia, però la regla general són 3 mesos). Base: art. 21 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 21 Llei 39/2015"
     }
   ]
 }
