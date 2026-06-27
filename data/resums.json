@@ -372,106 +372,83 @@
       "key": "El pressupost el forma l'Alcalde i l'aprova inicialment el Ple; exposició pública 15 dies; aprovació definitiva i publicació resumida al BOP. Estructura: orgànica, per programes i econòmica (capítols 1-9). Impugnació directa al contenciós (art. 171). Pròrroga automàtica si no s'aprova (169.6)."
     },
     "14": {
-      "intro": "Les ordenances i els reglaments són l'expressió de la potestat normativa de les entitats locals (arts. 4 i 84 LRBRL), manifestació de la seva autonomia. A través seu el municipi regula matèries de la seva competència amb subjecció a la llei i a la jerarquia normativa. El procediment d'aprovació es regula a l'art. 49 LRBRL i, a Catalunya, al DL 2/2003.",
+      "intro": "Les ordenances i els reglaments són l'expressió de la potestat normativa de les entitats locals (arts. 4 i 84 LRBRL), manifestació de la seva autonomia. A través seu el municipi regula matèries de la seva competència, amb subjecció a la llei i a la jerarquia normativa. El procediment d'aprovació es regula a l'art. 49 LRBRL i, a Catalunya, al DL 2/2003.",
       "sections": [
         {
           "h": "Classes de normes locals",
-          "scheme": {
-            "cap": "Normes locals",
-            "body": "REGLAMENT ORGÀNIC → autoorganització de l'ens (òrgans,\n  funcionament); s'aprova per majoria absoluta del Ple\nORDENANCES →\n  • FISCALS → regulen els tributs propis (procediment\n    específic dels arts. 15-19 TRLHL)\n  • de policia, convivència, urbanístiques, de serveis...\nREGLAMENTS de serveis o d'activitats\nBANS → de l'Alcalde; recordatoris o mesures puntuals en\n  l'àmbit de les seves competències (no innoven l'ordenament)"
-          }
-        },
-        {
-          "h": "Procediment d'aprovació (art. 49 LRBRL)",
-          "scheme": {
-            "cap": "Aprovació d'ordenances/reglaments",
-            "body": "1) APROVACIÓ INICIAL pel Ple\n2) INFORMACIÓ pública i audiència als interessats: mínim\n   30 dies per a la presentació de reclamacions i suggeriments\n3) Resolució de totes les reclamacions + APROVACIÓ DEFINITIVA\n   (si NO se'n presenten, l'acord inicial esdevé DEFINITIU\n    automàticament)\n4) PUBLICACIÓ ÍNTEGRA del text al BOP\n5) Entrada en vigor un cop transcorregut el termini de\n   l'art. 65.2 LRBRL (15 dies hàbils des de la comunicació\n   a l'Administració de l'Estat i de la CA)"
-          }
-        },
-        {
-          "h": "Especialitats i tramitació prèvia",
-          "p": "Abans de l'aprovació inicial, la potestat normativa exigeix els tràmits de participació de la Llei 39/2015: consulta pública prèvia (art. 133) i, segons el cas, memòria i informes. Les ordenances fiscals segueixen el procediment propi del TRLHL (aprovació provisional, exposició 30 dies amb anunci al BOP i, si escau, en un diari, i aprovació definitiva)."
-        },
-        {
-          "h": "Límits",
-          "p": "Les ordenances no poden contenir preceptes oposats a les lleis (principi de jerarquia i de reserva de llei en matèria sancionadora i tributària). La potestat sancionadora local s'exerceix dins els límits que fixa la LRBRL (arts. 139-141) quan no hi ha llei sectorial específica."
-        },
-        {
-          "key": "Sense reclamacions durant la informació pública, l'acord d'aprovació inicial esdevé definitiu sense necessitat de nou acord. Cal publicació íntegra al BOP per a l'entrada en vigor."
-        }
-      ],
-      "key": "Normes locals: reglament orgànic, ordenances (fiscals i altres) i bans. Procediment (art. 49): aprovació inicial → 30 dies d'informació pública → aprovació definitiva → publicació íntegra al BOP → vigència (art. 65.2)."
-    },
-    "15": {
-      "intro": "La contractació administrativa és l'activitat per la qual el sector públic obté de tercers obres, subministraments i serveis o gestiona serveis i obres. La regula la Llei 9/2017, de contractes del sector públic (LCSP), que transposa les directives europees 2014/23/UE i 2014/24/UE. La incidència del dret de la UE és intensa: imposa principis i llindars de regulació harmonitzada.",
-      "sections": [
-        {
-          "h": "Principis bàsics",
-          "scheme": {
-            "cap": "Principis (art. 1 LCSP)",
-            "body": "LLIBERTAT D'ACCÉS a les licitacions\nPUBLICITAT i TRANSPARÈNCIA dels procediments\nNO-DISCRIMINACIÓ i IGUALTAT de tracte\nINTEGRITAT\nús EFICIENT dels fons (millor relació qualitat-preu)\n+ salvaguarda de la lliure competència\n+ contractació estratègica (criteris socials i ambientals)"
-          }
-        },
-        {
-          "h": "Àmbit subjectiu",
-          "scheme": {
-            "cap": "Sector públic (art. 3)",
-            "body": "ADMINISTRACIONS PÚBLIQUES (subjecció plena)\nPODERS ADJUDICADORS que NO són AP (instruccions internes\n  + part de la LCSP)\nRESTA d'ENTITATS del sector públic\n→ a efectes de fons europeus i directives, el concepte clau\n  és el de 'poder adjudicador'"
-          }
-        },
-        {
-          "h": "Classificació dels contractes i règim jurídic",
-          "scheme": {
-            "cap": "Contractes típics",
-            "body": "OBRES → construcció/rehabilitació d'un immoble\nCONCESSIÓ D'OBRES → obra + explotació amb RISC operacional\nSUBMINISTRAMENT → béns mobles\nSERVEIS → prestacions de fer\nCONCESSIÓ DE SERVEIS → gestió de servei amb RISC operacional\n+ contractes MIXTOS; contractes administratius vs privats"
-          }
-        },
-        {
-          "h": "Contractes SARA",
-          "p": "Els contractes subjectes a regulació harmonitzada (SARA) són els que, pel seu tipus i valor estimat, superen els llindars de les directives; tenen exigències reforçades (publicitat al DOUE, recurs especial en matèria de contractació). El valor estimat (art. 101) es calcula sense IVA i inclou pròrrogues i modificacions previstes; determina el procediment i la publicitat."
-        },
-        {
-          "key": "LCSP = Llei 9/2017 (transposició UE). Principis: accés, publicitat, igualtat, integritat, eficiència. Tipus: obres, concessió d'obres, subministrament, serveis, concessió de serveis. SARA segons llindars."
-        }
-      ],
-      "key": "Contractació: LCSP 9/2017. Principis art. 1 (accés, publicitat, igualtat, eficiència). Àmbit: AP, poders adjudicadors i sector públic. Contractes: obres, concessió d'obres, subministrament, serveis, concessió de serveis. SARA (DOUE)."
-    },
-    "16": {
-      "intro": "La protecció de les dades personals és un dret fonamental (art. 18.4 CE) regulat pel Reglament (UE) 2016/679 (RGPD), d'aplicació directa, i per la Llei orgànica 3/2018, de protecció de dades personals i garantia dels drets digitals (LOPDGDD). Tota administració és responsable dels tractaments que duu a terme.",
-      "sections": [
-        {
-          "h": "Principis del tractament",
-          "scheme": {
-            "cap": "Principis (art. 5 RGPD)",
-            "body": "LICITUD, LLEIALTAT i TRANSPARÈNCIA\nLIMITACIÓ de la FINALITAT (fins determinats i legítims)\nMINIMITZACIÓ de dades (les adequades i necessàries)\nEXACTITUD (dades actualitzades)\nLIMITACIÓ del termini de CONSERVACIÓ\nINTEGRITAT i CONFIDENCIALITAT (seguretat)\n+ RESPONSABILITAT PROACTIVA (accountability): el responsable\n  ha de poder DEMOSTRAR el compliment"
-          }
-        },
-        {
-          "h": "Bases de licitud i dades especials",
-          "p": "Tot tractament necessita una base jurídica (art. 6): consentiment, execució d'un contracte, compliment d'una obligació legal, interès vital, missió d'interès públic o exercici de poders públics, o interès legítim. Al sector públic, la base sol ser l'obligació legal o la missió d'interès públic (no l'interès legítim). Les categories especials de dades (art. 9: origen ètnic, opinions polítiques, conviccions, afiliació sindical, dades genètiques, biomètriques, de salut, vida o orientació sexual) tenen prohibició general de tractament, llevat d'excepcions taxades."
-        },
-        {
-          "h": "Drets de les persones",
-          "scheme": {
-            "cap": "Drets (arts. 15-22 RGPD)",
-            "body": "ACCÉS · RECTIFICACIÓ · SUPRESSIÓ (dret a l'oblit, art. 17)\nLIMITACIÓ del tractament · OPOSICIÓ · PORTABILITAT\n+ no ser objecte de decisions individuals automatitzades\nS'exerceixen davant el responsable, que ha de respondre\n  (en general, en 1 mes)"
-          }
-        },
-        {
-          "h": "Obligacions i garanties",
           "list": [
-            "Designació obligatòria de Delegat de Protecció de Dades (DPD) al sector públic (art. 37).",
-            "Registre d'activitats de tractament (art. 30).",
-            "Mesures de seguretat tècniques i organitzatives; protecció des del disseny i per defecte.",
-            "Avaluació d'impacte (AIPD, art. 35) quan el tractament comporti alt risc.",
-            "Notificació de violacions de seguretat a l'autoritat (AEPD/APDCAT) sense dilació indeguda, en 72 h (art. 33)."
+            "Reglament orgànic: regula l'autoorganització de l'ens (organització i funcionament dels òrgans complementaris i règim dels membres). La seva aprovació o modificació exigeix majoria absoluta del Ple.",
+            "Ordenances: regulen activitats i relacions amb la ciutadania. Entre elles, les ordenances fiscals (que regulen els tributs propis, amb el procediment específic dels arts. 15-19 TRLHL) i les ordenances de policia, convivència, urbanístiques o de serveis.",
+            "Reglaments de serveis o d'activitats.",
+            "Bans: els dicta l'Alcalde en l'àmbit de les seves competències, amb caràcter de recordatori del compliment de normes o per adoptar mesures en situacions de necessitat; no innoven l'ordenament."
           ]
         },
         {
-          "key": "Categories especials (art. 9), com la salut, tenen protecció reforçada: publicar-les sense empara és il·lícit. El DPD és obligatori a les administracions públiques."
+          "h": "Procediment d'aprovació (art. 49 LRBRL)",
+          "p": "La tramitació ordinària consta de tres passos: 1) aprovació inicial pel Ple; 2) informació pública i audiència a les persones interessades durant un termini mínim de trenta dies, per a la presentació de reclamacions i suggeriments; 3) resolució de totes les reclamacions i suggeriments presentats i aprovació definitiva pel Ple. Un cas important: si no es presenta cap reclamació ni suggeriment durant el període d'informació pública, l'acord d'aprovació inicial s'entén elevat a definitiu de manera automàtica, sense necessitat d'un nou acord."
+        },
+        {
+          "h": "Publicació i entrada en vigor",
+          "p": "L'acord d'aprovació definitiva i el text íntegre de l'ordenança o reglament s'han de publicar al Butlletí Oficial de la Província (BOP). La norma entra en vigor un cop publicat completament el seu text i transcorregut el termini de quinze dies hàbils previst a l'art. 65.2 LRBRL (termini durant el qual l'Estat i la comunitat autònoma poden requerir l'anul·lació d'acords que considerin il·legals). Les ordenances fiscals segueixen el procediment propi del TRLHL (aprovació provisional, exposició al públic de trenta dies i aprovació definitiva)."
+        },
+        {
+          "h": "Tràmits previs i límits",
+          "p": "Abans de l'aprovació inicial, l'exercici de la potestat normativa local incorpora els tràmits de participació de la Llei 39/2015, com la consulta pública prèvia (art. 133). Les ordenances no poden contenir preceptes oposats a les lleis (jerarquia normativa) ni regular matèries reservades a la llei. En matèria sancionadora, la potestat local s'exerceix dins els límits dels arts. 139-141 LRBRL quan no hi ha una llei sectorial específica que tipifiqui infraccions i sancions."
         }
       ],
-      "key": "RGPD + LO 3/2018. Principis art. 5 (+accountability). Bases art. 6; categories especials art. 9 (salut...). Drets ARSOPOL (15-22). DPD obligatori al sector públic; bretxes en 72 h; AIPD si alt risc."
+      "key": "Normes locals: reglament orgànic (majoria absoluta), ordenances (fiscals i altres) i bans de l'Alcalde. Procediment (art. 49): aprovació inicial → informació pública mínim 30 dies → aprovació definitiva (automàtica si no hi ha reclamacions) → publicació íntegra al BOP → vigència (art. 65.2, 15 dies hàbils)."
+    },
+    "15": {
+      "intro": "La contractació administrativa és l'activitat per la qual el sector públic obté de tercers obres, subministraments i serveis o els encarrega la gestió de serveis i obres. La regula la Llei 9/2017, de contractes del sector públic (LCSP), que transposa les directives europees 2014/23/UE i 2014/24/UE. La incidència del dret de la UE és intensa: imposa principis i llindars de regulació harmonitzada.",
+      "sections": [
+        {
+          "h": "Principis bàsics",
+          "p": "L'art. 1 LCSP estableix els principis rectors: la llibertat d'accés a les licitacions, la publicitat i la transparència dels procediments, la no-discriminació i la igualtat de tracte entre els licitadors, i l'ús eficient dels fons públics mitjançant l'exigència de la millor relació qualitat-preu. S'hi afegeixen la salvaguarda de la lliure competència i la incorporació de criteris socials i ambientals (contractació estratègica)."
+        },
+        {
+          "h": "Àmbit subjectiu",
+          "p": "La LCSP s'aplica al sector públic amb una intensitat graduada: les administracions públiques queden subjectes plenament; els poders adjudicadors que no són administració pública apliquen una part de la llei; i la resta d'entitats del sector públic, un règim més lleuger. El concepte clau, a efectes europeus, és el de 'poder adjudicador'."
+        },
+        {
+          "h": "Classificació dels contractes",
+          "p": "Els contractes típics són: el contracte d'obres (construcció o rehabilitació d'un bé immoble); la concessió d'obres (construcció i explotació de l'obra assumint el risc operacional); el contracte de subministrament (adquisició de béns mobles); el contracte de serveis (prestacions de fer); i la concessió de serveis (gestió d'un servei amb transferència del risc operacional). Hi ha també contractes mixtos. Segons el règim jurídic, els contractes poden ser administratius (els típics i altres vinculats al servei públic) o privats."
+        },
+        {
+          "h": "Valor estimat i contractes SARA",
+          "p": "El valor estimat del contracte (art. 101) es calcula sense IVA i inclou les pròrrogues i les modificacions previstes; és la magnitud que determina el procediment aplicable i la publicitat. Els contractes subjectes a regulació harmonitzada (SARA) són els que, pel seu tipus i pel fet de superar els llindars fixats per les directives, tenen exigències reforçades: publicitat al Diari Oficial de la Unió Europea (DOUE) i possibilitat del recurs especial en matèria de contractació."
+        }
+      ],
+      "key": "Contractació: LCSP (Llei 9/2017, transposició UE). Principis (art. 1): accés, publicitat i transparència, igualtat i no-discriminació, eficiència. Àmbit: administracions, poders adjudicadors i sector públic. Contractes: obres, concessió d'obres, subministrament, serveis i concessió de serveis. Valor estimat (101) → SARA (DOUE)."
+    },
+    "16": {
+      "intro": "La protecció de les dades personals és un dret fonamental (art. 18.4 CE) regulat pel Reglament (UE) 2016/679 (RGPD), d'aplicació directa, i per la Llei orgànica 3/2018, de protecció de dades personals i garantia dels drets digitals (LOPDGDD). Tota administració és responsable dels tractaments de dades que duu a terme.",
+      "sections": [
+        {
+          "h": "Principis del tractament (art. 5 RGPD)",
+          "list": [
+            "Licitud, lleialtat i transparència: les dades es tracten de manera lícita, lleial i transparent.",
+            "Limitació de la finalitat: es recullen amb finalitats determinades, explícites i legítimes.",
+            "Minimització de dades: les adequades, pertinents i limitades al necessari.",
+            "Exactitud: dades exactes i actualitzades.",
+            "Limitació del termini de conservació: no més temps del necessari.",
+            "Integritat i confidencialitat: seguretat adequada.",
+            "Responsabilitat proactiva (accountability): el responsable ha de poder demostrar el compliment de tots aquests principis."
+          ]
+        },
+        {
+          "h": "Bases de licitud i categories especials",
+          "p": "Tot tractament necessita una base jurídica (art. 6): el consentiment, l'execució d'un contracte, el compliment d'una obligació legal, la protecció d'interessos vitals, el compliment d'una missió d'interès públic o l'exercici de poders públics, o l'interès legítim. Al sector públic, la base habitual és l'obligació legal o la missió d'interès públic (no l'interès legítim). Les categories especials de dades (art. 9: origen ètnic o racial, opinions polítiques, conviccions, afiliació sindical, dades genètiques i biomètriques, de salut, de vida o orientació sexual) tenen una prohibició general de tractament, llevat d'excepcions taxades; publicar-les sense empara és il·lícit."
+        },
+        {
+          "h": "Drets de les persones",
+          "p": "Les persones interessades poden exercir davant el responsable els drets d'accés, rectificació, supressió ('dret a l'oblit', art. 17), limitació del tractament, oposició i portabilitat, i el dret a no ser objecte de decisions individuals automatitzades (arts. 15-22). El responsable ha d'atendre'ls, en general, en el termini d'un mes."
+        },
+        {
+          "h": "Obligacions de l'Administració",
+          "p": "Com a responsable del tractament, l'Administració ha de: designar un Delegat de Protecció de Dades (DPD), obligatori al sector públic (art. 37); mantenir un registre de les activitats de tractament (art. 30); aplicar mesures de seguretat tècniques i organitzatives i els principis de protecció des del disseny i per defecte; dur a terme una avaluació d'impacte (AIPD) quan el tractament comporti un alt risc (art. 35); i notificar les violacions de seguretat a l'autoritat de control (l'APDCAT a Catalunya) sense dilació indeguda i, si és possible, en un termini de 72 hores (art. 33)."
+        }
+      ],
+      "key": "RGPD + LO 3/2018. Principis (art. 5) i responsabilitat proactiva. Bases (art. 6); categories especials (art. 9, com la salut) amb protecció reforçada. Drets ARSOPOL (15-22). DPD obligatori al sector públic; registre d'activitats; AIPD si alt risc; bretxes notificades en 72 h."
     },
     "30": {
       "intro": "La contractació menor és un procediment simplificat d'adjudicació directa per a contractes de poca quantia. Es regula a l'art. 118 LCSP i és molt freqüent en la gestió municipal ordinària.",
@@ -638,100 +615,75 @@
       "key": "CAE = art. 24 LPRL + RD 171/2004. Cooperació i informació entre empreses concurrents; deure de vigilància de l'empresari principal."
     },
     "17": {
-      "intro": "La funció pública local s'organitza al voltant de l'accés, la selecció, la provisió de llocs i les classes de personal. El marc bàsic és el text refós de l'Estatut bàsic de l'empleat públic (RDL 5/2015, TREBEP), desplegat per la legislació autonòmica (DL 2/2003 i normativa de funció pública de Catalunya).",
+      "intro": "La funció pública local s'organitza al voltant de l'accés, la selecció, la provisió de llocs i les classes de personal. El marc bàsic és el text refós de l'Estatut bàsic de l'empleat públic (RDL 5/2015, TREBEP), desplegat per la legislació autonòmica i de règim local.",
       "sections": [
         {
           "h": "Classes de personal (art. 8 TREBEP)",
-          "scheme": {
-            "cap": "Empleats públics",
-            "body": "FUNCIONARI DE CARRERA → relació estatutària permanent;\n  funcions que impliquen exercici d'autoritat o salvaguarda\n  d'interessos generals es reserven a funcionaris\nFUNCIONARI INTERÍ → temporal, per necessitat i urgència\n  justificades (vacant, substitució, programa temporal,\n  excés de tasques)\nPERSONAL LABORAL → fix, indefinit o temporal (dret laboral\n  + conveni)\nPERSONAL EVENTUAL → confiança o assessorament especial;\n  nomenament i cessament lliures"
-          }
+          "list": [
+            "Funcionari de carrera: vinculat per una relació estatutària de dret administratiu de caràcter permanent. Les funcions que impliquen exercici d'autoritat o salvaguarda dels interessos generals es reserven als funcionaris.",
+            "Funcionari interí: nomenat, per raons expressament justificades de necessitat i urgència, per exercir funcions pròpies de funcionari de carrera (existència de places vacants, substitució transitòria, programes de caràcter temporal o excés o acumulació de tasques).",
+            "Personal laboral: fix, indefinit o temporal, vinculat per un contracte de treball i regit per la legislació laboral i el conveni col·lectiu.",
+            "Personal eventual: exerceix funcions de confiança o assessorament especial; el seu nomenament i cessament són lliures."
+          ]
         },
         {
-          "h": "Oferta pública d'ocupació i selecció",
-          "p": "Les necessitats de recursos humans amb dotació pressupostària que s'hagin de proveir amb nou personal s'articulen a través de l'oferta pública d'ocupació (OPO), que s'aprova i publica anualment (art. 70) i s'ha d'executar dins el termini legal. L'accés es regeix pels principis d'igualtat, mèrit, capacitat i publicitat (art. 55), a més d'altres com la transparència, la imparcialitat dels òrgans de selecció i l'agilitat."
+          "h": "L'oferta pública d'ocupació",
+          "p": "Les necessitats de recursos humans amb assignació pressupostària que s'hagin de proveir amb personal de nou ingrés s'articulen mitjançant l'oferta pública d'ocupació (OPO), que s'aprova pels òrgans de govern i es publica al diari oficial; s'ha d'executar dins el termini legalment establert. L'OPO és l'instrument de planificació de l'accés a l'ocupació pública."
         },
         {
-          "h": "Sistemes selectius",
-          "scheme": {
-            "cap": "Sistemes (art. 61)",
-            "body": "OPOSICIÓ → proves selectives\nCONCURS-OPOSICIÓ → proves + valoració de mèrits\nCONCURS (només mèrits) → caràcter EXCEPCIONAL\nÒrgans de selecció: col·legiats, professionals, amb paritat\n  i sense personal d'elecció o de designació política"
-          }
+          "h": "Principis i sistemes de selecció",
+          "p": "L'accés a l'ocupació pública es regeix pels principis constitucionals d'igualtat, mèrit i capacitat, a més de la publicitat de les convocatòries, la transparència, la imparcialitat i professionalitat dels òrgans de selecció i l'adequació entre el contingut dels processos i les funcions a desenvolupar (art. 55). Els sistemes selectius (art. 61) són l'oposició i el concurs-oposició, com a ordinaris, i el concurs (només valoració de mèrits) amb caràcter excepcional."
         },
         {
           "h": "Adquisició i pèrdua de la condició de funcionari",
-          "p": "L'adquisició (art. 62) exigeix: superar el procés selectiu, nomenament per l'òrgan competent, jurament o promesa, i presa de possessió dins el termini. La pèrdua (art. 63) es produeix per renúncia, pèrdua de la nacionalitat, jubilació, sanció disciplinària de separació del servei, o pena principal o accessòria d'inhabilitació absoluta o especial."
-        },
-        {
-          "key": "Classes: carrera, interí, laboral, eventual. Funcions d'autoritat → reservades a funcionaris. OPO anual. Accés: igualtat, mèrit, capacitat, publicitat. Sistemes: oposició, concurs-oposició i concurs (excepcional)."
+          "p": "La condició de funcionari de carrera s'adquireix amb el compliment successiu de quatre requisits (art. 62): superació del procés selectiu, nomenament per l'òrgan competent, prestació del jurament o promesa, i presa de possessió dins el termini. Es perd (art. 63) per renúncia, per pèrdua de la nacionalitat, per jubilació total, per la sanció disciplinària de separació del servei que tingui caràcter ferm, o per la pena principal o accessòria d'inhabilitació absoluta o especial."
         }
       ],
-      "key": "Funció pública (TREBEP). Personal: carrera, interí, laboral, eventual. OPO anual (art. 70). Accés: igualtat/mèrit/capacitat/publicitat (55). Sistemes: oposició, concurs-oposició, concurs (excepcional). Adquisició art. 62 / pèrdua art. 63."
+      "key": "Funció pública (TREBEP). Classes (art. 8): funcionari de carrera, interí, laboral i eventual; les funcions d'autoritat es reserven a funcionaris. OPO com a instrument d'accés. Principis: igualtat, mèrit, capacitat i publicitat (55). Sistemes: oposició, concurs-oposició i concurs (excepcional, 61). Adquisició (62) i pèrdua (63)."
     },
     "18": {
       "intro": "Els drets i deures del personal, el sistema retributiu i les situacions administratives completen el règim estatutari de l'empleat públic, regulat al TREBEP.",
       "sections": [
         {
           "h": "Drets",
-          "list": [
-            "Drets individuals (art. 14): inamovibilitat (funcionari de carrera), exercici de les funcions, progressió en la carrera, retribucions, vacances, permisos i llicències, formació, no-discriminació, jubilació, etc.",
-            "Drets individuals exercits col·lectivament (art. 15): llibertat sindical, negociació col·lectiva, participació, reunió, i vaga garantint el manteniment dels serveis essencials."
-          ]
+          "p": "Els drets individuals (art. 14) inclouen la inamovibilitat en la condició de funcionari de carrera, l'exercici efectiu de les funcions, la progressió en la carrera professional, la percepció de les retribucions, les vacances, els permisos i les llicències, la formació contínua i la no-discriminació. Els drets individuals exercits col·lectivament (art. 15) comprenen la llibertat sindical, la negociació col·lectiva, la participació en la determinació de les condicions de treball, el dret de reunió i el dret de vaga, garantint en aquest cas el manteniment dels serveis essencials."
         },
         {
           "h": "Deures i codi de conducta",
-          "p": "Els empleats públics han de servir amb objectivitat els interessos generals i actuar d'acord amb els principis ètics (objectivitat, integritat, neutralitat, responsabilitat, imparcialitat, confidencialitat, dedicació al servei, transparència, exemplaritat) i de conducta (arts. 52-54). El seu incompliment pot tenir conseqüències disciplinàries."
+          "p": "Els empleats públics han de servir amb objectivitat els interessos generals i actuar d'acord amb els principis ètics (objectivitat, integritat, neutralitat, responsabilitat, imparcialitat, confidencialitat, dedicació al servei públic, transparència, exemplaritat i austeritat) i de conducta que estableixen els arts. 52 a 54. El seu incompliment pot donar lloc a responsabilitat disciplinària."
         },
         {
           "h": "Sistema retributiu",
-          "scheme": {
-            "cap": "Retribucions (arts. 22-24)",
-            "body": "BÀSIQUES → SOU (segons grup de classificació) + TRIENNIS\n  (+ pagues extraordinàries: dues a l'any)\nCOMPLEMENTÀRIES →\n  • complement de DESTINACIÓ (nivell del lloc, 1-30)\n  • complement ESPECÍFIC (condicions particulars del lloc:\n    dificultat, dedicació, responsabilitat, perillositat...)\n  • PRODUCTIVITAT (rendiment)\n  • GRATIFICACIONS per serveis extraordinaris\nGrups de classificació (art. 76): A1, A2, B, C1, C2"
-          }
+          "p": "Les retribucions es divideixen en bàsiques i complementàries (arts. 22-24). Les bàsiques són el sou (assignat a cada grup o subgrup de classificació) i els triennis (per cada tres anys de servei), més les pagues extraordinàries (dues a l'any). Les complementàries inclouen el complement de destinació (corresponent al nivell del lloc de treball, dins una escala del 1 al 30), el complement específic (que retribueix les condicions particulars del lloc: especial dificultat tècnica, dedicació, responsabilitat, incompatibilitat, perillositat o penositat), el complement de productivitat (rendiment, interès o iniciativa) i les gratificacions per serveis extraordinaris."
         },
         {
           "h": "Situacions administratives (art. 85)",
-          "scheme": {
-            "cap": "Situacions",
-            "body": "SERVEI ACTIU\nSERVEIS ESPECIALS (càrrecs, missions...)\nSERVEI EN ALTRES ADMINISTRACIONS\nEXCEDÈNCIA → voluntària (per interès particular, agrupació\n  familiar), per cura de fills o familiars, forçosa, per\n  raó de violència de gènere\nSUSPENSIÓ DE FUNCIONS (provisional o ferma)"
-          }
-        },
-        {
-          "key": "Retribucions bàsiques (sou + triennis) i complementàries (destinació + específic + productivitat + gratificacions). Carrera (art. 16): horitzontal i vertical. Vacances: 22 dies hàbils."
+          "p": "El funcionari pot trobar-se en alguna d'aquestes situacions: servei actiu; serveis especials (per ocupar determinats càrrecs o missions); servei en altres administracions públiques; excedència (voluntària per interès particular o per agrupació familiar, per cura de fills o de familiars, forçosa, o per raó de violència de gènere); i suspensió de funcions (provisional o ferma, aquesta com a sanció disciplinària)."
         }
       ],
-      "key": "Drets (14-15) i deures/codi de conducta (52-54). Retribucions: bàsiques (sou+triennis) i complementàries (destinació, específic, productivitat, gratificacions); grups A1-C2. Situacions (85): actiu, serveis especials, excedència, suspensió."
+      "key": "Drets individuals (14) i col·lectius (15, inclosa la vaga amb serveis essencials); deures i codi de conducta (52-54). Retribucions: bàsiques (sou + triennis + pagues extres) i complementàries (destinació, específic, productivitat, gratificacions); grups A1-C2. Situacions (85): actiu, serveis especials, excedència i suspensió."
     },
     "19": {
-      "intro": "Els convenis interadministratius són instruments de col·laboració voluntària entre administracions (o amb subjectes de dret privat) per a una finalitat comuna. Es regulen als arts. 47-53 de la Llei 40/2015 i, en l'àmbit local, també en la legislació de règim local.",
+      "intro": "Els convenis interadministratius són instruments de col·laboració voluntària entre administracions (o amb subjectes de dret privat) per assolir una finalitat comuna. Es regulen als arts. 47 a 53 de la Llei 40/2015 i, en l'àmbit local, també en la legislació de règim local.",
       "sections": [
         {
           "h": "Concepte i tipus",
-          "scheme": {
-            "cap": "Convenis (Llei 40/2015)",
-            "body": "INTERADMINISTRATIUS → entre administracions\nINTRADMINISTRATIUS / amb organismes propis\nAmb PARTICULARS (persones de dret privat)\nNO constitutius de tractat internacional\n→ produeixen efectes jurídics i obliguen les parts"
-          }
+          "p": "El conveni és un acord amb efectes jurídics adoptat per les administracions, els organismes públics o les entitats de dret públic entre si o amb subjectes de dret privat, per a una finalitat comuna. La Llei 40/2015 distingeix els convenis interadministratius, els signats entre una administració i un organisme o entitat propi, els convenis amb particulars i els no constitutius de tractat internacional."
         },
         {
           "h": "Límit essencial",
-          "p": "Els convenis NO poden tenir per objecte prestacions pròpies dels contractes (art. 47.1): en aquest cas, la seva naturalesa i règim jurídic s'ajusten a la LCSP. Aquesta regla evita que el conveni s'utilitzi per eludir les regles de la contractació pública."
+          "p": "Els convenis no poden tenir per objecte prestacions pròpies dels contractes (art. 47.1): si fos així, la seva naturalesa i règim jurídic s'ajustarien a la legislació de contractes del sector públic. Aquesta regla impedeix utilitzar el conveni com a via per eludir les exigències de la contractació pública (publicitat, concurrència)."
         },
         {
           "h": "Contingut, durada i eficàcia",
-          "scheme": {
-            "cap": "Règim del conveni",
-            "body": "CONTINGUT mínim (art. 49): subjectes i capacitat,\n  competència, objecte i actuacions, obligacions econòmiques,\n  mecanismes de SEGUIMENT i control, règim de modificació,\n  durada i causes d'extinció\nDURADA → màxim 4 anys, prorrogable fins a 4 anys més\nEFICÀCIA → des de la signatura (o inscripció/publicitat\n  segons el cas); si comporta compromisos econòmics, cal\n  consignació pressupostària\nCONTROL → tramesa al Tribunal/Sindicatura de Comptes si\n  superen determinats imports"
-          }
+          "p": "El conveni ha de tenir un contingut mínim (art. 49): identificació dels signants i la seva capacitat, competència en què s'actua, objecte i actuacions, obligacions i compromisos econòmics, conseqüències de l'incompliment, mecanismes de seguiment i control de l'execució, règim de modificació i durada amb les causes d'extinció. La durada màxima és de quatre anys, prorrogables fins a quatre anys més. Per a la seva eficàcia, els convenis es perfeccionen amb la signatura; si comporten compromisos econòmics, requereixen la consignació pressupostària corresponent."
         },
         {
-          "h": "Extinció",
-          "p": "Els convenis s'extingeixen pel compliment, o per resolució (transcurs del termini sense pròrroga, acord unànime, incompliment, decisió judicial, o altres causes previstes). L'incompliment pot generar la indemnització pactada."
-        },
-        {
-          "key": "Els convenis no substitueixen els contractes. Durada màxima 4 + 4 anys. Han de preveure mecanismes de seguiment i control i, si tenen contingut econòmic, consignació i remissió a la Sindicatura de Comptes."
+          "h": "Control i extinció",
+          "p": "Els convenis que comportin compromisos financers superiors a determinats imports s'han de remetre al Tribunal de Comptes o, si escau, a la Sindicatura de Comptes (art. 53). S'extingeixen pel compliment de les actuacions o per incórrer en causa de resolució (transcurs del termini sense pròrroga, acord unànime, incompliment d'obligacions, decisió judicial o altres causes previstes). L'incompliment pot donar lloc a la indemnització pactada."
         }
       ],
-      "key": "Convenis (47-53 Llei 40/2015): col·laboració per a fi comú; no poden tenir objecte propi de contractes. Contingut mínim (seguiment, modificació, extinció). Durada 4+4 anys. Control de la Sindicatura si superen imports."
+      "key": "Convenis (47-53 Llei 40/2015): col·laboració per a una finalitat comuna; NO poden tenir per objecte prestacions pròpies dels contractes. Contingut mínim (seguiment, modificació, extinció). Durada màxima 4 + 4 anys. Control de la Sindicatura/Tribunal de Comptes si superen imports."
     },
     "20": {
       "intro": "Els contractes del sector públic es regeixen pels principis generals de la LCSP, que estableix també els contractes exclosos del seu àmbit i els procediments d'adjudicació. La preparació i l'adjudicació han de garantir publicitat, transparència i concurrència.",
