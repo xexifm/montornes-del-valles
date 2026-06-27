@@ -1417,127 +1417,120 @@
       "key": "Protecció de la legalitat urbanística (ajuntaments + Generalitat): inspecció (agents de l'autoritat) + suspensió cautelar + legalització o restauració de la realitat alterada. És independent i compatible amb el procediment sancionador. Restauració: 6 anys (imprescriptible en SNU protegit)."
     },
     "59": {
-      "intro": "Intervenció i control administratiu de les activitats amb incidència ambiental (Llei 20/2009, PCAA).",
+      "intro": "La intervenció i el control administratiu de les activitats amb incidència ambiental a Catalunya es regulen per la Llei 20/2009, de prevenció i control ambiental de les activitats (PCAA), que gradua els règims d'intervenció segons la incidència ambiental de cada activitat.",
       "sections": [
         {
-          "h": "Règims segons incidència",
-          "scheme": {
-            "cap": "Règims d'intervenció ambiental",
-            "body": "ALTA incidència (annex I) → AUTORITZACIÓ ambiental\nMITJANA (annex II) → LLICÈNCIA ambiental (municipal)\nBAIXA (annex III) → règim de COMUNICACIÓ\n→ control previ (autorització/llicència) vs posterior"
-          }
+          "h": "Règims d'intervenció segons la incidència",
+          "list": [
+            "Activitats d'alta incidència ambiental (annex I): se sotmeten a autorització ambiental, atorgada per la Generalitat, que integra els diferents vectors ambientals (i, si escau, l'avaluació d'impacte ambiental).",
+            "Activitats de mitjana incidència (annex II): se sotmeten a llicència ambiental, atorgada per l'ajuntament, amb un control previ municipal.",
+            "Activitats de baixa incidència (annex III): se sotmeten al règim de comunicació (declaració responsable o comunicació prèvia), amb control posterior."
+          ]
         },
         {
-          "h": "Procediment",
-          "list": [
-            "Inclou avaluació ambiental quan escau, informes sectorials i, si cal, informació pública.",
-            "Controls periòdics per verificar el manteniment de les condicions."
-          ]
+          "h": "Procediment i avaluació ambiental",
+          "p": "Els procediments d'autorització i de llicència ambiental incorporen, segons el cas, l'avaluació d'impacte ambiental, els informes dels organismes sectorials competents (aigües, residus, emissions, etc.) i, quan escau, la informació pública. La resolució fixa les condicions de funcionament i les mesures correctores que ha de complir l'activitat."
+        },
+        {
+          "h": "Controls i règim sancionador",
+          "p": "Les activitats sotmeses a autorització o llicència estan subjectes a controls ambientals periòdics que verifiquen el manteniment de les condicions imposades. L'incompliment de la normativa o de les condicions pot donar lloc a l'exercici de la potestat sancionadora i, en casos greus, a la suspensió o el tancament de l'activitat. La comunicació prèvia inexacta o falsa impedeix la continuïtat de l'activitat des que se'n té constància."
         }
       ],
-      "key": "Llei 20/2009: autorització (alta), llicència (mitjana) i comunicació (baixa) segons la incidència ambiental."
+      "key": "Llei 20/2009 (PCAA): autorització ambiental (alta incidència, annex I, Generalitat), llicència ambiental (mitjana, annex II, ajuntament, control previ) i règim de comunicació (baixa, annex III, control posterior). Controls ambientals periòdics i règim sancionador."
     },
     "60": {
-      "intro": "Espectacles públics i activitats recreatives: llicència d'establiments oberts al públic i comunicació prèvia (Llei 11/2009).",
+      "intro": "Els espectacles públics i les activitats recreatives a Catalunya es regulen per la Llei 11/2009 i el seu reglament, que estableixen els règims d'intervenció (llicència o comunicació) i les condicions de seguretat dels establiments oberts al públic.",
       "sections": [
         {
-          "h": "Intervenció",
-          "scheme": {
-            "cap": "Espectacles i activitats recreatives",
-            "body": "SEGONS aforament, risc i tipus d'establiment →\n   • LLICÈNCIA municipal (control previ)\n   • COMUNICACIÓ prèvia (activitats de menor risc)\nCONDICIONS → seguretat, aforament, horaris, accessibilitat\nCONTROL → inspecció i, si escau, sanció"
-          }
+          "h": "Àmbit i règims d'intervenció",
+          "p": "La Llei 11/2009 regula l'organització i la celebració d'espectacles públics i activitats recreatives i el funcionament dels establiments oberts al públic on es duen a terme. Segons el tipus d'establiment, l'aforament i el risc, la intervenció es fa mitjançant llicència municipal (control previ) o mitjançant comunicació prèvia. Els espectacles i les activitats de caràcter extraordinari o els organitzats amb motiu de festes tenen un règim específic d'autorització."
         },
         {
-          "h": "Notes",
-          "list": [
-            "Es coordina amb la normativa ambiental i d'incendis.",
-            "Els espectacles extraordinaris tenen règim específic."
-          ]
+          "h": "Condicions i llicència d'establiments oberts al públic",
+          "p": "La llicència o la comunicació han de garantir el compliment de les condicions de seguretat, d'autoprotecció, d'higiene, d'accessibilitat, de protecció contra incendis i de control del soroll, així com el respecte dels horaris i de l'aforament autoritzat. Sovint la tramitació es coordina amb el règim ambiental de l'activitat i amb la normativa d'incendis."
+        },
+        {
+          "h": "Control, inspecció i sancions",
+          "p": "L'Administració exerceix funcions d'inspecció i control del compliment de les condicions. La normativa tipifica les infraccions (lleus, greus i molt greus) i les sancions corresponents, que poden incloure multes, la suspensió o la clausura de l'establiment i la prohibició d'activitats. Les administracions competents són els ajuntaments i la Generalitat segons el tipus d'establiment o d'espectacle."
         }
       ],
-      "key": "Llei 11/2009: llicència o comunicació segons risc/aforament; condicions de seguretat i control."
+      "key": "Llei 11/2009 (espectacles públics i activitats recreatives): intervenció per llicència municipal o comunicació prèvia segons el risc i l'aforament; règim específic per als espectacles extraordinaris. Condicions de seguretat, autoprotecció i incendis. Inspecció i règim sancionador."
     },
     "61": {
-      "intro": "Projectes d'obres locals: elaboració pels serveis tècnics municipals o per tècnics externs (ROAS; LCSP).",
+      "intro": "Els projectes d'obres locals defineixen tècnicament les obres que han d'executar les entitats locals. Es redacten pels serveis tècnics municipals o per tècnics competents externs, i es regeixen pel ROAS (D 179/1995) i per la LCSP.",
       "sections": [
         {
-          "h": "Contingut del projecte",
-          "scheme": {
-            "cap": "Projecte d'obres",
-            "body": "MEMÒRIA (justificació de la solució)\nPLÀNOLS\nPLEC de prescripcions tècniques\nPRESSUPOST (amидiments i preus)\n+ estudi de seguretat i salut, programa de treball"
-          }
+          "h": "Concepte i contingut",
+          "p": "El projecte d'obres és el document tècnic que defineix amb precisió l'obra, de manera que es pugui executar i valorar. Comprèn, com a mínim: la memòria (que descriu i justifica la solució adoptada); els plànols de conjunt i de detall; el plec de prescripcions tècniques particulars; el pressupost (amb els amidaments, els quadres de preus i el pressupost d'execució); i, segons el cas, l'estudi de seguretat i salut, el programa de treball i els estudis geotècnics i altres complementaris."
         },
         {
-          "h": "Tramitació",
-          "list": [
-            "Redacció pels serveis tècnics o per tècnics competents contractats.",
-            "Supervisió (preceptiva segons import o afectació a estabilitat/seguretat), aprovació i replanteig."
-          ]
+          "h": "Redacció i classes de projectes",
+          "p": "Els projectes els redacten els serveis tècnics de la pròpia entitat o, quan aquesta no disposa de mitjans suficients, tècnics competents contractats a aquest efecte (mitjançant un contracte de serveis d'elaboració de projectes). Es distingeixen, entre d'altres, els projectes d'obres de primer establiment, de reforma o gran reparació, de reparació simple, de conservació i manteniment, i de demolició."
+        },
+        {
+          "h": "Supervisió, aprovació i replanteig",
+          "p": "Abans de l'aprovació, els projectes d'import elevat o que afectin l'estabilitat, la seguretat o l'estanqueïtat de les obres se sotmeten a la supervisió d'una oficina o unitat tècnica (art. 235 LCSP). Un cop aprovat el projecte per l'òrgan competent, es fa el replanteig, que comprova la realitat geomètrica de l'obra i la disponibilitat dels terrenys necessaris per a l'execució."
         }
       ],
-      "key": "Projecte = memòria + plànols + plec + pressupost (+ESS). Redacció municipal o externa; supervisió i aprovació."
+      "key": "Projecte d'obres locals (ROAS/LCSP): memòria + plànols + plec de prescripcions tècniques + pressupost (+ estudi de seguretat i salut). Redacció pels serveis tècnics municipals o per tècnics externs. Supervisió preceptiva en obres rellevants (235), aprovació i replanteig."
     },
     "62": {
-      "intro": "Edificació: requisits bàsics (funcionalitat, seguretat i habitabilitat); LOE i Codi Tècnic de l'Edificació (CTE).",
+      "intro": "L'edificació està sotmesa a uns requisits bàsics de funcionalitat, seguretat i habitabilitat, establerts per la Llei 38/1999, d'ordenació de l'edificació (LOE), i desplegats pel Codi tècnic de l'edificació (CTE, RD 314/2006).",
       "sections": [
         {
-          "h": "Requisits LOE",
-          "scheme": {
-            "cap": "Requisits bàsics (art. 3 LOE)",
-            "body": "FUNCIONALITAT → utilització, accessibilitat, serveis\nSEGURETAT → estructural, en cas d'incendi, d'utilització\nHABITABILITAT → salubritat, protecció contra el soroll,\n   estalvi d'energia\n→ desenvolupats pel CTE (documents bàsics DB)"
-          }
-        },
-        {
-          "h": "Agents i garanties",
+          "h": "Requisits bàsics (art. 3 LOE)",
           "list": [
-            "Agents (LOE): promotor, projectista, constructor, direccions facultatives, entitats de control.",
-            "Garanties per danys: 1 any (acabats), 3 anys (habitabilitat), 10 anys (estructura)."
+            "Funcionalitat: utilització adequada, accessibilitat i accés als serveis de telecomunicacions i altres.",
+            "Seguretat: estructural (que l'edifici no es deteriori ni s'enrunni), en cas d'incendi (limitar el risc i permetre l'evacuació) i d'utilització (que el seu ús no comporti riscos d'accident).",
+            "Habitabilitat: higiene, salut i protecció del medi ambient; protecció contra el soroll; estalvi d'energia i aïllament tèrmic; i altres aspectes funcionals d'interès general."
           ]
         },
         {
-          "key": "El CTE (RD 314/2006) concreta les exigències bàsiques de la LOE."
+          "h": "El Codi tècnic de l'edificació",
+          "p": "El CTE és el marc normatiu que estableix les exigències bàsiques de qualitat que han de complir els edificis, mitjançant els documents bàsics (DB) corresponents (seguretat estructural, seguretat en cas d'incendi, seguretat d'utilització i accessibilitat, salubritat, protecció contra el soroll i estalvi d'energia). S'aplica a les edificacions de nova construcció i a determinades intervencions en edificis existents."
+        },
+        {
+          "h": "Agents de l'edificació i garanties",
+          "p": "La LOE defineix els agents que intervenen en el procés: el promotor, el projectista, el constructor, el director d'obra, el director de l'execució de l'obra, les entitats i els laboratoris de control de qualitat, i els subministradors de productes. Estableix, a més, un règim de responsabilitats i garanties per danys materials per vicis o defectes, amb terminis d'un any (defectes d'acabament o terminació), tres anys (defectes que afecten l'habitabilitat) i deu anys (defectes que afecten l'estabilitat i la seguretat estructural)."
         }
       ],
-      "key": "LOE: funcionalitat, seguretat, habitabilitat → CTE. Garanties d'1, 3 i 10 anys segons l'element."
+      "key": "Edificació: LOE (38/1999) → requisits bàsics de funcionalitat, seguretat (estructural, incendi, utilització) i habitabilitat, desplegats pel CTE (RD 314/2006, documents bàsics). Agents: promotor, projectista, constructor, direcció d'obra i d'execució. Garanties: 1, 3 i 10 anys segons l'element."
     },
     "63": {
-      "intro": "Execució d'obres locals: per contracte o per mitjans propis; classificació del contractista (ROAS; LCSP).",
+      "intro": "L'execució de les obres locals es pot dur a terme mitjançant contracte o per la mateixa Administració amb mitjans propis. La classificació del contractista acredita la solvència en determinats contractes d'obres (ROAS i LCSP).",
       "sections": [
         {
-          "h": "Modalitats",
-          "scheme": {
-            "cap": "Execució d'obres locals",
-            "body": "PER CONTRACTE → licitació LCSP (regla general)\nPER MITJANS PROPIS (administració) → supòsits taxats\n   (art. 30 LCSP: mitjans propis, urgència…)\nCLASSIFICACIÓ del contractista → exigible en certs\n   contractes d'obres (acredita solvència)"
-          }
+          "h": "Execució per contracte",
+          "p": "És la regla general: l'obra s'executa a través d'un contracte d'obres adjudicat conforme a la LCSP, amb el projecte prèviament aprovat. L'execució es desenvolupa sota la direcció facultativa i amb el control de l'Administració, i es documenta mitjançant les certificacions d'obra, fins a la recepció i la liquidació."
         },
         {
-          "h": "Notes",
-          "list": [
-            "L'execució per administració requereix disposar de mitjans personals i materials propis.",
-            "Direcció facultativa i certificacions d'obra durant l'execució."
-          ]
+          "h": "Execució per la pròpia Administració (mitjans propis)",
+          "p": "L'Administració pot executar obres amb els seus propis serveis i mitjans personals i materials, o amb la col·laboració d'empresaris particulars, només en els supòsits taxats de l'art. 30 de la LCSP (per exemple, quan disposa de mitjans propis adequats, en casos d'emergència, o quan es tracta d'obres que, per la seva naturalesa, no convé contractar). Cal que concorrin les circumstàncies legals i que es justifiqui."
+        },
+        {
+          "h": "La classificació del contractista",
+          "p": "La classificació empresarial és el requisit que acredita la solvència econòmica, financera i tècnica de les empreses per contractar determinades obres. És exigible en els contractes d'obres de valor estimat igual o superior al llindar legal; per sota, l'empresari pot acreditar la solvència pels mitjans alternatius previstos al plec. La classificació s'atorga per categories i grups segons el tipus i l'import de l'obra."
         }
       ],
-      "key": "Obres: per contracte (regla) o per mitjans propis (taxat). Classificació del contractista en certs casos."
+      "key": "Execució d'obres locals: per contracte (regla general, amb projecte aprovat i direcció facultativa) o per la pròpia Administració amb mitjans propis (supòsits taxats, art. 30 LCSP). La classificació del contractista acredita la solvència en obres a partir del llindar legal."
     },
     "64": {
-      "intro": "Organització i coordinació de la realització d'obres municipals: planificació de tasques, accions i projectes.",
+      "intro": "L'organització i la coordinació de la realització d'obres municipals comprenen la planificació de les tasques, les accions i els projectes a desenvolupar, així com la coordinació amb la resta d'agents i serveis afectats.",
       "sections": [
         {
-          "h": "Planificació",
-          "scheme": {
-            "cap": "Gestió d'obres municipals",
-            "body": "PLANIFICAR → objectius, tasques, terminis, recursos\nORGANITZAR → assignació i coordinació d'equips\nEXECUTAR → direcció i seguiment (certificacions)\nCONTROLAR → qualitat, cost i termini; correccions\n+ COORDINACIÓ de seguretat i salut (si diverses empreses)"
-          }
+          "h": "Planificació i organització",
+          "p": "La gestió d'obres municipals segueix un cicle: planificar (definir objectius, tasques, terminis i recursos), organitzar (assignar i coordinar els equips i els mitjans), executar (dirigir i fer el seguiment de l'obra mitjançant la direcció facultativa i les certificacions) i controlar (verificar el compliment de la qualitat, el cost i el termini, i adoptar les mesures correctores). Una bona programació evita endarreriments i sobrecostos."
         },
         {
-          "h": "Notes",
-          "list": [
-            "Coordinació amb serveis afectats (companyies, mobilitat, veïnat).",
-            "Documentació i control econòmic de l'obra."
-          ]
+          "h": "Coordinació amb agents i serveis",
+          "p": "L'execució d'obres a la via pública o en equipaments exigeix coordinar-se amb les companyies de serveis (aigua, electricitat, gas, telecomunicacions), amb els serveis municipals de mobilitat, neteja i seguretat, i amb el veïnat i les activitats afectades, per minimitzar les molèsties i garantir la seguretat. Cal preveure els desviaments de trànsit, els talls de serveis i la senyalització."
+        },
+        {
+          "h": "Seguretat i salut i documentació",
+          "p": "Quan en l'obra intervé més d'una empresa, és preceptiva la coordinació de seguretat i salut, amb la designació d'un coordinador i l'aprovació del pla de seguretat i salut. Tota l'obra es documenta (acta de replanteig, llibre d'ordres, certificacions, acta de recepció), i se'n fa el control econòmic per assegurar l'ajust al pressupost i la correcta justificació de la despesa."
         }
       ],
-      "key": "Gestió d'obres: planificar–organitzar–executar–controlar; coordinació de seguretat i salut i de serveis afectats."
+      "key": "Gestió d'obres municipals: planificar – organitzar – executar – controlar (tasques, terminis, recursos). Coordinació amb companyies de serveis, mobilitat i veïnat. Coordinació de seguretat i salut obligatòria si hi ha diverses empreses (coordinador + pla de seguretat). Documentació i control econòmic."
     },
     "65": {
       "intro": "Patrimonis públics de sòl i habitatge: concepte, finalitats i patrimoni separat (TRLUC; Llei 18/2007).",
