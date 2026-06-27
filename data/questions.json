@@ -6,96 +6,6 @@
   },
   "questions": [
     {
-      "theme": 34,
-      "block": 8,
-      "q": "Un consorci és:",
-      "options": [
-        "Una entitat pública de caràcter associatiu per a finalitats d'interès comú",
-        "Una empresa privada",
-        "Un òrgan unipersonal",
-        "Un tribut local"
-      ],
-      "correct": 0,
-      "explain": "Els consorcis (arts. 118-127 Llei 40/2015) són entitats de dret públic amb personalitat pròpia, creades per diverses administracions o amb entitats privades sense ànim de lucre per a finalitats d'interès comú.",
-      "source": "L40_2015",
-      "article": "arts. 118-127 Llei 40/2015"
-    },
-    {
-      "theme": 35,
-      "block": 8,
-      "q": "Quina llei regula el règim general de les subvencions?",
-      "options": [
-        "Llei 38/2003, general de subvencions",
-        "Llei 9/2017",
-        "Llei 19/2014",
-        "RDL 2/2004"
-      ],
-      "correct": 0,
-      "explain": "La Llei 38/2003, de 17 de novembre, general de subvencions, n'estableix el règim jurídic general.",
-      "source": "L38_2003",
-      "article": "Llei 38/2003"
-    },
-    {
-      "theme": 35,
-      "block": 8,
-      "q": "Procedeix el reintegrament d'una subvenció, entre altres casos:",
-      "options": [
-        "Si el beneficiari justifica correctament",
-        "Per incompliment de la finalitat o falta de justificació, amb interès de demora",
-        "Sempre que passi un any",
-        "Mai"
-      ],
-      "correct": 1,
-      "explain": "Art. 37 Llei 38/2003: el reintegrament procedeix per les causes taxades (incompliment de l'objectiu, falta de justificació, etc.) amb l'interès de demora.",
-      "source": "L38_2003",
-      "article": "art. 37 Llei 38/2003"
-    },
-    {
-      "theme": 36,
-      "block": 9,
-      "q": "La responsabilitat patrimonial de l'Administració és:",
-      "options": [
-        "Subjectiva, exigeix culpa",
-        "Objectiva, per funcionament normal o anormal dels serveis públics",
-        "Inexistent",
-        "Només penal"
-      ],
-      "correct": 1,
-      "explain": "Art. 32 Llei 40/2015: responsabilitat objectiva pels danys conseqüència del funcionament normal o anormal dels serveis públics, llevat de força major.",
-      "source": "L40_2015",
-      "article": "art. 32 Llei 40/2015"
-    },
-    {
-      "theme": 36,
-      "block": 9,
-      "q": "El dret a reclamar la responsabilitat patrimonial prescriu al cap de:",
-      "options": [
-        "6 mesos",
-        "1 any",
-        "2 anys",
-        "5 anys"
-      ],
-      "correct": 1,
-      "explain": "Art. 67 Llei 39/2015: el dret prescriu a l'any de produït el fet o, en danys físics, des de la curació o determinació de les seqüeles.",
-      "source": "L39_2015",
-      "article": "art. 67 Llei 39/2015"
-    },
-    {
-      "theme": 36,
-      "block": 9,
-      "q": "Per apreciar responsabilitat patrimonial, el dany ha de ser:",
-      "options": [
-        "Efectiu, avaluable econòmicament i individualitzat",
-        "Hipotètic",
-        "Moral però no acreditat",
-        "Indeterminat"
-      ],
-      "correct": 0,
-      "explain": "Art. 32.2 Llei 40/2015: el dany ha de ser efectiu, avaluable econòmicament i individualitzat respecte d'una persona o grup.",
-      "source": "L40_2015",
-      "article": "art. 32.2 Llei 40/2015"
-    },
-    {
       "theme": 38,
       "block": 10,
       "q": "Els béns de les entitats locals es classifiquen en:",
@@ -169,36 +79,6 @@
       "explain": "Art. 2 TRLHL: els recursos inclouen tributs propis (taxes, contribucions especials i impostos), transferències, ingressos de dret privat, etc.",
       "source": "TRLHL",
       "article": "art. 2 TRLHL"
-    },
-    {
-      "theme": 31,
-      "block": 14,
-      "q": "La declaració responsable i la comunicació prèvia:",
-      "options": [
-        "Requereixen autorització prèvia expressa",
-        "Permeten iniciar l'activitat des de la seva presentació, amb control posterior",
-        "No tenen efectes jurídics",
-        "Només les pot presentar l'Administració"
-      ],
-      "correct": 1,
-      "explain": "Art. 69 Llei 39/2015: permeten l'exercici del dret o activitat des del dia de la presentació, sens perjudici de les facultats de comprovació posterior.",
-      "source": "L39_2015",
-      "article": "art. 69 Llei 39/2015"
-    },
-    {
-      "theme": 31,
-      "block": 14,
-      "q": "La inexactitud o falsedat en una declaració responsable comporta:",
-      "options": [
-        "Cap conseqüència",
-        "La impossibilitat de continuar l'activitat des que se'n tingui constància, sens perjudici de responsabilitats",
-        "Una simple advertència verbal",
-        "Una pròrroga automàtica"
-      ],
-      "correct": 1,
-      "explain": "Art. 69.4 Llei 39/2015: determina la impossibilitat de continuar amb l'exercici del dret o activitat, sens perjudici de les responsabilitats penals, civils o administratives.",
-      "source": "L39_2015",
-      "article": "art. 69.4 Llei 39/2015"
     },
     {
       "theme": 59,
@@ -426,36 +306,6 @@
       "article": "art. 172 TRLHL"
     },
     {
-      "theme": 33,
-      "block": 8,
-      "q": "La gestió indirecta dels serveis públics es pot fer mitjançant:",
-      "options": [
-        "Concessió, entre altres formes",
-        "Només gestió directa per l'ajuntament",
-        "Expropiació",
-        "Subvenció nominativa"
-      ],
-      "correct": 0,
-      "explain": "La gestió indirecta s'articula via contractes (concessió de serveis i altres formes), d'acord amb la LCSP i la legislació de règim local.",
-      "source": "LRBRL",
-      "article": "arts. 85 i ss. LRBRL"
-    },
-    {
-      "theme": 37,
-      "block": 9,
-      "q": "La responsabilitat de les autoritats i personal al servei de l'Administració davant la pròpia Administració:",
-      "options": [
-        "No existeix",
-        "Es pot exigir d'ofici per dol, culpa o negligència greus, prèvia instrucció de procediment",
-        "És sempre automàtica",
-        "Només la fixa un jutge penal"
-      ],
-      "correct": 1,
-      "explain": "Art. 36 Llei 40/2015: l'Administració, després d'indemnitzar, exigeix d'ofici a les autoritats i personal la responsabilitat quan hi hagi dol o culpa o negligència greus.",
-      "source": "L40_2015",
-      "article": "art. 36 Llei 40/2015"
-    },
-    {
       "theme": 76,
       "block": 15,
       "q": "L'avaluació d'impacte ambiental de projectes té per finalitat:",
@@ -516,21 +366,6 @@
       "article": "codi de conducta, Llei 19/2014"
     },
     {
-      "theme": 32,
-      "block": 8,
-      "q": "En la concessió de serveis, la relació amb les persones usuàries:",
-      "options": [
-        "És lliure i sense control",
-        "Està subjecta a les obligacions de servei i tarifes establertes, amb potestats de l'Administració",
-        "No existeix",
-        "La fixa només el concessionari sense límit"
-      ],
-      "correct": 1,
-      "explain": "L'Administració manté potestats d'ordenació i control del servei; el concessionari ha de garantir-ne la prestació en les condicions i tarifes aprovades.",
-      "source": "LRBRL",
-      "article": "legislació de règim local i LCSP"
-    },
-    {
       "theme": 63,
       "block": 14,
       "q": "L'execució d'obres locals es pot fer:",
@@ -574,21 +409,6 @@
       "explain": "Art. 169.6 TRLHL: si en començar l'exercici no està aprovat el pressupost, es prorroga automàticament el de l'any anterior amb els seus crèdits inicials.",
       "source": "TRLHL",
       "article": "art. 169.6 TRLHL"
-    },
-    {
-      "theme": 36,
-      "block": 9,
-      "q": "La força major, en responsabilitat patrimonial:",
-      "options": [
-        "Mai exonera",
-        "Exonera l'Administració",
-        "És el mateix que el cas fortuït",
-        "Augmenta la indemnització"
-      ],
-      "correct": 1,
-      "explain": "Art. 32.1 Llei 40/2015: els particulars no tenen dret a indemnització en els casos de força major (que sí exonera, a diferència del cas fortuït).",
-      "source": "L40_2015",
-      "article": "art. 32.1 Llei 40/2015"
     },
     {
       "theme": 40,
@@ -694,81 +514,6 @@
       "explain": "Art. 97 TREBEP: les infraccions molt greus prescriuen als 3 anys; les greus, als 2; les lleus, als 6 mesos.",
       "source": "TREBEP",
       "article": "art. 97 TREBEP"
-    },
-    {
-      "theme": 32,
-      "block": 8,
-      "q": "La concessió de serveis públics:",
-      "options": [
-        "És gestió directa",
-        "És una forma de gestió indirecta amb risc per al concessionari",
-        "No té termini",
-        "La fa l'Estat sempre"
-      ],
-      "correct": 1,
-      "explain": "La concessió és gestió indirecta del servei; el concessionari assumeix el risc i l'explotació.",
-      "source": "LRBRL",
-      "article": "arts. 85 i ss. LRBRL"
-    },
-    {
-      "theme": 35,
-      "block": 8,
-      "q": "La concessió directa de subvencions s'admet:",
-      "options": [
-        "Sempre",
-        "En supòsits taxats (nominatives, imposades per llei, interès públic/social acreditat)",
-        "Mai",
-        "Per import il·limitat"
-      ],
-      "correct": 1,
-      "explain": "Art. 22.2 Llei 38/2003: la concessió directa procedeix en supòsits taxats.",
-      "source": "L38_2003",
-      "article": "art. 22 Llei 38/2003"
-    },
-    {
-      "theme": 35,
-      "block": 8,
-      "q": "El pla estratègic de subvencions:",
-      "options": [
-        "És opcional sense efectes",
-        "És previ a l'establiment de subvencions i en concreta objectius i efectes",
-        "El fa el beneficiari",
-        "Substitueix la convocatòria"
-      ],
-      "correct": 1,
-      "explain": "Art. 8 Llei 38/2003: amb caràcter previ cal aprovar un pla estratègic de subvencions.",
-      "source": "L38_2003",
-      "article": "art. 8 Llei 38/2003"
-    },
-    {
-      "theme": 37,
-      "block": 9,
-      "q": "L'Administració respon dels danys causats per concessionaris:",
-      "options": [
-        "Mai",
-        "Quan el dany sigui conseqüència directa d'una clàusula imposada per l'Administració",
-        "Sempre i en tot cas",
-        "Només si ho diu el concessionari"
-      ],
-      "correct": 1,
-      "explain": "En la responsabilitat per serveis concedits, l'Administració respon quan el dany deriva d'ordres o clàusules imposades.",
-      "source": "L40_2015",
-      "article": "art. 32 Llei 40/2015"
-    },
-    {
-      "theme": 36,
-      "block": 9,
-      "q": "La responsabilitat patrimonial en l'àmbit de l'acte legislatiu o jurisdiccional:",
-      "options": [
-        "No existeix mai",
-        "Pot existir en supòsits específics (lleis declarades inconstitucionals, error judicial)",
-        "És il·limitada",
-        "La fixa l'Alcalde"
-      ],
-      "correct": 1,
-      "explain": "Arts. 32.3-32.5 Llei 40/2015: responsabilitat per aplicació de normes inconstitucionals o contràries al dret UE, amb requisits.",
-      "source": "L40_2015",
-      "article": "art. 32 Llei 40/2015"
     },
     {
       "theme": 38,
@@ -1054,96 +799,6 @@
       "explain": "La presència de recursos preventius és preceptiva en treballs amb riscos especials o concurrència (RD 171/2004; art. 32 bis LPRL).",
       "source": "RD171_2004",
       "article": "art. 32 bis LPRL"
-    },
-    {
-      "theme": 31,
-      "block": 14,
-      "q": "La comunicació prèvia es diferencia de la llicència en què:",
-      "options": [
-        "Requereix autorització",
-        "Permet iniciar l'activitat sense resolució expressa prèvia",
-        "És més lenta",
-        "No té control"
-      ],
-      "correct": 1,
-      "explain": "La comunicació prèvia habilita l'inici sense acte exprés, amb control posterior (art. 69 Llei 39/2015).",
-      "source": "L39_2015",
-      "article": "art. 69 Llei 39/2015"
-    },
-    {
-      "theme": 31,
-      "block": 14,
-      "q": "Les autoritzacions administratives:",
-      "options": [
-        "Creen el dret",
-        "Remouen un límit a l'exercici d'un dret preexistent",
-        "No tenen efectes",
-        "Són tributs"
-      ],
-      "correct": 1,
-      "explain": "L'autorització és un acte de control que remou un obstacle a l'exercici d'un dret preexistent.",
-      "source": "L39_2015",
-      "article": "teoria de l'autorització"
-    },
-    {
-      "theme": 33,
-      "block": 8,
-      "q": "La gestió interessada dels serveis públics:",
-      "options": [
-        "No existeix",
-        "És una forma de gestió en què l'empresari participa en els resultats",
-        "És gestió directa pura",
-        "La fa l'Estat"
-      ],
-      "correct": 1,
-      "explain": "La gestió interessada vincula la retribució del gestor als resultats de l'explotació del servei.",
-      "source": "LRBRL",
-      "article": "formes de gestió de serveis"
-    },
-    {
-      "theme": 34,
-      "block": 8,
-      "q": "Els estatuts d'un consorci determinen:",
-      "options": [
-        "Només el nom",
-        "El règim orgànic, funcional i financer i l'administració d'adscripció",
-        "El sou del personal de l'Estat",
-        "Res rellevant"
-      ],
-      "correct": 1,
-      "explain": "Els estatuts fixen l'organització, el funcionament i l'adscripció del consorci (art. 119-120 Llei 40/2015).",
-      "source": "L40_2015",
-      "article": "art. 119 Llei 40/2015"
-    },
-    {
-      "theme": 34,
-      "block": 8,
-      "q": "L'adscripció d'un consorci a una administració determina:",
-      "options": [
-        "Res",
-        "El règim pressupostari, comptable i de control que se li aplica",
-        "El color del logotip",
-        "La seu fiscal d'un particular"
-      ],
-      "correct": 1,
-      "explain": "L'adscripció (art. 120 Llei 40/2015) determina el règim pressupostari i de control aplicable al consorci.",
-      "source": "L40_2015",
-      "article": "art. 120 Llei 40/2015"
-    },
-    {
-      "theme": 37,
-      "block": 9,
-      "q": "L'acció de regrés de l'Administració contra el seu personal:",
-      "options": [
-        "És potestativa i lliure",
-        "És obligatòria (d'ofici) quan hi hagi dol, culpa o negligència greus",
-        "No existeix",
-        "La decideix el ciutadà"
-      ],
-      "correct": 1,
-      "explain": "Art. 36.2 Llei 40/2015: l'exigència de responsabilitat al personal és d'ofici, valorant dol/culpa/negligència greus.",
-      "source": "L40_2015",
-      "article": "art. 36 Llei 40/2015"
     },
     {
       "theme": 38,
@@ -1551,36 +1206,6 @@
       "article": "art. 94 TREBEP"
     },
     {
-      "theme": 36,
-      "block": 9,
-      "q": "L'antijuridicitat del dany s'exclou quan:",
-      "options": [
-        "Sempre",
-        "El particular té el deure jurídic de suportar-lo (p. ex. per llei)",
-        "El dany és gran",
-        "Hi ha nexe causal"
-      ],
-      "correct": 1,
-      "explain": "No hi ha responsabilitat si existeix el deure jurídic de suportar el dany (art. 32.1 Llei 40/2015).",
-      "source": "L40_2015",
-      "article": "art. 32.1 Llei 40/2015"
-    },
-    {
-      "theme": 36,
-      "block": 9,
-      "q": "La indemnització per responsabilitat patrimonial es calcula:",
-      "options": [
-        "A l'atzar",
-        "Segons els criteris de valoració de danys i amb referència al dia de la lesió (actualitzable)",
-        "Sempre 1.000 €",
-        "La fixa el reclamant"
-      ],
-      "correct": 1,
-      "explain": "Art. 34 Llei 40/2015: la indemnització es calcula amb els criteris de valoració i s'actualitza a la data de la resolució.",
-      "source": "L40_2015",
-      "article": "art. 34 Llei 40/2015"
-    },
-    {
       "theme": 38,
       "block": 10,
       "q": "Els béns patrimonials de les entitats locals:",
@@ -1806,66 +1431,6 @@
       "article": "eines de comandament"
     },
     {
-      "theme": 32,
-      "block": 8,
-      "q": "L'extinció de la concessió de serveis públics es produeix, entre d'altres, per:",
-      "options": [
-        "No-res",
-        "Compliment del termini, rescat, caducitat o resolució",
-        "Acord verbal",
-        "Mai"
-      ],
-      "correct": 1,
-      "explain": "La concessió s'extingeix per transcurs del termini, rescat, caducitat, resolució o supressió del servei.",
-      "source": "LCSP",
-      "article": "art. 294 LCSP"
-    },
-    {
-      "theme": 32,
-      "block": 8,
-      "q": "El rescat d'una concessió consisteix en:",
-      "options": [
-        "Cedir-la a un tercer",
-        "Que l'Administració assumeixi directament la gestió abans del termini",
-        "Augmentar tarifes",
-        "Privatitzar-la"
-      ],
-      "correct": 1,
-      "explain": "El rescat és la represa de la gestió directa per l'Administració abans de vèncer el termini concessional.",
-      "source": "LCSP",
-      "article": "art. 294 LCSP"
-    },
-    {
-      "theme": 33,
-      "block": 8,
-      "q": "Les societats mercantils de capital íntegrament públic per gestionar serveis:",
-      "options": [
-        "Són gestió indirecta",
-        "Són una forma de gestió DIRECTA",
-        "No existeixen",
-        "Són sempre privades"
-      ],
-      "correct": 1,
-      "explain": "La societat de capital íntegrament públic és una modalitat de gestió directa (art. 85 LRBRL).",
-      "source": "LRBRL",
-      "article": "art. 85 LRBRL"
-    },
-    {
-      "theme": 33,
-      "block": 8,
-      "q": "La gestió directa d'un servei es pot fer mitjançant:",
-      "options": [
-        "Concessió",
-        "La pròpia entitat, organisme autònom, entitat pública empresarial o societat pública",
-        "Un particular",
-        "Un consorci privat"
-      ],
-      "correct": 1,
-      "explain": "La gestió directa s'articula per la pròpia entitat o per ens instrumentals de capital públic (art. 85.2 LRBRL).",
-      "source": "LRBRL",
-      "article": "art. 85.2 LRBRL"
-    },
-    {
       "theme": 65,
       "block": 11,
       "q": "El patrimoni públic de sòl és un patrimoni:",
@@ -1954,21 +1519,6 @@
       "explain": "En la pròrroga es mantenen els crèdits inicials de l'exercici anterior, amb ajustaments legals (art. 169.6 TRLHL).",
       "source": "TRLHL",
       "article": "art. 169.6 TRLHL"
-    },
-    {
-      "theme": 36,
-      "block": 9,
-      "q": "El procediment de responsabilitat patrimonial pot iniciar-se:",
-      "options": [
-        "Només d'ofici",
-        "D'ofici o a sol·licitud de l'interessat",
-        "Només per sentència",
-        "Mai"
-      ],
-      "correct": 1,
-      "explain": "El procediment es pot iniciar d'ofici o a instància de l'interessat perjudicat (Llei 39/2015).",
-      "source": "L39_2015",
-      "article": "art. 65 i 67 Llei 39/2015"
     },
     {
       "theme": 38,
@@ -2091,36 +1641,6 @@
       "article": "art. 172 TRLHL"
     },
     {
-      "theme": 34,
-      "block": 8,
-      "q": "Els consorcis s'adscriuen, a efectes de règim, a:",
-      "options": [
-        "Cap administració",
-        "L'administració pública que en determini la normativa segons criteris de control/finançament",
-        "Una empresa privada",
-        "Un particular"
-      ],
-      "correct": 1,
-      "explain": "L'adscripció es fa a l'administració que compleixi els criteris de l'art. 120 Llei 40/2015 (control, finançament…).",
-      "source": "L40_2015",
-      "article": "art. 120 Llei 40/2015"
-    },
-    {
-      "theme": 35,
-      "block": 8,
-      "q": "La justificació de la subvenció és:",
-      "options": [
-        "Optativa",
-        "Obligatòria per acreditar la realització de l'activitat i la despesa",
-        "Substituïble per un correu",
-        "Innecessària si hi ha confiança"
-      ],
-      "correct": 1,
-      "explain": "El beneficiari ha de justificar el compliment de la finalitat i la realització de la despesa (art. 30 Llei 38/2003).",
-      "source": "L38_2003",
-      "article": "art. 30 Llei 38/2003"
-    },
-    {
       "theme": 40,
       "block": 3,
       "q": "Els estats de despeses i ingressos han d'estar:",
@@ -2164,21 +1684,6 @@
       "explain": "Per a faltes greus i molt greus cal instruir expedient disciplinari amb totes les garanties.",
       "source": "TREBEP",
       "article": "art. 98 TREBEP"
-    },
-    {
-      "theme": 36,
-      "block": 9,
-      "q": "El termini per resoldre el procediment de responsabilitat patrimonial és de:",
-      "options": [
-        "1 any",
-        "6 mesos (transcorreguts, silenci negatiu)",
-        "1 mes",
-        "3 anys"
-      ],
-      "correct": 1,
-      "explain": "El procediment de responsabilitat patrimonial té un termini de resolució de 6 mesos.",
-      "source": "L39_2015",
-      "article": "art. 91 Llei 39/2015"
     },
     {
       "theme": 38,
@@ -2254,36 +1759,6 @@
       "explain": "Els ingressos de dret privat deriven del patrimoni i altres relacions de dret privat de l'entitat.",
       "source": "TRLHL",
       "article": "art. 3 TRLHL"
-    },
-    {
-      "theme": 35,
-      "block": 8,
-      "q": "El reintegrament de subvencions genera l'obligació de pagar:",
-      "options": [
-        "Només el principal",
-        "El principal més l'interès de demora des del pagament",
-        "Una multa fixa",
-        "Res"
-      ],
-      "correct": 1,
-      "explain": "Art. 37-40 Llei 38/2003: el reintegrament inclou l'interès de demora meritat des del pagament de la subvenció.",
-      "source": "L38_2003",
-      "article": "art. 38 Llei 38/2003"
-    },
-    {
-      "theme": 31,
-      "block": 14,
-      "q": "La declaració responsable habilita per a l'exercici d'un dret:",
-      "options": [
-        "Després d'una autorització",
-        "Des de la presentació, sens perjudici del control posterior",
-        "Als 6 mesos",
-        "Mai"
-      ],
-      "correct": 1,
-      "explain": "La declaració responsable permet l'exercici del dret des de la presentació (art. 69 Llei 39/2015).",
-      "source": "L39_2015",
-      "article": "art. 69 Llei 39/2015"
     },
     {
       "theme": 59,
@@ -2436,21 +1911,6 @@
       "article": "Llei 19/2014"
     },
     {
-      "theme": 36,
-      "block": 9,
-      "q": "El nexe causal pot quedar interromput per:",
-      "options": [
-        "L'antijuridicitat",
-        "La força major o la culpa exclusiva de la víctima o d'un tercer",
-        "La lesió",
-        "La imputació"
-      ],
-      "correct": 1,
-      "explain": "La força major o la culpa exclusiva de la víctima/tercer trenquen el nexe causal i exclouen la responsabilitat.",
-      "source": "L40_2015",
-      "article": "art. 32 Llei 40/2015"
-    },
-    {
       "theme": 39,
       "block": 10,
       "q": "L'afectació d'un bé al domini públic:",
@@ -2509,36 +1969,6 @@
       "explain": "Tota despesa exigeix crèdit adequat i suficient i la prèvia fiscalització (TRLHL).",
       "source": "TRLHL",
       "article": "art. 173 TRLHL"
-    },
-    {
-      "theme": 35,
-      "block": 8,
-      "q": "La concurrència competitiva en subvencions es fa mitjançant:",
-      "options": [
-        "Concessió directa",
-        "Comparació de sol·licituds segons criteris fixats a la convocatòria",
-        "Sorteig",
-        "Antiguitat"
-      ],
-      "correct": 1,
-      "explain": "La concurrència competitiva compara les sol·licituds conforme als criteris de la convocatòria (art. 22 Llei 38/2003).",
-      "source": "L38_2003",
-      "article": "art. 22 Llei 38/2003"
-    },
-    {
-      "theme": 31,
-      "block": 14,
-      "q": "La comunicació prèvia conté:",
-      "options": [
-        "Una autorització",
-        "Les dades necessàries per a l'inici de l'activitat o dret",
-        "Una sanció",
-        "Un projecte SARA"
-      ],
-      "correct": 1,
-      "explain": "La comunicació prèvia aporta les dades requerides per a l'exercici del dret o activitat (art. 69 Llei 39/2015).",
-      "source": "L39_2015",
-      "article": "art. 69 Llei 39/2015"
     },
     {
       "theme": 76,
@@ -4354,6 +3784,156 @@
       "explain": "Es pregunta el límit dels convenis. Correcta (b): els convenis no poden tenir per objecte prestacions pròpies dels contractes; en aquest cas, la seva naturalesa i règim s'ajusten a la legislació de contractes (art. 47.1 Llei 40/2015), per evitar eludir la LCSP. Per què no: (a), (c) i (d) són continguts propis i admissibles d'un conveni. Base: art. 47 Llei 40/2015.",
       "source": "L40_2015",
       "article": "art. 47 Llei 40/2015"
+    },
+    {
+      "theme": 31,
+      "block": 14,
+      "q": "Quina és la diferència essencial entre una llicència i una declaració responsable?",
+      "options": [
+        "La declaració responsable la presenta l'Administració i la llicència l'interessat",
+        "La llicència és un control previ; la declaració permet iniciar l'activitat des de la presentació",
+        "No hi ha cap diferència pràctica entre totes dues figures jurídiques",
+        "La declaració responsable només s'aplica a les activitats industrials perilloses"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la diferència entre llicència i declaració responsable. Correcta (b): la llicència és un acte de control previ; la declaració responsable (i la comunicació prèvia) permet iniciar l'exercici del dret o l'activitat des de la presentació, amb control posterior (art. 69 Llei 39/2015). Per què no: (a) la declaració la presenta l'interessat; (c) sí que hi ha diferència (control previ vs posterior); (d) no es limita a activitats industrials. Base: art. 69 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 69 Llei 39/2015"
+    },
+    {
+      "theme": 31,
+      "block": 14,
+      "q": "Quin és l'efecte de la inexactitud o falsedat essencial en una declaració responsable?",
+      "options": [
+        "No té cap efecte si l'activitat ja s'ha iniciat de bona fe per l'interessat",
+        "La impossibilitat de continuar l'activitat des que se'n té constància",
+        "Una simple advertència verbal sense més conseqüències per a la persona",
+        "La concessió automàtica d'un termini de sis mesos per esmenar la inexactitud"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta l'efecte de la inexactitud essencial. Correcta (b): la inexactitud, falsedat o omissió de caràcter essencial determina la impossibilitat de continuar amb l'exercici del dret o activitat des que se'n té constància, sens perjudici de les responsabilitats (art. 69.4). Per què no: (a) sí que té efectes; (c) no és una simple advertència; (d) no atorga cap termini d'esmena de sis mesos. Base: art. 69.4 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 69.4 Llei 39/2015"
+    },
+    {
+      "theme": 32,
+      "block": 8,
+      "q": "La concessió de serveis públics és una forma de gestió:",
+      "options": [
+        "Directa, prestada per un organisme autònom dependent de la corporació local",
+        "Indirecta, en què el concessionari presta el servei al seu risc i ventura",
+        "De caràcter exclusivament estatal, que no poden emprar els ens locals",
+        "Que transfereix definitivament la titularitat del servei al concessionari privat"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la naturalesa de la concessió de serveis. Correcta (b): la concessió és una forma de gestió indirecta en què el concessionari presta el servei al seu risc i ventura, conservant l'Administració la titularitat. Per què no: (a) la gestió directa és per organisme propi; (c) també l'empren els ens locals; (d) la titularitat del servei roman pública. Base: arts. 85 i ss. LRBRL.",
+      "source": "LRBRL",
+      "article": "arts. 85 i ss. LRBRL"
+    },
+    {
+      "theme": 33,
+      "block": 8,
+      "q": "Quina d'aquestes és una forma de gestió DIRECTA d'un servei públic?",
+      "options": [
+        "La concessió a una empresa privada seleccionada per concurrència",
+        "La societat mercantil local de capital íntegrament públic",
+        "La gestió interessada amb participació en els resultats de l'explotació",
+        "La societat d'economia mixta amb capital públic i privat"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta una forma de gestió directa. Correcta (b): la societat mercantil local de capital íntegrament públic és una forma de gestió directa (art. 85.2 LRBRL). Per què no: (a) la concessió és gestió indirecta; (c) la gestió interessada és indirecta; (d) la societat d'economia mixta és indirecta (té capital privat). Base: art. 85 LRBRL.",
+      "source": "LRBRL",
+      "article": "art. 85 LRBRL"
+    },
+    {
+      "theme": 34,
+      "block": 8,
+      "q": "Què determina, en un consorci, l'administració pública a la qual queda adscrit?",
+      "options": [
+        "El nom comercial i el logotip que pot utilitzar el consorci en la seva activitat",
+        "El règim pressupostari, comptable, de control i de personal que se li aplica",
+        "La ubicació geogràfica obligatòria de la seu social i de les oficines",
+        "El nombre màxim de membres que poden integrar els seus òrgans de govern"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la rellevància de l'adscripció. Correcta (b): l'adscripció a una administració (segons els criteris ordenats de l'art. 120 Llei 40/2015) determina el règim pressupostari, comptable, de control econòmic i de personal aplicable al consorci. Per què no: (a), (c) i (d) no són el que determina l'adscripció. Base: art. 120 Llei 40/2015.",
+      "source": "L40_2015",
+      "article": "art. 120 Llei 40/2015"
+    },
+    {
+      "theme": 35,
+      "block": 8,
+      "q": "Quin és el procediment ordinari de concessió de subvencions?",
+      "options": [
+        "La concessió directa a l'entitat que ho sol·liciti en primer lloc",
+        "La concurrència competitiva",
+        "El sorteig públic entre totes les sol·licituds que compleixin els requisits",
+        "La lliure designació del beneficiari per l'òrgan competent de l'entitat"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el procediment ordinari de subvencions. Correcta (b): el procediment ordinari és la concurrència competitiva, en què es comparen les sol·licituds segons els criteris fixats per establir-ne una prelació (art. 22 Llei 38/2003). Per què no: (a) la concessió directa és excepcional i taxada; (c) no es fa per sorteig; (d) no és una lliure designació. Base: art. 22 Llei 38/2003.",
+      "source": "L38_2003",
+      "article": "art. 22 Llei 38/2003"
+    },
+    {
+      "theme": 35,
+      "block": 8,
+      "q": "Quan procedeix el reintegrament d'una subvenció?",
+      "options": [
+        "Sempre que hagi transcorregut un any des de la concessió de l'ajut",
+        "Per incompliment de la finalitat o falta de justificació, amb l'interès de demora",
+        "Únicament quan el beneficiari ho sol·liciti voluntàriament a l'òrgan concedent",
+        "Mai, perquè un cop atorgada la subvenció esdevé definitiva i irrevocable"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta quan procedeix el reintegrament. Correcta (b): procedeix el reintegrament, amb l'interès de demora des del pagament, per incompliment de l'objectiu o la finalitat, falta o insuficiència de justificació, o obtenció sense les condicions (art. 37 Llei 38/2003). Per què no: (a) no és pel mer transcurs d'un any; (c) no depèn de la voluntat del beneficiari; (d) sí que es pot exigir el reintegrament. Base: art. 37 Llei 38/2003.",
+      "source": "L38_2003",
+      "article": "art. 37 Llei 38/2003"
+    },
+    {
+      "theme": 36,
+      "block": 9,
+      "q": "La responsabilitat patrimonial de l'Administració és:",
+      "options": [
+        "Subjectiva: exigeix provar la culpa o negligència del funcionari causant",
+        "Objectiva: pel funcionament normal o anormal dels serveis públics",
+        "Penal: només s'exigeix en el marc d'un procés penal contra l'autoritat",
+        "Inexistent quan el dany deriva del funcionament normal del servei públic"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la naturalesa de la responsabilitat patrimonial. Correcta (b): és una responsabilitat objectiva i directa, pels danys conseqüència del funcionament normal o anormal dels serveis públics, llevat de força major (art. 32 Llei 40/2015). Per què no: (a) no exigeix culpa (és objectiva); (c) no és penal; (d) també respon del funcionament normal. Base: art. 32 Llei 40/2015.",
+      "source": "L40_2015",
+      "article": "art. 32 Llei 40/2015"
+    },
+    {
+      "theme": 36,
+      "block": 9,
+      "q": "En quin termini prescriu el dret a reclamar la responsabilitat patrimonial?",
+      "options": [
+        "Sis mesos des que es produeix el fet que motiva la indemnització",
+        "Un any",
+        "Quatre anys des que es coneix l'autoritat o el personal causant del dany",
+        "Cinc anys, com la resta de les accions de naturalesa patrimonial"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el termini de prescripció. Correcta (b): el dret a reclamar prescriu a l'any de produït el fet o l'acte que motivi la indemnització; en cas de danys físics o psíquics, des de la curació o la determinació de l'abast de les seqüeles (art. 67 Llei 39/2015). Per què no: (a), (c) i (d) no són el termini legal d'un any. Base: art. 67 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 67 Llei 39/2015"
+    },
+    {
+      "theme": 37,
+      "block": 9,
+      "q": "L'Administració exigeix responsabilitat al seu personal pel dany causat a un particular:",
+      "options": [
+        "Sempre que hagi hagut de pagar una indemnització, amb independència de la conducta",
+        "D'ofici, quan hi hagi hagut dol o culpa o negligència greus",
+        "Mai, perquè la responsabilitat recau exclusivament en l'Administració",
+        "Només si el particular perjudicat ho demana expressament a l'Administració"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta l'acció de regrés. Correcta (b): després d'indemnitzar el particular, l'Administració exigeix d'ofici al personal la responsabilitat en què hagi incorregut per dol, o culpa o negligència greus (art. 36.2 Llei 40/2015). Per què no: (a) no és per qualsevol conducta, sinó per dol o culpa greu; (c) sí que es pot exigir el regrés; (d) no depèn de la petició del particular. Base: art. 36 Llei 40/2015.",
+      "source": "L40_2015",
+      "article": "art. 36 Llei 40/2015"
     }
   ]
 }
