@@ -2644,6 +2644,216 @@
       "explain": "Es pregunta l'efecte d'interposar reposició. Correcta (b): no es pot interposar el recurs contenciós fins que la reposició s'hagi resolt expressament o s'hagi produït la seva desestimació per silenci (art. 123.2). Per què no: (a) no es poden simultaniejar; (c) no escau una alçada posterior; (d) no es renuncia al contenciós. Base: art. 123 Llei 39/2015.",
       "source": "L39_2015",
       "article": "art. 123 Llei 39/2015"
+    },
+    {
+      "theme": 15,
+      "block": 5,
+      "q": "Quina d'aquestes NO és una classe de contracte típic del sector públic segons la LCSP?",
+      "options": [
+        "El contracte d'obres i la concessió d'obres",
+        "El contracte de préstec hipotecari entre particulars",
+        "El contracte de subministrament de béns mobles",
+        "El contracte de serveis i la concessió de serveis"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta quin no és un contracte típic. Correcta (b): el préstec hipotecari entre particulars no és un contracte del sector públic; a més, determinats contractes financers en queden exclosos. Per què no: (a), (c) i (d) són contractes típics de la LCSP (obres, concessió d'obres, subministrament, serveis i concessió de serveis). Base: arts. 12-18 LCSP.",
+      "source": "LCSP",
+      "article": "arts. 12-18 LCSP"
+    },
+    {
+      "theme": 15,
+      "block": 5,
+      "q": "Els contractes subjectes a regulació harmonitzada (SARA) es caracteritzen perquè:",
+      "options": [
+        "Sempre s'adjudiquen pel procediment de contracte menor per agilitar-ne la tramitació",
+        "Superen els llindars de les directives i tenen publicitat al Diari Oficial de la UE",
+        "Només els poden subscriure les administracions de la comunitat autònoma",
+        "Estan exempts de qualsevol exigència de publicitat i de concurrència"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta què són els contractes SARA. Correcta (b): són els que, pel seu tipus i import, superen els llindars de les directives europees i tenen exigències reforçades, com la publicitat al DOUE i el recurs especial. Per què no: (a) no s'adjudiquen com a menor; (c) no es limiten a la CA; (d) tenen MÉS exigències de publicitat, no menys. Base: arts. 19-23 LCSP.",
+      "source": "LCSP",
+      "article": "arts. 19-23 LCSP"
+    },
+    {
+      "theme": 20,
+      "block": 5,
+      "q": "En quins supòsits es pot utilitzar el procediment de diàleg competitiu?",
+      "options": [
+        "En qualsevol contracte d'obres, sigui quin sigui el seu import o complexitat",
+        "En contractes particularment complexos, en què cal definir la solució amb els licitadors",
+        "Únicament en els contractes menors de serveis i de subministrament",
+        "Quan l'òrgan de contractació vol adjudicar directament a una empresa concreta"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta quan procedeix el diàleg competitiu. Correcta (b): el diàleg competitiu s'utilitza en contractes particularment complexos, quan l'òrgan no pot definir per si mateix els mitjans per satisfer les necessitats i cal dialogar amb els licitadors la solució (art. 172). Per què no: (a) no és per a qualsevol obra; (c) no és per a menors; (d) no és una adjudicació directa. Base: art. 172 LCSP.",
+      "source": "LCSP",
+      "article": "art. 172 LCSP"
+    },
+    {
+      "theme": 20,
+      "block": 5,
+      "q": "Què és el perfil de contractant?",
+      "options": [
+        "Un document intern reservat que recull la solvència de cada empresa licitadora",
+        "L'espai a internet que difon l'activitat contractual per garantir-ne la transparència",
+        "El currículum professional del responsable del contracte designat per l'òrgan",
+        "Un registre confidencial dels contractes adjudicats per cada administració pública"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el perfil de contractant. Correcta (b): el perfil de contractant és l'espai a internet (allotjat a la Plataforma de Contractació) que difon l'activitat contractual per garantir la publicitat i la transparència (art. 63). Per què no: (a) no és un document reservat de solvència; (c) no és un currículum; (d) no és confidencial, sinó públic. Base: art. 63 LCSP.",
+      "source": "LCSP",
+      "article": "art. 63 LCSP"
+    },
+    {
+      "theme": 21,
+      "block": 5,
+      "q": "Els licitadors han d'acreditar la seva solvència econòmica, financera i tècnica perquè:",
+      "options": [
+        "És un requisit d'aptitud per poder contractar amb el sector públic",
+        "Així ho decideix discrecionalment la mesa de contractació en cada licitació",
+        "Només cal en els contractes adjudicats per procediment negociat sense publicitat",
+        "És una formalitat que es pot substituir per una declaració de l'empresa sense control"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el sentit de la solvència. Correcta (a): la solvència econòmica/financera i tècnica/professional és un requisit d'aptitud per contractar (arts. 86-88), acreditat segons els mitjans del plec. Per què no: (b) no és discrecional; (c) cal en els procediments ordinaris, no només en el negociat; (d) no és una mera formalitat sense control. Base: arts. 86-88 LCSP.",
+      "source": "LCSP",
+      "article": "arts. 86-88 LCSP"
+    },
+    {
+      "theme": 21,
+      "block": 5,
+      "q": "En cas d'empat entre dues ofertes, quin criteri s'aplica abans de recórrer al sorteig?",
+      "options": [
+        "S'adjudica a l'empresa que tingui més antiguitat en el registre de licitadors",
+        "S'apliquen criteris socials de desempat (plans d'igualtat, inserció laboral, etc.)",
+        "S'adjudica sempre a l'empresa amb el domicili social més proper al municipi",
+        "Es declara deserta la licitació i s'inicia un nou procediment des del principi"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el desempat. Correcta (b): en cas d'empat s'apliquen criteris socials de desempat (proporció de treballadors amb discapacitat, plans d'igualtat, condicions d'inserció, etc.) abans del sorteig (art. 147). Per què no: (a) l'antiguitat no és criteri; (c) la proximitat del domicili vulneraria la igualtat; (d) no es declara deserta per empat. Base: art. 147 LCSP.",
+      "source": "LCSP",
+      "article": "art. 147 LCSP"
+    },
+    {
+      "theme": 22,
+      "block": 5,
+      "q": "Quina d'aquestes és una prerrogativa de l'Administració en els contractes administratius?",
+      "options": [
+        "Renunciar al cobrament de les penalitats a canvi d'un descompte en el preu",
+        "Interpretar el contracte i resoldre els dubtes sobre el seu compliment",
+        "Cedir el contracte a un tercer sense l'autorització de cap òrgan",
+        "Modificar lliurement el preu del contracte a favor del contractista"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta una prerrogativa de l'Administració. Correcta (b): l'Administració pot interpretar el contracte i resoldre els dubtes sobre el seu compliment, modificar-lo per interès públic, suspendre'l i resoldre'l (art. 190). Per què no: (a) no és una prerrogativa; (c) la cessió requereix autorització; (d) no pot modificar el preu lliurement a favor del contractista. Base: art. 190 LCSP.",
+      "source": "LCSP",
+      "article": "art. 190 LCSP"
+    },
+    {
+      "theme": 24,
+      "block": 5,
+      "q": "Les modificacions del contracte previstes al plec (art. 204) tenen el límit de:",
+      "options": [
+        "No superar el 50% del preu inicial del contracte adjudicat",
+        "No superar el 20% del preu inicial del contracte",
+        "No superar el 10% del preu, sense necessitat de causa que les justifiqui",
+        "No tenir cap límit, perquè ja figuraven previstes al plec de la licitació"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el límit de les modificacions previstes. Correcta (b): les modificacions previstes al plec (art. 204) són admissibles si s'hi van detallar de manera clara, precisa i inequívoca, sense superar el 20% del preu inicial. Per què no: (a) el 50% és el límit de les NO previstes (art. 205); (c) no és el 10% sense causa; (d) sí que tenen límit. Base: art. 204 LCSP.",
+      "source": "LCSP",
+      "article": "art. 204 LCSP"
+    },
+    {
+      "theme": 25,
+      "block": 5,
+      "q": "Quan és preceptiva la supervisió del projecte d'un contracte d'obres?",
+      "options": [
+        "Sempre, en qualsevol obra, sigui quin sigui el seu pressupost o complexitat",
+        "En obres de quantia elevada o que afectin l'estabilitat, la seguretat o l'estanqueïtat",
+        "Únicament en les obres executades per la pròpia Administració amb mitjans propis",
+        "Mai, perquè la supervisió la fa directament la direcció facultativa de l'obra"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta quan cal supervisió del projecte. Correcta (b): la supervisió per una oficina o unitat tècnica és preceptiva quan la quantia és elevada o quan les obres afecten l'estabilitat, la seguretat o l'estanqueïtat (art. 235). Per què no: (a) no és sempre; (c) no es limita a l'execució per mitjans propis; (d) la direcció facultativa dirigeix l'obra, no fa la supervisió prèvia del projecte. Base: art. 235 LCSP.",
+      "source": "LCSP",
+      "article": "art. 235 LCSP"
+    },
+    {
+      "theme": 26,
+      "block": 5,
+      "q": "Quina és la durada màxima d'una concessió d'obres segons la LCSP?",
+      "options": [
+        "Deu anys, prorrogables fins a un màxim de quinze anys en total",
+        "Quaranta anys, en funció del període de recuperació de les inversions",
+        "Cinc anys, com la resta de contractes de serveis de prestacions successives",
+        "Sense límit, mentre el concessionari mantingui l'obra en bon estat de conservació"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la durada de la concessió d'obres. Correcta (b): la durada màxima de les concessions d'obres és de quaranta anys, en funció del període de recuperació de les inversions (art. 29). Per què no: (a), (c) i (d) no s'ajusten al límit legal de la concessió d'obres. Base: art. 29 LCSP.",
+      "source": "LCSP",
+      "article": "art. 29 LCSP"
+    },
+    {
+      "theme": 27,
+      "block": 5,
+      "q": "L'adquisició de programes d'ordinador desenvolupats a mida es considera, segons la LCSP:",
+      "options": [
+        "Un contracte de subministrament de béns mobles informàtics",
+        "Un contracte de serveis",
+        "Un contracte d'obres de caràcter immaterial",
+        "Un contracte exclòs de l'àmbit d'aplicació de la LCSP"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la qualificació dels programes a mida. Correcta (b): l'adquisició de programes d'ordinador desenvolupats a mida es considera contracte de serveis (no de subministrament). Per què no: (a) el subministrament és de béns mobles estàndard; (c) no és un contracte d'obres; (d) no està exclòs de la LCSP. Base: art. 16-17 LCSP.",
+      "source": "LCSP",
+      "article": "arts. 16-17 LCSP"
+    },
+    {
+      "theme": 28,
+      "block": 5,
+      "q": "L'elaboració de projectes d'obres és, segons la LCSP, una especialitat del contracte de:",
+      "options": [
+        "Obres, perquè té per objecte la futura construcció d'un immoble",
+        "Serveis",
+        "Subministrament, perquè es lliura un document tècnic acabat",
+        "Concessió d'obres, perquè inclou la projecció de l'explotació futura"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la qualificació de l'elaboració de projectes. Correcta (b): l'elaboració de projectes d'obres és una especialitat del contracte de serveis (art. 308 i concordants), amb un règim de responsabilitat per defectes del projecte. Per què no: (a), (c) i (d) no s'hi corresponen: el projecte és una prestació de fer (servei), no una obra ni un subministrament. Base: art. 308 LCSP.",
+      "source": "LCSP",
+      "article": "art. 308 LCSP"
+    },
+    {
+      "theme": 29,
+      "block": 5,
+      "q": "En la concessió de serveis, l'Administració conserva:",
+      "options": [
+        "Únicament el dret a percebre un cànon anual del concessionari",
+        "La titularitat del servei i les potestats d'ordenació, control i modificació",
+        "La gestió directa i quotidiana de tots els aspectes del servei prestat",
+        "La responsabilitat exclusiva de tots els riscos econòmics de l'explotació"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta què conserva l'Administració en la concessió de serveis. Correcta (b): l'Administració conserva la titularitat del servei i les potestats d'ordenació, control, inspecció i modificació (ius variandi). Per què no: (a) no es limita a un cànon; (c) la gestió quotidiana és del concessionari; (d) el risc operacional és del concessionari. Base: art. 287 LCSP.",
+      "source": "LCSP",
+      "article": "art. 287 LCSP"
+    },
+    {
+      "theme": 30,
+      "block": 5,
+      "q": "Quina documentació és preceptiva, com a mínim, en l'expedient d'un contracte menor d'obres?",
+      "options": [
+        "Únicament la factura emesa per l'empresa adjudicatària de les obres",
+        "Informe de necessitat, aprovació de la despesa, pressupost de les obres i factura",
+        "Els plecs de clàusules administratives i de prescripcions tècniques particulars",
+        "L'acta de la mesa de contractació amb la proposta d'adjudicació motivada"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la documentació del menor d'obres. Correcta (b): en el menor d'obres calen l'informe de necessitat (excepte ≤5.000 €), l'aprovació de la despesa, el pressupost de les obres (i projecte/supervisió si escau) i la factura (art. 118). Per què no: (a) no n'hi ha prou amb la factura; (c) i (d) el menor no requereix plecs ni mesa de contractació. Base: art. 118 LCSP.",
+      "source": "LCSP",
+      "article": "art. 118 LCSP"
     }
   ]
 }
