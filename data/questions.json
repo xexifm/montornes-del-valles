@@ -441,51 +441,6 @@
       "article": "art. 69.4 Llei 39/2015"
     },
     {
-      "theme": 56,
-      "block": 12,
-      "q": "La llicència urbanística és:",
-      "options": [
-        "Un acte reglat de control previ de la conformitat de l'actuació amb la legalitat urbanística",
-        "Un acte discrecional lliure",
-        "Un contracte",
-        "Una subvenció"
-      ],
-      "correct": 0,
-      "explain": "La llicència urbanística és un acte reglat: s'atorga o denega segons la conformitat de l'actuació amb el planejament i la legalitat.",
-      "source": "TRLUC",
-      "article": "art. 188 TRLUC"
-    },
-    {
-      "theme": 56,
-      "block": 12,
-      "q": "En matèria de llicències urbanístiques, no es poden adquirir per silenci administratiu:",
-      "options": [
-        "Cap facultat",
-        "Facultats o drets contraris a l'ordenament urbanístic o al planejament",
-        "Les llicències d'obres menors",
-        "Els drets de cap tipus"
-      ],
-      "correct": 1,
-      "explain": "En cap cas s'adquireixen per silenci facultats contràries a la legislació o al planejament urbanístic (art. 11.3 TRLS; doctrina consolidada).",
-      "source": "TRLSRU",
-      "article": "art. 11.3 TRLS"
-    },
-    {
-      "theme": 58,
-      "block": 12,
-      "q": "La inspecció urbanística és exercida principalment per:",
-      "options": [
-        "L'Estat",
-        "Els ajuntaments i, si escau, l'administració autonòmica",
-        "Els particulars",
-        "Els notaris"
-      ],
-      "correct": 1,
-      "explain": "La protecció de la legalitat i la inspecció urbanística corresponen als ajuntaments, sens perjudici de les competències autonòmiques (TRLUC).",
-      "source": "TRLUC",
-      "article": "art. 199 i ss. TRLUC"
-    },
-    {
       "theme": 73,
       "block": 12,
       "q": "L'acció de restauració de la realitat física alterada per obres il·legals prescriu, amb caràcter general, al cap de:",
@@ -589,21 +544,6 @@
       "explain": "El CTE es va aprovar pel Reial decret 314/2006, de 17 de març.",
       "source": "CTE",
       "article": "RD 314/2006"
-    },
-    {
-      "theme": 67,
-      "block": 11,
-      "q": "En l'expropiació forçosa, la fixació del preu just o 'just preu' té lloc:",
-      "options": [
-        "Abans de la declaració d'utilitat pública",
-        "Després de la declaració de necessitat d'ocupació, en peça separada",
-        "Mai",
-        "Només per acord verbal"
-      ],
-      "correct": 1,
-      "explain": "El procediment general (LEF) inclou la declaració d'utilitat pública, la necessitat d'ocupació, la determinació del just preu (peça separada) i el pagament i ocupació.",
-      "source": "LEF",
-      "article": "Llei d'expropiació forçosa 1954"
     },
     {
       "theme": 75,
@@ -994,21 +934,6 @@
       "explain": "Art. 169.6 TRLHL: si en començar l'exercici no està aprovat el pressupost, es prorroga automàticament el de l'any anterior amb els seus crèdits inicials.",
       "source": "TRLHL",
       "article": "art. 169.6 TRLHL"
-    },
-    {
-      "theme": 56,
-      "block": 12,
-      "q": "Estan subjectes a llicència urbanística, amb caràcter general:",
-      "options": [
-        "Totes les actuacions, fins i tot les exemptes per llei",
-        "Les obres i actuacions previstes legalment, sens perjudici dels règims de comunicació prèvia",
-        "Cap actuació",
-        "Només les obres de l'Estat"
-      ],
-      "correct": 1,
-      "explain": "L'art. 187 TRLUC enumera els actes subjectes a llicència; altres actuacions de menor entitat se subjecten a comunicació prèvia (art. 187 bis).",
-      "source": "TRLUC",
-      "article": "art. 187 TRLUC"
     },
     {
       "theme": 36,
@@ -1429,66 +1354,6 @@
       "explain": "Les entitats locals han de formar inventari de tots els seus béns i drets, rectificat anualment.",
       "source": "D336_1988",
       "article": "D 336/1988"
-    },
-    {
-      "theme": 67,
-      "block": 11,
-      "q": "En l'expropiació, la reversió procedeix quan:",
-      "options": [
-        "Sempre",
-        "Desapareix l'afectació o no s'executa l'obra que la va motivar",
-        "Mai",
-        "Ho decideix l'expropiat lliurement"
-      ],
-      "correct": 1,
-      "explain": "La reversió permet recuperar el bé si no s'executa l'obra o desapareix la causa expropiandi (LEF).",
-      "source": "LEF",
-      "article": "Llei d'expropiació forçosa"
-    },
-    {
-      "theme": 68,
-      "block": 11,
-      "q": "La valoració del sòl rural es fa, amb caràcter general:",
-      "options": [
-        "Per expectatives urbanístiques",
-        "Per capitalització de la renda real o potencial",
-        "Pel valor cadastral sempre",
-        "Lliurement"
-      ],
-      "correct": 1,
-      "explain": "El TRLS valora el sòl rural per capitalització de rendes, sense computar expectatives urbanístiques.",
-      "source": "TRLSRU",
-      "article": "art. 36 TRLS"
-    },
-    {
-      "theme": 57,
-      "block": 12,
-      "q": "Les parcel·lacions urbanístiques en sòl no urbanitzable:",
-      "options": [
-        "Són lliures",
-        "Estan prohibides (presumpció de parcel·lació urbanística il·legal)",
-        "Requereixen només comunicació",
-        "Les autoritza l'Estat"
-      ],
-      "correct": 1,
-      "explain": "En sòl no urbanitzable resta prohibida la parcel·lació urbanística; opera la presumpció legal.",
-      "source": "TRLUC",
-      "article": "art. 188 TRLUC"
-    },
-    {
-      "theme": 58,
-      "block": 12,
-      "q": "L'ordre de suspensió d'obres sense llicència:",
-      "options": [
-        "Requereix sentència",
-        "Es pot dictar de manera immediata com a mesura cautelar",
-        "Triga 6 anys",
-        "No existeix"
-      ],
-      "correct": 1,
-      "explain": "L'Administració pot ordenar la suspensió immediata d'obres en curs sense llicència (mesura cautelar).",
-      "source": "TRLUC",
-      "article": "art. 205 TRLUC"
     },
     {
       "theme": 70,
@@ -2016,21 +1881,6 @@
       "article": "art. 63 Llei 40/2015"
     },
     {
-      "theme": 58,
-      "block": 12,
-      "q": "La protecció de la legalitat urbanística inclou:",
-      "options": [
-        "Només multes",
-        "Restauració de la realitat alterada + procediment sancionador",
-        "Només indemnitzacions",
-        "Cap actuació"
-      ],
-      "correct": 1,
-      "explain": "La disciplina urbanística combina la restauració de la legalitat amb el règim sancionador.",
-      "source": "TRLUC",
-      "article": "arts. 199 i ss. TRLUC"
-    },
-    {
       "theme": 59,
       "block": 13,
       "q": "La declaració responsable ambiental s'aplica a activitats:",
@@ -2119,21 +1969,6 @@
       "explain": "La normativa preveu mecanismes per regularitzar i completar urbanitzacions amb dèficits.",
       "source": "TRLUC",
       "article": "DA TRLUC"
-    },
-    {
-      "theme": 67,
-      "block": 11,
-      "q": "El just preu en l'expropiació es pot fixar per:",
-      "options": [
-        "Sorteig",
-        "Mutu acord o, si no, pel Jurat d'Expropiació",
-        "L'expropiat unilateralment",
-        "L'Alcalde"
-      ],
-      "correct": 1,
-      "explain": "El just preu es fixa per acord o, si no n'hi ha, pel Jurat d'Expropiació (peça separada).",
-      "source": "LEF",
-      "article": "Llei d'expropiació forçosa"
     },
     {
       "theme": 77,
@@ -2329,21 +2164,6 @@
       "explain": "La sostenibilitat financera (LO 2/2012) limita el deute i el dèficit de les administracions.",
       "source": "TRLHL",
       "article": "LO 2/2012"
-    },
-    {
-      "theme": 56,
-      "block": 12,
-      "q": "La llicència de primera ocupació o utilització:",
-      "options": [
-        "No existeix",
-        "Comprova que l'obra acabada s'ajusta a la llicència atorgada",
-        "Autoritza enderrocar",
-        "Substitueix la d'obres"
-      ],
-      "correct": 1,
-      "explain": "La llicència de primera ocupació verifica l'adequació de l'edificació executada a la llicència concedida.",
-      "source": "TRLUC",
-      "article": "art. 187 TRLUC"
     },
     {
       "theme": 40,
@@ -2661,36 +2481,6 @@
       "article": "arts. 41 i ss. Llei 33/2003"
     },
     {
-      "theme": 56,
-      "block": 12,
-      "q": "Les obres promogudes per altres administracions:",
-      "options": [
-        "No necessiten res",
-        "Poden tenir un règim especial però respecten el planejament municipal",
-        "Ignoren el planejament sempre",
-        "Les autoritza un particular"
-      ],
-      "correct": 1,
-      "explain": "Les actuacions d'altres administracions tenen procediments específics, però se subjecten a l'ordenació urbanística.",
-      "source": "TRLUC",
-      "article": "art. 187-189 TRLUC"
-    },
-    {
-      "theme": 57,
-      "block": 12,
-      "q": "La presumpció de parcel·lació urbanística s'activa quan:",
-      "options": [
-        "Sempre",
-        "Hi ha indicis d'implantació de serveis o divisions que pressuposen transformació urbana",
-        "Mai",
-        "Ho diu el propietari"
-      ],
-      "correct": 1,
-      "explain": "La presumpció opera davant divisions o serveis que pressuposin una transformació urbanística (art. 188 TRLUC).",
-      "source": "TRLUC",
-      "article": "art. 188 TRLUC"
-    },
-    {
       "theme": 61,
       "block": 14,
       "q": "La supervisió de projectes d'obres és preceptiva:",
@@ -2779,21 +2569,6 @@
       "explain": "La regularització combina planejament i gestió per completar urbanització i cessions pendents.",
       "source": "TRLUC",
       "article": "DA i normativa específica"
-    },
-    {
-      "theme": 68,
-      "block": 11,
-      "q": "La valoració del sòl urbanitzat sense edificar es fa:",
-      "options": [
-        "Per renda agrària",
-        "Aplicant l'edificabilitat i ús atribuïts al valor de repercussió",
-        "Pel valor cadastral només",
-        "Lliurement"
-      ],
-      "correct": 1,
-      "explain": "En sòl urbanitzat, el TRLS valora aplicant a l'edificabilitat el valor de repercussió del sòl.",
-      "source": "TRLSRU",
-      "article": "art. 37 TRLS"
     },
     {
       "theme": 70,
@@ -3021,21 +2796,6 @@
       "article": "art. 85.2 LRBRL"
     },
     {
-      "theme": 57,
-      "block": 12,
-      "q": "La llicència de parcel·lació:",
-      "options": [
-        "No existeix",
-        "Autoritza la divisió de terrenys conforme al planejament",
-        "La dóna l'Estat",
-        "És tàcita sempre"
-      ],
-      "correct": 1,
-      "explain": "La llicència de parcel·lació controla que la divisió s'ajusti a les unitats mínimes i al planejament.",
-      "source": "TRLUC",
-      "article": "art. 187 TRLUC"
-    },
-    {
       "theme": 65,
       "block": 11,
       "q": "El patrimoni públic de sòl és un patrimoni:",
@@ -3064,21 +2824,6 @@
       "explain": "La regularització busca dotar de serveis i integrar urbanísticament aquests àmbits.",
       "source": "TRLUC",
       "article": "normativa urbanitzacions"
-    },
-    {
-      "theme": 68,
-      "block": 11,
-      "q": "En les valoracions, les indemnitzacions per extinció de drets:",
-      "options": [
-        "No es paguen",
-        "S'inclouen quan l'actuació comporta la seva privació",
-        "Són sempre el doble",
-        "Les fixa el propietari"
-      ],
-      "correct": 1,
-      "explain": "Les valoracions incorporen les indemnitzacions pels drets que s'extingeixen per l'actuació (TRLS).",
-      "source": "TRLSRU",
-      "article": "art. 42 TRLS"
     },
     {
       "theme": 73,
@@ -3306,21 +3051,6 @@
       "article": "art. 45 Llei 33/2003"
     },
     {
-      "theme": 56,
-      "block": 12,
-      "q": "La llicència s'atorga:",
-      "options": [
-        "Amb dret a perjudicar tercers",
-        "Deixant fora el dret de propietat i sens perjudici de tercers",
-        "Sense límits",
-        "Amb caràcter discrecional"
-      ],
-      "correct": 1,
-      "explain": "Les llicències s'atorguen salvant el dret de propietat i sens perjudici de tercers.",
-      "source": "TRLUC",
-      "article": "art. 188 TRLUC"
-    },
-    {
       "theme": 70,
       "block": 12,
       "q": "La caducitat de l'expedient sancionador urbanístic:",
@@ -3484,21 +3214,6 @@
       "explain": "El beneficiari ha de justificar el compliment de la finalitat i la realització de la despesa (art. 30 Llei 38/2003).",
       "source": "L38_2003",
       "article": "art. 30 Llei 38/2003"
-    },
-    {
-      "theme": 67,
-      "block": 11,
-      "q": "L'ocupació urgent de béns en l'expropiació:",
-      "options": [
-        "No existeix",
-        "Permet ocupar abans de fixar el just preu en supòsits taxats",
-        "És sempre la regla",
-        "La decideix l'expropiat"
-      ],
-      "correct": 1,
-      "explain": "El procediment d'urgència (art. 52 LEF) permet l'ocupació prèvia a la fixació definitiva del just preu.",
-      "source": "LEF",
-      "article": "art. 52 LEF"
     },
     {
       "theme": 10,
@@ -3681,21 +3396,6 @@
       "article": "Llei 33/2003; D 336/1988"
     },
     {
-      "theme": 56,
-      "block": 12,
-      "q": "Les llicències urbanístiques caduquen:",
-      "options": [
-        "Mai",
-        "Si no s'inicien o s'acaben les obres en els terminis fixats",
-        "Als 50 anys",
-        "Quan ho vol el veí"
-      ],
-      "correct": 1,
-      "explain": "Les llicències tenen terminis d'inici i finalització; el seu incompliment en determina la caducitat.",
-      "source": "TRLUC",
-      "article": "art. 189 TRLUC"
-    },
-    {
       "theme": 70,
       "block": 12,
       "q": "La sanció urbanística prescriu:",
@@ -3786,21 +3486,6 @@
       "article": "art. 3 TRLHL"
     },
     {
-      "theme": 58,
-      "block": 12,
-      "q": "La inspecció urbanística pot:",
-      "options": [
-        "Només mirar",
-        "Entrar als llocs i requerir informació per comprovar la legalitat",
-        "Sancionar sense expedient",
-        "Res"
-      ],
-      "correct": 1,
-      "explain": "La inspecció té facultats de comprovació, accés i requeriment d'informació (amb garanties).",
-      "source": "TRLUC",
-      "article": "art. 203 TRLUC"
-    },
-    {
       "theme": 35,
       "block": 8,
       "q": "El reintegrament de subvencions genera l'obligació de pagar:",
@@ -3814,21 +3499,6 @@
       "explain": "Art. 37-40 Llei 38/2003: el reintegrament inclou l'interès de demora meritat des del pagament de la subvenció.",
       "source": "L38_2003",
       "article": "art. 38 Llei 38/2003"
-    },
-    {
-      "theme": 67,
-      "block": 11,
-      "q": "En l'expropiació per ministeri de la llei:",
-      "options": [
-        "L'Administració inicia sempre",
-        "El propietari pot instar l'inici quan transcorre el termini sense actuar l'Administració",
-        "No existeix",
-        "La fa un notari"
-      ],
-      "correct": 1,
-      "explain": "L'expropiació per ministeri de la llei permet al propietari advertir i iniciar el procediment passat el termini.",
-      "source": "TRLUC",
-      "article": "art. 109 TRLUC"
     },
     {
       "theme": 31,
@@ -4011,21 +3681,6 @@
       "article": "Llei 19/2014"
     },
     {
-      "theme": 67,
-      "block": 11,
-      "q": "El just preu inclou un premi d'afecció del:",
-      "options": [
-        "0%",
-        "5%",
-        "25%",
-        "50%"
-      ],
-      "correct": 1,
-      "explain": "La LEF preveu un premi d'afecció del 5% sobre el valor del bé expropiat.",
-      "source": "LEF",
-      "article": "art. 47 LEF"
-    },
-    {
       "theme": 10,
       "block": 2,
       "q": "L'esmena i millora de la sol·licitud en procediments de concurrència:",
@@ -4144,36 +3799,6 @@
       "explain": "L'afectació al domini públic exigeix acte exprés o, en certs supòsits, es produeix de manera presumpta (Llei 33/2003).",
       "source": "L33_2003",
       "article": "Llei 33/2003"
-    },
-    {
-      "theme": 56,
-      "block": 12,
-      "q": "Les obres d'escassa entitat tècnica:",
-      "options": [
-        "Sempre llicència",
-        "Poden subjectar-se a comunicació prèvia",
-        "Estan prohibides",
-        "Requereixen projecte SARA"
-      ],
-      "correct": 1,
-      "explain": "Les actuacions de menor entitat se sotmeten a comunicació prèvia (art. 187 bis TRLUC).",
-      "source": "TRLUC",
-      "article": "art. 187 bis TRLUC"
-    },
-    {
-      "theme": 58,
-      "block": 12,
-      "q": "La protecció de la legalitat es pot exercir:",
-      "options": [
-        "Sense límit temporal sempre",
-        "Dins dels terminis de prescripció de l'acció de restauració",
-        "Només amb sentència",
-        "Mai d'ofici"
-      ],
-      "correct": 1,
-      "explain": "L'acció de restauració s'exerceix dins el termini de prescripció (6 anys general; imprescriptible en sòl protegit).",
-      "source": "TRLUC",
-      "article": "art. 207 TRLUC"
     },
     {
       "theme": 69,
@@ -4429,21 +4054,6 @@
       "explain": "El projecte de pressupost incorpora l'avanç de la liquidació de l'exercici corrent (art. 168 TRLHL).",
       "source": "TRLHL",
       "article": "art. 168 TRLHL"
-    },
-    {
-      "theme": 56,
-      "block": 12,
-      "q": "L'atorgament de llicència en sòl no urbanitzable:",
-      "options": [
-        "És lliure",
-        "Pot requerir informes i, segons l'ús, aprovació prèvia (projecte d'actuació específica)",
-        "Està prohibit sempre",
-        "No té tràmits"
-      ],
-      "correct": 1,
-      "explain": "Determinats usos en sòl no urbanitzable requereixen procediments i autoritzacions específiques (TRLUC).",
-      "source": "TRLUC",
-      "article": "arts. 47-50 TRLUC"
     },
     {
       "theme": 89,
@@ -5584,6 +5194,126 @@
       "explain": "Es pregunta el principi d'equidistribució. Correcta (b): consisteix a distribuir de manera justa i equitativa els beneficis (aprofitament) i les càrregues (cessions i urbanització) entre les persones propietàries d'un àmbit d'actuació. Per què no: (a) no és un repartiment entre tot el veïnat; (c) l'Administració només rep la cessió que li correspon, no tot l'aprofitament; (d) no és un mecanisme indemnitzatori general. Base: art. 120 TRLUC.",
       "source": "TRLUC",
       "article": "art. 120 TRLUC"
+    },
+    {
+      "theme": 56,
+      "block": 12,
+      "q": "Quina naturalesa jurídica té la llicència urbanística?",
+      "options": [
+        "És un acte discrecional que l'ajuntament atorga segons criteris d'oportunitat política",
+        "És un acte reglat de control previ de la conformitat de l'actuació amb la legalitat",
+        "És un contracte administratiu entre el promotor i l'ajuntament titular del sòl",
+        "És una autorització que crea ex novo el dret a edificar a favor del propietari"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la naturalesa de la llicència. Correcta (b): la llicència urbanística és un acte reglat de control previ; s'atorga o es denega segons la conformitat de l'actuació amb el planejament i la normativa, sense marge d'oportunitat. Per què no: (a) no és discrecional; (c) no és un contracte; (d) no crea el dret, sinó que en remou el límit per exercir-lo (acte de control). Base: art. 188 TRLUC.",
+      "source": "TRLUC",
+      "article": "art. 188 TRLUC"
+    },
+    {
+      "theme": 56,
+      "block": 12,
+      "q": "Una sol·licitud de llicència per a una obra disconforme amb el planejament no es resol dins de termini. Què passa?",
+      "options": [
+        "S'entén atorgada per silenci positiu pel sol transcurs del termini màxim per resoldre",
+        "No s'adquireix per silenci cap facultat contrària a l'ordenament urbanístic",
+        "S'entén denegada per silenci negatiu en tots els casos",
+        "S'atorga automàticament amb les condicions que fixi després l'ajuntament"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el límit del silenci en llicències. Correcta (b): encara que el silenci en llicències sigui positiu, en cap cas no s'adquireixen per silenci facultats o drets contraris a l'ordenació urbanística (art. 11.3 TRLS); una obra disconforme no s'entén autoritzada. Per què no: (a) no s'obté la llicència il·legal pel transcurs del termini; (c) el silenci en llicències és, de regla, positiu, no negatiu; (d) no s'atorga automàticament amb condicions posteriors. Base: art. 11.3 TRLS.",
+      "source": "TRLSRU",
+      "article": "art. 11.3 TRLS"
+    },
+    {
+      "theme": 57,
+      "block": 12,
+      "q": "Què estableix la normativa urbanística respecte de les parcel·lacions en sòl no urbanitzable?",
+      "options": [
+        "Que es poden fer lliurement si es respecta la unitat mínima de conreu vigent",
+        "Que les parcel·lacions urbanístiques hi estan prohibides",
+        "Que només requereixen una comunicació prèvia a l'ajuntament del municipi",
+        "Que les pot autoritzar directament el departament competent de la Generalitat"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el règim de parcel·lació en sòl no urbanitzable. Correcta (b): en sòl no urbanitzable resten prohibides les parcel·lacions urbanístiques, i opera una presumpció de parcel·lació davant indicis de transformació urbana. Per què no: (a) no es poden fer lliurement; (c) no n'hi ha prou amb una comunicació; (d) tampoc no les autoritza directament la Generalitat com a parcel·lació urbanística. Base: art. 188 TRLUC.",
+      "source": "TRLUC",
+      "article": "art. 188 TRLUC"
+    },
+    {
+      "theme": 58,
+      "block": 12,
+      "q": "Davant unes obres en curs que s'executen sense llicència, l'ajuntament pot, com a mesura immediata:",
+      "options": [
+        "Imposar només una sanció econòmica un cop acabades les obres il·legals",
+        "Ordenar la suspensió immediata de les obres com a mesura cautelar",
+        "Esperar el transcurs del termini de sis anys de prescripció per actuar",
+        "Legalitzar-les d'ofici sense cap tràmit per evitar conflictes amb el promotor"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la reacció davant obres sense llicència en curs. Correcta (b): l'Administració pot ordenar la suspensió immediata de les obres com a mesura cautelar i incoar el procediment de protecció de la legalitat. Per què no: (a) la sanció és independent però no exclou la suspensió ni la restauració; (c) no ha d'esperar la prescripció; (d) la legalització requereix que les obres siguin conformes i el procediment corresponent. Base: art. 205 TRLUC.",
+      "source": "TRLUC",
+      "article": "art. 205 TRLUC"
+    },
+    {
+      "theme": 58,
+      "block": 12,
+      "q": "La restauració de la legalitat urbanística i la imposició de la sanció per la infracció són:",
+      "options": [
+        "Excloents: si s'imposa la sanció, ja no es pot exigir la restauració de la legalitat",
+        "Independents i compatibles entre si",
+        "La mateixa cosa amb dos noms diferents segons el tipus de sòl afectat",
+        "Alternatives que ha de triar el presumpte infractor en el seu escrit d'al·legacions"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la relació entre restauració i sanció. Correcta (b): són actuacions independents i compatibles; la multa per la infracció no eximeix del deure de restaurar la realitat alterada, i a la inversa. Per què no: (a) no són excloents; (c) no són la mateixa cosa (una restableix l'ordenació, l'altra castiga); (d) no és una opció a triar per l'infractor. Base: arts. 199 i 219 TRLUC.",
+      "source": "TRLUC",
+      "article": "arts. 199 i 219 TRLUC"
+    },
+    {
+      "theme": 67,
+      "block": 11,
+      "q": "Quina és la primera fase del procediment expropiatori general segons la Llei d'expropiació forçosa?",
+      "options": [
+        "La fixació del just preu mitjançant l'acord directe amb la persona expropiada",
+        "La declaració d'utilitat pública o d'interès social de l'obra o la finalitat",
+        "El pagament i la presa de possessió material del bé per part del beneficiari",
+        "La inscripció del bé expropiat al Registre de la Propietat a favor de l'Estat"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta l'ordre del procediment expropiatori. Correcta (b): el procediment s'inicia amb la declaració d'utilitat pública o interès social; segueixen la necessitat d'ocupació, la determinació del just preu i el pagament i l'ocupació. Per què no: (a) i (c) el just preu i el pagament són fases posteriors; (d) la inscripció registral no és la primera fase. Base: Llei d'expropiació forçosa (1954).",
+      "source": "LEF",
+      "article": "Llei d'expropiació forçosa"
+    },
+    {
+      "theme": 67,
+      "block": 11,
+      "q": "Quan no hi ha acord entre l'Administració i la persona expropiada sobre el preu, qui fixa el just preu?",
+      "options": [
+        "L'Alcalde de l'ajuntament expropiant, mitjançant un decret degudament motivat",
+        "El Jurat d'Expropiació, en una peça separada del procediment",
+        "El registrador de la propietat del districte on se situa la finca afectada",
+        "La persona expropiada, que el fixa de manera unilateral en el seu full d'apreuament"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta qui fixa el just preu sense acord. Correcta (b): a falta d'acord, el just preu el fixa el Jurat d'Expropiació (òrgan col·legiat) en peça separada; la seva decisió exhaureix la via administrativa. Per què no: (a) no el fixa l'Alcalde; (c) tampoc el registrador; (d) cada part formula el seu full d'apreuament, però no el fixa unilateralment l'expropiat. Base: Llei d'expropiació forçosa.",
+      "source": "LEF",
+      "article": "Llei d'expropiació forçosa"
+    },
+    {
+      "theme": 68,
+      "block": 11,
+      "q": "Quina legislació estableix els criteris de valoració del sòl a efectes d'expropiacions i reparcel·lacions?",
+      "options": [
+        "Una ordenança fiscal específica aprovada per cada ajuntament en el seu àmbit",
+        "La legislació estatal del sòl (TRLS), de competència exclusiva de l'Estat",
+        "El TRLUC de Catalunya, de manera exclusiva i amb total independència de l'Estat",
+        "La normativa cadastral, que fixa directament el valor de mercat de cada finca"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta quina norma fixa les valoracions. Correcta (b): les valoracions del sòl es regeixen per la legislació estatal del sòl (TRLS, RDL 7/2015), competència exclusiva de l'Estat. Per què no: (a) no es fixen per ordenança municipal; (c) la valoració no és competència autonòmica exclusiva; (d) el valor cadastral no determina la valoració urbanística. Base: TRLS (RDL 7/2015).",
+      "source": "TRLSRU",
+      "article": "RDL 7/2015 (TRLS)"
     }
   ]
 }
