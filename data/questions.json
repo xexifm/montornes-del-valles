@@ -6,81 +6,6 @@
   },
   "questions": [
     {
-      "theme": 59,
-      "block": 13,
-      "q": "La Llei 20/2009 de Catalunya regula:",
-      "options": [
-        "La prevenció i el control ambiental de les activitats",
-        "Els contractes públics",
-        "La funció pública",
-        "L'urbanisme"
-      ],
-      "correct": 0,
-      "explain": "La Llei 20/2009, de 4 de desembre, regula la prevenció i el control ambiental de les activitats (règims d'autorització, llicència i comunicació).",
-      "source": "L20_2009",
-      "article": "Llei 20/2009"
-    },
-    {
-      "theme": 60,
-      "block": 13,
-      "q": "Els espectacles públics i activitats recreatives a Catalunya es regulen per:",
-      "options": [
-        "La Llei 11/2009",
-        "La Llei 38/2003",
-        "El RDL 5/2015",
-        "La Llei 19/2014"
-      ],
-      "correct": 0,
-      "explain": "La Llei 11/2009 regula l'administració d'espectacles públics i activitats recreatives a Catalunya.",
-      "source": "L11_2009",
-      "article": "Llei 11/2009"
-    },
-    {
-      "theme": 61,
-      "block": 14,
-      "q": "L'elaboració de projectes d'obres locals correspon, amb caràcter general, a:",
-      "options": [
-        "Qualsevol persona sense titulació",
-        "Els serveis tècnics municipals o tècnics competents externs",
-        "L'Alcalde personalment",
-        "El secretari"
-      ],
-      "correct": 1,
-      "explain": "Els projectes els redacten els serveis tècnics municipals o, si no es disposa de mitjans, tècnics competents contractats a l'efecte (ROAS/LCSP).",
-      "source": "ROAS",
-      "article": "D 179/1995"
-    },
-    {
-      "theme": 62,
-      "block": 14,
-      "q": "Els requisits bàsics de les edificacions segons la LOE són:",
-      "options": [
-        "Funcionalitat, seguretat i habitabilitat",
-        "Estètica i economia únicament",
-        "Color i orientació",
-        "Cap requisit"
-      ],
-      "correct": 0,
-      "explain": "Art. 3 LOE: els requisits bàsics són funcionalitat, seguretat (estructural, en cas d'incendi i d'utilització) i habitabilitat, desenvolupats pel CTE.",
-      "source": "LOE",
-      "article": "art. 3 LOE"
-    },
-    {
-      "theme": 62,
-      "block": 14,
-      "q": "El Codi Tècnic de l'Edificació (CTE) es va aprovar pel:",
-      "options": [
-        "RD 314/2006",
-        "RD 1627/1997",
-        "RDL 7/2015",
-        "Decret 179/1995"
-      ],
-      "correct": 0,
-      "explain": "El CTE es va aprovar pel Reial decret 314/2006, de 17 de març.",
-      "source": "CTE",
-      "article": "RD 314/2006"
-    },
-    {
       "theme": 75,
       "block": 15,
       "q": "La Llei del dret a l'habitatge de Catalunya és:",
@@ -276,21 +201,6 @@
       "article": "codi de conducta, Llei 19/2014"
     },
     {
-      "theme": 63,
-      "block": 14,
-      "q": "L'execució d'obres locals es pot fer:",
-      "options": [
-        "Només per contracte",
-        "Mitjançant contracte o per mitjans propis (execució per la mateixa Administració)",
-        "Sense projecte ni control",
-        "Només per concessió"
-      ],
-      "correct": 1,
-      "explain": "Les obres es poden executar per contracte o per la pròpia administració amb mitjans propis quan concorrin els supòsits legals (LCSP/ROAS).",
-      "source": "LCSP",
-      "article": "art. 30 LCSP"
-    },
-    {
       "theme": 87,
       "block": 7,
       "q": "La gestió de conflictes i el bon clima laboral en l'atenció al personal s'orienta a:",
@@ -349,81 +259,6 @@
       "explain": "Art. 97 TREBEP: les infraccions molt greus prescriuen als 3 anys; les greus, als 2; les lleus, als 6 mesos.",
       "source": "TREBEP",
       "article": "art. 97 TREBEP"
-    },
-    {
-      "theme": 59,
-      "block": 13,
-      "q": "L'autorització ambiental s'exigeix a les activitats:",
-      "options": [
-        "De baixa incidència",
-        "D'alta incidència ambiental (annex I)",
-        "Sense incidència",
-        "Domèstiques"
-      ],
-      "correct": 1,
-      "explain": "La Llei 20/2009 reserva l'autorització ambiental a les activitats de l'annex I (alta incidència).",
-      "source": "L20_2009",
-      "article": "Llei 20/2009"
-    },
-    {
-      "theme": 60,
-      "block": 13,
-      "q": "La llicència d'establiments oberts al públic per a espectacles:",
-      "options": [
-        "No cal mai",
-        "És exigible segons el risc i l'aforament, conforme a la Llei 11/2009",
-        "La dóna l'Estat",
-        "És sempre comunicació"
-      ],
-      "correct": 1,
-      "explain": "La Llei 11/2009 estableix règims d'intervenció (llicència/comunicació) segons el tipus d'establiment i risc.",
-      "source": "L11_2009",
-      "article": "Llei 11/2009"
-    },
-    {
-      "theme": 61,
-      "block": 14,
-      "q": "El projecte d'obres ha de definir:",
-      "options": [
-        "Només el pressupost",
-        "L'obra de manera completa per a la seva execució (memòria, plànols, plec, pressupost)",
-        "Només els plànols",
-        "El personal"
-      ],
-      "correct": 1,
-      "explain": "El projecte d'obres comprèn memòria, plànols, plec de prescripcions tècniques i pressupost (LCSP/ROAS).",
-      "source": "LCSP",
-      "article": "art. 233 LCSP"
-    },
-    {
-      "theme": 62,
-      "block": 14,
-      "q": "El CTE és exigible a:",
-      "options": [
-        "Obres de jardineria",
-        "Les edificacions de nova construcció i intervencions en existents segons àmbit",
-        "Vials interurbans",
-        "Mobiliari"
-      ],
-      "correct": 1,
-      "explain": "El CTE s'aplica a les edificacions de nova construcció i a determinades intervencions en edificis existents.",
-      "source": "CTE",
-      "article": "RD 314/2006"
-    },
-    {
-      "theme": 64,
-      "block": 14,
-      "q": "La direcció facultativa de les obres:",
-      "options": [
-        "És prescindible",
-        "Dirigeix l'execució vetllant per la conformitat amb el projecte i la normativa",
-        "Només signa la factura",
-        "La fa l'Alcalde"
-      ],
-      "correct": 1,
-      "explain": "La direcció facultativa (d'obra i d'execució) dirigeix tècnicament l'obra i en controla l'execució.",
-      "source": "LOE",
-      "article": "art. 12-13 LOE"
     },
     {
       "theme": 75,
@@ -589,96 +424,6 @@
       "explain": "La presència de recursos preventius és preceptiva en treballs amb riscos especials o concurrència (RD 171/2004; art. 32 bis LPRL).",
       "source": "RD171_2004",
       "article": "art. 32 bis LPRL"
-    },
-    {
-      "theme": 59,
-      "block": 13,
-      "q": "La declaració responsable ambiental s'aplica a activitats:",
-      "options": [
-        "D'alta incidència",
-        "De baixa incidència ambiental (annex III)",
-        "Sense activitat",
-        "Industrials grans"
-      ],
-      "correct": 1,
-      "explain": "Les activitats de baixa incidència se sotmeten al règim de comunicació/declaració responsable.",
-      "source": "L20_2009",
-      "article": "Llei 20/2009"
-    },
-    {
-      "theme": 60,
-      "block": 13,
-      "q": "La revisió periòdica de les activitats amb incidència ambiental:",
-      "options": [
-        "No existeix",
-        "Permet comprovar que es mantenen les condicions ambientals",
-        "La fa el titular sense control",
-        "És anual sempre"
-      ],
-      "correct": 1,
-      "explain": "El control ambiental periòdic verifica el manteniment de les condicions de la llicència/autorització.",
-      "source": "L20_2009",
-      "article": "Llei 20/2009"
-    },
-    {
-      "theme": 63,
-      "block": 14,
-      "q": "L'execució d'obres per administració (mitjans propis) requereix:",
-      "options": [
-        "Res",
-        "Que concorrin els supòsits legals (mitjans propis, urgència, etc.)",
-        "Sempre concessió",
-        "Una subvenció estatal"
-      ],
-      "correct": 1,
-      "explain": "L'execució per la pròpia Administració només procedeix en els supòsits taxats (art. 30 LCSP).",
-      "source": "LCSP",
-      "article": "art. 30 LCSP"
-    },
-    {
-      "theme": 64,
-      "block": 14,
-      "q": "La planificació de tasques en obres municipals busca:",
-      "options": [
-        "Improvisar",
-        "Coordinar accions, terminis i recursos per assolir els objectius",
-        "Endarrerir l'obra",
-        "Eliminar el control"
-      ],
-      "correct": 1,
-      "explain": "La coordinació i planificació d'obres organitza tasques, accions i projectes per complir terminis i objectius.",
-      "source": "ROAS",
-      "article": "organització d'obres"
-    },
-    {
-      "theme": 65,
-      "block": 11,
-      "q": "El patrimoni públic de sòl i habitatge té com a finalitat:",
-      "options": [
-        "Especular",
-        "Regular el mercat de sòl i facilitar habitatge protegit",
-        "Pagar deute",
-        "Res"
-      ],
-      "correct": 1,
-      "explain": "Els patrimonis públics de sòl s'afecten a la gestió urbanística i a fer efectiu el dret a l'habitatge.",
-      "source": "TRLUC",
-      "article": "art. 160 TRLUC"
-    },
-    {
-      "theme": 66,
-      "block": 11,
-      "q": "Les urbanitzacions amb dèficits urbanístics:",
-      "options": [
-        "No tenen règim",
-        "Disposen d'un règim específic per completar la urbanització i regularitzar-les",
-        "Es deixen com estan",
-        "Les gestiona l'Estat"
-      ],
-      "correct": 1,
-      "explain": "La normativa preveu mecanismes per regularitzar i completar urbanitzacions amb dèficits.",
-      "source": "TRLUC",
-      "article": "DA TRLUC"
     },
     {
       "theme": 77,
@@ -891,96 +636,6 @@
       "article": "art. 94 TREBEP"
     },
     {
-      "theme": 61,
-      "block": 14,
-      "q": "La supervisió de projectes d'obres és preceptiva:",
-      "options": [
-        "Mai",
-        "En obres d'import elevat o que afectin l'estabilitat/seguretat",
-        "Sempre per a obra menor",
-        "Per a contractes de serveis"
-      ],
-      "correct": 1,
-      "explain": "L'oficina de supervisió verifica els projectes quan ho exigeix la quantia o afecten estabilitat/seguretat (art. 235 LCSP).",
-      "source": "LCSP",
-      "article": "art. 235 LCSP"
-    },
-    {
-      "theme": 62,
-      "block": 14,
-      "q": "Els documents bàsics del CTE regulen exigències com:",
-      "options": [
-        "El preu",
-        "Seguretat estructural, en cas d'incendi, d'utilització, salubritat, soroll i estalvi d'energia",
-        "El color de façana",
-        "El nom de l'arquitecte"
-      ],
-      "correct": 1,
-      "explain": "El CTE estableix exigències bàsiques (DB-SE, SI, SUA, HS, HR, HE) per complir els requisits de la LOE.",
-      "source": "CTE",
-      "article": "RD 314/2006"
-    },
-    {
-      "theme": 63,
-      "block": 14,
-      "q": "L'execució d'obres per contracte exigeix, en general:",
-      "options": [
-        "Cap projecte",
-        "Un projecte aprovat i la corresponent licitació",
-        "Només una factura",
-        "Un ban"
-      ],
-      "correct": 1,
-      "explain": "L'execució per contracte requereix projecte aprovat i el procediment de licitació de la LCSP.",
-      "source": "LCSP",
-      "article": "arts. 231 i ss. LCSP"
-    },
-    {
-      "theme": 64,
-      "block": 14,
-      "q": "La coordinació de seguretat i salut en obres de construcció:",
-      "options": [
-        "No cal",
-        "És obligatòria quan hi intervé més d'una empresa",
-        "És opcional",
-        "La fa l'Alcalde"
-      ],
-      "correct": 1,
-      "explain": "La coordinació de seguretat i salut és preceptiva en obres amb intervenció de diverses empreses (RD 1627/1997).",
-      "source": "RD171_2004",
-      "article": "RD 1627/1997"
-    },
-    {
-      "theme": 65,
-      "block": 11,
-      "q": "Els ingressos del patrimoni públic de sòl:",
-      "options": [
-        "Es destinen a festes",
-        "S'afecten a finalitats d'interès social i a la política d'habitatge i urbanisme",
-        "Es reparteixen entre regidors",
-        "No es controlen"
-      ],
-      "correct": 1,
-      "explain": "Els recursos dels patrimonis públics de sòl s'afecten a finalitats urbanístiques i d'habitatge.",
-      "source": "TRLUC",
-      "article": "art. 163 TRLUC"
-    },
-    {
-      "theme": 66,
-      "block": 11,
-      "q": "Les urbanitzacions amb dèficits es regularitzen mitjançant:",
-      "options": [
-        "Res",
-        "Instruments de planejament i gestió que completin serveis i cessions",
-        "Una multa única",
-        "La seva demolició sempre"
-      ],
-      "correct": 1,
-      "explain": "La regularització combina planejament i gestió per completar urbanització i cessions pendents.",
-      "source": "TRLUC",
-      "article": "DA i normativa específica"
-    },
-    {
       "theme": 75,
       "block": 15,
       "q": "La Llei 18/2007 preveu, davant la desocupació permanent:",
@@ -1086,36 +741,6 @@
       "article": "eines de comandament"
     },
     {
-      "theme": 65,
-      "block": 11,
-      "q": "El patrimoni públic de sòl és un patrimoni:",
-      "options": [
-        "Comú amb la resta de béns",
-        "Separat, amb afectació i comptabilitat pròpies",
-        "Privat",
-        "Inexistent"
-      ],
-      "correct": 1,
-      "explain": "Els patrimonis públics de sòl es configuren com a patrimonis separats, afectats a les seves finalitats.",
-      "source": "TRLUC",
-      "article": "art. 161 TRLUC"
-    },
-    {
-      "theme": 66,
-      "block": 11,
-      "q": "L'objectiu de regularitzar urbanitzacions amb dèficits és:",
-      "options": [
-        "Demolir-les",
-        "Garantir els serveis urbanístics i la integració urbana",
-        "Privatitzar-les",
-        "Abandonar-les"
-      ],
-      "correct": 1,
-      "explain": "La regularització busca dotar de serveis i integrar urbanísticament aquests àmbits.",
-      "source": "TRLUC",
-      "article": "normativa urbanitzacions"
-    },
-    {
       "theme": 79,
       "block": 17,
       "q": "Les fases de l'avaluació de l'assoliment d'objectius inclouen:",
@@ -1189,21 +814,6 @@
       "explain": "Les empreses concurrents han de cooperar i informar-se mútuament dels riscos (art. 4 RD 171/2004).",
       "source": "RD171_2004",
       "article": "art. 4 RD 171/2004"
-    },
-    {
-      "theme": 62,
-      "block": 14,
-      "q": "Els agents de l'edificació segons la LOE inclouen:",
-      "options": [
-        "Només el promotor",
-        "Promotor, projectista, constructor, direcció facultativa, etc.",
-        "Només l'arquitecte",
-        "Cap"
-      ],
-      "correct": 1,
-      "explain": "La LOE defineix els agents: promotor, projectista, constructor, director d'obra i d'execució, entitats de control, etc.",
-      "source": "LOE",
-      "article": "arts. 8 i ss. LOE"
     },
     {
       "theme": 82,
@@ -1296,36 +906,6 @@
       "article": "RD 1627/1997"
     },
     {
-      "theme": 59,
-      "block": 13,
-      "q": "El règim d'intervenció ambiental es determina segons:",
-      "options": [
-        "L'atzar",
-        "La incidència ambiental de l'activitat (annexos de la Llei 20/2009)",
-        "El nom del titular",
-        "El color"
-      ],
-      "correct": 1,
-      "explain": "Els annexos de la Llei 20/2009 classifiquen les activitats segons la incidència i el règim aplicable.",
-      "source": "L20_2009",
-      "article": "Llei 20/2009"
-    },
-    {
-      "theme": 60,
-      "block": 13,
-      "q": "Els espectacles i activitats recreatives es regeixen també per:",
-      "options": [
-        "La LCSP",
-        "El reglament que desplega la Llei 11/2009",
-        "El TREBEP",
-        "La LOE"
-      ],
-      "correct": 1,
-      "explain": "La Llei 11/2009 es desplega reglamentàriament, regulant aforaments, horaris i condicions.",
-      "source": "L11_2009",
-      "article": "Llei 11/2009"
-    },
-    {
       "theme": 75,
       "block": 15,
       "q": "La cèdula d'habitabilitat acredita:",
@@ -1384,21 +964,6 @@
       "explain": "La millora contínua aplica el cicle PDCA (Deming): planificar, fer, verificar i actuar.",
       "source": "L19_2014",
       "article": "qualitat"
-    },
-    {
-      "theme": 62,
-      "block": 14,
-      "q": "La LOE exigeix garanties per danys materials per:",
-      "options": [
-        "No res",
-        "Vicis o defectes (terminis de 1, 3 i 10 anys segons l'element)",
-        "Sempre 50 anys",
-        "Cap termini"
-      ],
-      "correct": 1,
-      "explain": "Art. 17-19 LOE: responsabilitat i garanties per terminis d'1 (acabats), 3 (habitabilitat) i 10 anys (estructura).",
-      "source": "LOE",
-      "article": "arts. 17-19 LOE"
     },
     {
       "theme": 86,
@@ -1489,21 +1054,6 @@
       "explain": "L'ètica pública guia la conducta diària dels directius i empleats al servei de l'interès general.",
       "source": "L19_2014",
       "article": "ètica pública"
-    },
-    {
-      "theme": 62,
-      "block": 14,
-      "q": "El projectista, segons la LOE, és:",
-      "options": [
-        "El constructor",
-        "Qui redacta el projecte conforme a la normativa i l'encàrrec",
-        "El promotor",
-        "El veí"
-      ],
-      "correct": 1,
-      "explain": "El projectista redacta el projecte tècnic ajustant-se a la normativa i a l'encàrrec del promotor (art. 10 LOE).",
-      "source": "LOE",
-      "article": "art. 10 LOE"
     },
     {
       "theme": 86,
@@ -3574,6 +3124,156 @@
       "explain": "Es pregunta la diferència entre taxa i preu públic. Correcta (b): la taxa es paga per un servei de recepció obligatòria o que presta el sector públic en monopoli; el preu públic, per serveis de recepció voluntària que també presta el sector privat (i no és un tribut). Per què no: (a) sí que hi ha diferència; (c) i (d) no descriuen correctament la distinció. Base: arts. 20 i 41 TRLHL.",
       "source": "TRLHL",
       "article": "arts. 20 i 41 TRLHL"
+    },
+    {
+      "theme": 59,
+      "block": 13,
+      "q": "Segons la Llei 20/2009, a quin règim se sotmeten les activitats d'ALTA incidència ambiental (annex I)?",
+      "options": [
+        "Al règim de comunicació prèvia presentada davant l'ajuntament",
+        "A l'autorització ambiental atorgada per la Generalitat",
+        "A la llicència ambiental atorgada per l'ajuntament del municipi",
+        "A una simple declaració responsable de la persona titular de l'activitat"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el règim de les activitats d'alta incidència. Correcta (b): les activitats d'alta incidència (annex I) se sotmeten a autorització ambiental, atorgada per la Generalitat. Per què no: (a) la comunicació és per a la baixa incidència; (c) la llicència ambiental és per a la incidència mitjana (annex II); (d) la declaració responsable és per a la baixa. Base: Llei 20/2009.",
+      "source": "L20_2009",
+      "article": "Llei 20/2009"
+    },
+    {
+      "theme": 59,
+      "block": 13,
+      "q": "A quin règim se sotmeten, en general, les activitats de MITJANA incidència ambiental (annex II)?",
+      "options": [
+        "A l'autorització ambiental de la Generalitat amb avaluació d'impacte",
+        "A la llicència ambiental municipal",
+        "Al règim de comunicació, amb control exclusivament posterior",
+        "A cap règim d'intervenció, atès el seu baix risc per al medi"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el règim de les activitats de mitjana incidència. Correcta (b): les de mitjana incidència (annex II) se sotmeten a llicència ambiental, atorgada per l'ajuntament (control previ municipal). Per què no: (a) l'autorització és per a l'alta incidència; (c) la comunicació és per a la baixa; (d) sí que tenen règim d'intervenció. Base: Llei 20/2009.",
+      "source": "L20_2009",
+      "article": "Llei 20/2009"
+    },
+    {
+      "theme": 60,
+      "block": 13,
+      "q": "Quina llei regula els espectacles públics i les activitats recreatives a Catalunya?",
+      "options": [
+        "La Llei 20/2009, de prevenció i control ambiental de les activitats",
+        "La Llei 11/2009",
+        "La Llei 18/2007, del dret a l'habitatge de Catalunya",
+        "La Llei 19/2014, de transparència i bon govern de Catalunya"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la norma d'espectacles. Correcta (b): la Llei 11/2009 regula l'administració d'espectacles públics i activitats recreatives a Catalunya. Per què no: (a) la Llei 20/2009 regula la incidència ambiental de les activitats; (c) i (d) regulen l'habitatge i la transparència, respectivament. Base: Llei 11/2009.",
+      "source": "L11_2009",
+      "article": "Llei 11/2009"
+    },
+    {
+      "theme": 61,
+      "block": 14,
+      "q": "Quin és el contingut mínim d'un projecte d'obres?",
+      "options": [
+        "Únicament el pressupost amb els amidaments i els quadres de preus de l'obra",
+        "Memòria, plànols, plec de prescripcions tècniques i pressupost",
+        "Només la memòria descriptiva i els plànols de situació i emplaçament",
+        "L'acta de replanteig previ i les certificacions mensuals de l'obra executada"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el contingut del projecte d'obres. Correcta (b): el projecte comprèn, com a mínim, la memòria, els plànols, el plec de prescripcions tècniques particulars i el pressupost (a més de l'estudi de seguretat i salut quan escaigui) (art. 233 LCSP). Per què no: (a) i (c) són parts incompletes; (d) el replanteig i les certificacions són actes de l'execució, no del projecte. Base: art. 233 LCSP.",
+      "source": "LCSP",
+      "article": "art. 233 LCSP"
+    },
+    {
+      "theme": 62,
+      "block": 14,
+      "q": "Quins són els requisits bàsics de l'edificació segons la Llei d'ordenació de l'edificació (LOE)?",
+      "options": [
+        "Economia, durabilitat i rapidesa en l'execució material de l'obra",
+        "Funcionalitat, seguretat i habitabilitat",
+        "Estètica, integració paisatgística i respecte al patrimoni històric",
+        "Rendibilitat econòmica i revaloració del bé per al promotor"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta els requisits bàsics de la LOE. Correcta (b): els requisits bàsics són la funcionalitat, la seguretat (estructural, en cas d'incendi i d'utilització) i l'habitabilitat (art. 3 LOE), desenvolupats pel Codi tècnic de l'edificació. Per què no: (a), (c) i (d) no són els requisits bàsics legals de l'edificació. Base: art. 3 LOE.",
+      "source": "LOE",
+      "article": "art. 3 LOE"
+    },
+    {
+      "theme": 62,
+      "block": 14,
+      "q": "Quin és el termini de garantia per danys que afecten l'estabilitat i la seguretat estructural d'un edifici (LOE)?",
+      "options": [
+        "Un any des de la recepció de l'obra acabada",
+        "Deu anys",
+        "Tres anys per a qualsevol tipus de defecte constructiu",
+        "Quinze anys, igual que la responsabilitat per ruïna del contractista"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el termini de garantia estructural de la LOE. Correcta (b): la LOE estableix una garantia de deu anys per als danys materials causats per vicis o defectes que afectin l'estabilitat i la seguretat estructural (art. 17 LOE); d'un any per als d'acabament i de tres per als d'habitabilitat. Per què no: (a) un any és per als acabats; (c) tres anys per a l'habitabilitat; (d) la ruïna de la LCSP (15 anys) és una altra figura. Base: art. 17 LOE.",
+      "source": "LOE",
+      "article": "art. 17 LOE"
+    },
+    {
+      "theme": 63,
+      "block": 14,
+      "q": "Com es pot executar una obra local, segons la LCSP?",
+      "options": [
+        "Únicament mitjançant un contracte d'obres adjudicat per procediment obert",
+        "Mitjançant contracte o per la pròpia Administració amb mitjans propis",
+        "Exclusivament per la pròpia Administració amb el seu personal i mitjans",
+        "Sempre per concessió d'obres, amb explotació posterior pel constructor"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta les formes d'execució d'obres. Correcta (b): les obres es poden executar mitjançant contracte (regla general) o per la pròpia Administració amb mitjans propis, en els supòsits taxats de l'art. 30 LCSP. Per què no: (a) el contracte no es limita al procediment obert; (c) l'execució per mitjans propis no és l'única via; (d) no sempre és per concessió. Base: art. 30 LCSP.",
+      "source": "LCSP",
+      "article": "art. 30 LCSP"
+    },
+    {
+      "theme": 64,
+      "block": 14,
+      "q": "Quan és obligatòria la coordinació de seguretat i salut en una obra de construcció?",
+      "options": [
+        "Sempre, fins i tot quan hi intervé una sola empresa contractista",
+        "Quan en l'execució de l'obra intervé més d'una empresa",
+        "Únicament en les obres de pressupost superior a un milió d'euros",
+        "Només quan ho sol·licita expressament el promotor de l'obra"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta quan cal coordinador de seguretat i salut. Correcta (b): la designació d'un coordinador de seguretat i salut és obligatòria quan en l'execució de l'obra intervé més d'una empresa (RD 1627/1997). Per què no: (a) amb una sola empresa no cal coordinador (sí altres obligacions); (c) no depèn d'un llindar de pressupost; (d) no depèn de la sol·licitud del promotor. Base: RD 1627/1997.",
+      "source": "RD171_2004",
+      "article": "RD 1627/1997"
+    },
+    {
+      "theme": 65,
+      "block": 11,
+      "q": "Quina és una finalitat dels patrimonis públics de sòl i d'habitatge?",
+      "options": [
+        "Generar rendes per finançar les despeses corrents ordinàries del municipi",
+        "Fer efectiu el dret a l'habitatge i regular el mercat de sòl",
+        "Substituir el pressupost municipal en matèria d'inversions urbanístiques",
+        "Adjudicar directament solars a les empreses constructores del municipi"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la finalitat dels patrimonis públics de sòl. Correcta (b): s'afecten a regular el mercat de sòl, executar el planejament i fer efectiu el dret a un habitatge digne (habitatge protegit). Per què no: (a) els ingressos s'afecten a aquestes finalitats, no a despeses corrents; (c) no substitueixen el pressupost; (d) no s'adjudiquen directament a constructores. Base: art. 160 TRLUC.",
+      "source": "TRLUC",
+      "article": "art. 160 TRLUC"
+    },
+    {
+      "theme": 66,
+      "block": 11,
+      "q": "Quin és l'objectiu de la regularització de les urbanitzacions amb dèficits urbanístics?",
+      "options": [
+        "Demolir-les íntegrament per restaurar el sòl al seu estat natural originari",
+        "Completar la urbanització i dotar-les dels serveis bàsics, regularitzant les cessions",
+        "Privatitzar-ne la gestió i transferir-ne la titularitat a una empresa concessionària",
+        "Eximir els propietaris de qualsevol càrrega derivada de l'execució urbanística"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta l'objectiu de la regularització. Correcta (b): es tracta de completar la urbanització, dotar els àmbits dels serveis bàsics i regularitzar les cessions pendents, prioritzant la seguretat, amb repartiment de càrregues entre els propietaris. Per què no: (a) no es busca la demolició íntegra; (c) no és una privatització; (d) els propietaris assumeixen les càrregues (equidistribució). Base: normativa urbanística (TRLUC i disposicions específiques).",
+      "source": "TRLUC",
+      "article": "DA i normativa específica"
     }
   ]
 }
