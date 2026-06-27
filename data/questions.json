@@ -6,81 +6,6 @@
   },
   "questions": [
     {
-      "theme": 38,
-      "block": 10,
-      "q": "Els béns de les entitats locals es classifiquen en:",
-      "options": [
-        "Béns de domini públic i béns patrimonials",
-        "Béns mobles i diners",
-        "Béns nous i vells",
-        "Béns urbans i rústics únicament"
-      ],
-      "correct": 0,
-      "explain": "Els béns es classifiquen en béns de domini públic (ús o servei públic) i béns patrimonials (Llei 33/2003 i normativa local).",
-      "source": "L33_2003",
-      "article": "Llei 33/2003"
-    },
-    {
-      "theme": 39,
-      "block": 10,
-      "q": "Quina característica defineix els béns de domini públic?",
-      "options": [
-        "Són embargables",
-        "Són inalienables, imprescriptibles i inembargables",
-        "Es poden vendre lliurement",
-        "Tributen com a patrimonials"
-      ],
-      "correct": 1,
-      "explain": "Els béns demanials són inalienables, imprescriptibles i inembargables (art. 132 CE i Llei 33/2003).",
-      "source": "L33_2003",
-      "article": "art. 132 CE; Llei 33/2003"
-    },
-    {
-      "theme": 40,
-      "block": 3,
-      "q": "Les bases d'execució del pressupost:",
-      "options": [
-        "Són optatives",
-        "S'aproven juntament amb el pressupost i n'adapten les disposicions generals a l'organització",
-        "Les aprova la Generalitat",
-        "No es publiquen"
-      ],
-      "correct": 1,
-      "explain": "Art. 165 TRLHL: el pressupost general inclou les bases d'execució, que contenen l'adaptació de les disposicions generals en matèria pressupostària a l'organització de l'entitat.",
-      "source": "TRLHL",
-      "article": "art. 165 TRLHL"
-    },
-    {
-      "theme": 42,
-      "block": 3,
-      "q": "Les fases d'execució del pressupost de despeses són, en ordre:",
-      "options": [
-        "Autorització, disposició, reconeixement de l'obligació i ordenació del pagament",
-        "Pagament i autorització",
-        "Liquidació i tancament",
-        "Cobrament i ingrés"
-      ],
-      "correct": 0,
-      "explain": "Les fases de la despesa són autorització (A), disposició o compromís (D), reconeixement de l'obligació (O) i ordenació del pagament (P).",
-      "source": "TRLHL",
-      "article": "arts. 184-185 TRLHL"
-    },
-    {
-      "theme": 43,
-      "block": 3,
-      "q": "Quin d'aquests és un recurs de les hisendes locals?",
-      "options": [
-        "L'IVA estatal",
-        "Els tributs propis (taxes, contribucions especials i impostos)",
-        "Les cotitzacions a la Seguretat Social",
-        "El deute de l'Estat"
-      ],
-      "correct": 1,
-      "explain": "Art. 2 TRLHL: els recursos inclouen tributs propis (taxes, contribucions especials i impostos), transferències, ingressos de dret privat, etc.",
-      "source": "TRLHL",
-      "article": "art. 2 TRLHL"
-    },
-    {
       "theme": 59,
       "block": 13,
       "q": "La Llei 20/2009 de Catalunya regula:",
@@ -291,21 +216,6 @@
       "article": "RD 171/2004"
     },
     {
-      "theme": 41,
-      "block": 3,
-      "q": "Els crèdits per a despeses es destinen exclusivament:",
-      "options": [
-        "A qualsevol finalitat",
-        "A la finalitat específica per a la qual s'han autoritzat (especialitat qualitativa)",
-        "A pagar deute",
-        "A inversions noves només"
-      ],
-      "correct": 1,
-      "explain": "Principi d'especialitat: els crèdits es destinen a la finalitat (qualitativa), no superen l'import (quantitativa) ni el temps (temporal) autoritzats.",
-      "source": "TRLHL",
-      "article": "art. 172 TRLHL"
-    },
-    {
       "theme": 76,
       "block": 15,
       "q": "L'avaluació d'impacte ambiental de projectes té per finalitat:",
@@ -396,81 +306,6 @@
       "article": "habilitats directives"
     },
     {
-      "theme": 40,
-      "block": 3,
-      "q": "La pròrroga del pressupost es produeix quan:",
-      "options": [
-        "L'Alcalde ho decideix lliurement",
-        "A 1 de gener no està aprovat el pressupost de l'exercici, i es prorroga el de l'anterior",
-        "Cada quatre anys",
-        "Mai"
-      ],
-      "correct": 1,
-      "explain": "Art. 169.6 TRLHL: si en començar l'exercici no està aprovat el pressupost, es prorroga automàticament el de l'any anterior amb els seus crèdits inicials.",
-      "source": "TRLHL",
-      "article": "art. 169.6 TRLHL"
-    },
-    {
-      "theme": 40,
-      "block": 3,
-      "q": "La liquidació del pressupost s'aprova:",
-      "options": [
-        "Pel Ple",
-        "Pel president de l'entitat, donant-ne compte al Ple",
-        "Per la Generalitat",
-        "Per l'interventor sol"
-      ],
-      "correct": 1,
-      "explain": "Art. 191 TRLHL: la liquidació l'aprova el president i se'n dóna compte al Ple.",
-      "source": "TRLHL",
-      "article": "art. 191 TRLHL"
-    },
-    {
-      "theme": 41,
-      "block": 3,
-      "q": "Una modificació de crèdit que augmenta el crèdit amb nous o majors ingressos és:",
-      "options": [
-        "Un crèdit extraordinari",
-        "Una generació de crèdit",
-        "Una baixa per anul·lació",
-        "Una transferència"
-      ],
-      "correct": 1,
-      "explain": "La generació de crèdit incrementa els crèdits com a conseqüència d'ingressos no previstos o superiors (art. 181 TRLHL).",
-      "source": "TRLHL",
-      "article": "art. 181 TRLHL"
-    },
-    {
-      "theme": 42,
-      "block": 3,
-      "q": "Les despeses plurianuals:",
-      "options": [
-        "No es permeten",
-        "Es poden comprometre amb límits per anualitats i nombre d'exercicis (art. 174 TRLHL)",
-        "No tenen cap límit",
-        "Les autoritza la Generalitat"
-      ],
-      "correct": 1,
-      "explain": "Art. 174 TRLHL: les despeses de caràcter plurianual estan subjectes a límits per anualitats i exercicis.",
-      "source": "TRLHL",
-      "article": "art. 174 TRLHL"
-    },
-    {
-      "theme": 43,
-      "block": 3,
-      "q": "Les contribucions especials es fonamenten en:",
-      "options": [
-        "L'obtenció d'un benefici o augment de valor dels béns per obres o serveis públics",
-        "La renda personal",
-        "El consum elèctric",
-        "La propietat de vehicles"
-      ],
-      "correct": 0,
-      "explain": "Les contribucions especials graven el benefici especial obtingut per la realització d'obres o l'establiment/ampliació de serveis públics.",
-      "source": "TRLHL",
-      "article": "arts. 28-37 TRLHL"
-    },
-    {
       "theme": 86,
       "block": 7,
       "q": "El personal laboral es regeix per:",
@@ -514,51 +349,6 @@
       "explain": "Art. 97 TREBEP: les infraccions molt greus prescriuen als 3 anys; les greus, als 2; les lleus, als 6 mesos.",
       "source": "TREBEP",
       "article": "art. 97 TREBEP"
-    },
-    {
-      "theme": 38,
-      "block": 10,
-      "q": "L'alteració de la qualificació jurídica d'un bé (desafectació):",
-      "options": [
-        "És automàtica",
-        "Requereix expedient que acrediti l'oportunitat i la legalitat",
-        "No es pot fer mai",
-        "La decideix un particular"
-      ],
-      "correct": 1,
-      "explain": "L'alteració de la qualificació (afectació/desafectació) exigeix expedient amb informació pública (Llei 33/2003; D 336/1988).",
-      "source": "L33_2003",
-      "article": "Llei 33/2003"
-    },
-    {
-      "theme": 39,
-      "block": 10,
-      "q": "Els béns comunals:",
-      "options": [
-        "Són patrimonials",
-        "Són béns de domini públic l'aprofitament dels quals correspon al comú dels veïns",
-        "Es poden vendre lliurement",
-        "Pertanyen a l'Estat"
-      ],
-      "correct": 1,
-      "explain": "Els béns comunals són demanials i el seu aprofitament correspon al comú dels veïns.",
-      "source": "L33_2003",
-      "article": "art. 2 Llei 33/2003"
-    },
-    {
-      "theme": 39,
-      "block": 10,
-      "q": "L'inventari de béns de l'entitat local:",
-      "options": [
-        "És optatiu",
-        "Comprèn tots els béns i drets, i s'aprova/rectifica anualment",
-        "Només recull immobles",
-        "El porta la Generalitat"
-      ],
-      "correct": 1,
-      "explain": "Les entitats locals han de formar inventari de tots els seus béns i drets, rectificat anualment.",
-      "source": "D336_1988",
-      "article": "D 336/1988"
     },
     {
       "theme": 59,
@@ -799,36 +589,6 @@
       "explain": "La presència de recursos preventius és preceptiva en treballs amb riscos especials o concurrència (RD 171/2004; art. 32 bis LPRL).",
       "source": "RD171_2004",
       "article": "art. 32 bis LPRL"
-    },
-    {
-      "theme": 38,
-      "block": 10,
-      "q": "L'ús comú general dels béns de domini públic:",
-      "options": [
-        "Requereix concessió",
-        "És lliure, d'acord amb la naturalesa del bé i les normes",
-        "Està prohibit",
-        "Tributa sempre"
-      ],
-      "correct": 1,
-      "explain": "L'ús comú general (passejar, circular) és lliure i conforme a la naturalesa del bé.",
-      "source": "L33_2003",
-      "article": "art. 85 Llei 33/2003"
-    },
-    {
-      "theme": 38,
-      "block": 10,
-      "q": "L'ús privatiu del domini públic requereix:",
-      "options": [
-        "Res",
-        "Concessió administrativa (o autorització segons intensitat)",
-        "Una subvenció",
-        "Una multa"
-      ],
-      "correct": 1,
-      "explain": "L'ús privatiu que limita l'ús comú exigeix concessió administrativa (Llei 33/2003).",
-      "source": "L33_2003",
-      "article": "art. 86 Llei 33/2003"
     },
     {
       "theme": 59,
@@ -1101,81 +861,6 @@
       "article": "art. 10 RD 171/2004"
     },
     {
-      "theme": 40,
-      "block": 3,
-      "q": "El romanent de tresoreria és:",
-      "options": [
-        "Un tribut",
-        "Una magnitud que indica recursos disponibles o dèficit en finalitzar l'exercici",
-        "El sou dels regidors",
-        "Una sanció"
-      ],
-      "correct": 1,
-      "explain": "El romanent de tresoreria mesura els recursos líquids (o el dèficit) a final d'exercici per a finançament.",
-      "source": "TRLHL",
-      "article": "art. 191 TRLHL"
-    },
-    {
-      "theme": 40,
-      "block": 3,
-      "q": "L'aprovació definitiva del pressupost s'ha de publicar:",
-      "options": [
-        "Només al web",
-        "Resumida per capítols al butlletí oficial corresponent",
-        "En premsa de pagament",
-        "No es publica"
-      ],
-      "correct": 1,
-      "explain": "Art. 169 TRLHL: el pressupost definitivament aprovat es publica resumit per capítols al BOP.",
-      "source": "TRLHL",
-      "article": "art. 169 TRLHL"
-    },
-    {
-      "theme": 41,
-      "block": 3,
-      "q": "Un crèdit extraordinari es tramita quan:",
-      "options": [
-        "Sobra crèdit",
-        "Cal fer una despesa específica per a la qual no existeix crèdit",
-        "Es vol estalviar",
-        "Mai"
-      ],
-      "correct": 1,
-      "explain": "El crèdit extraordinari atén despeses específiques sense crèdit pressupostari (art. 177 TRLHL).",
-      "source": "TRLHL",
-      "article": "art. 177 TRLHL"
-    },
-    {
-      "theme": 42,
-      "block": 3,
-      "q": "Els pagaments a justificar s'expedeixen:",
-      "options": [
-        "Sense límit",
-        "Quan els documents justificatius no es poden aportar abans del pagament",
-        "Per a qualsevol despesa",
-        "Sense control"
-      ],
-      "correct": 1,
-      "explain": "Els pagaments a justificar s'utilitzen quan no es pot aportar la documentació prèvia (art. 190 TRLHL).",
-      "source": "TRLHL",
-      "article": "art. 190 TRLHL"
-    },
-    {
-      "theme": 43,
-      "block": 3,
-      "q": "Les taxes locals es poden exigir per:",
-      "options": [
-        "Qualsevol motiu",
-        "La prestació de serveis o la realització d'activitats que afectin o beneficiïn l'obligat",
-        "La renda",
-        "El consum"
-      ],
-      "correct": 1,
-      "explain": "Les taxes graven la prestació de serveis o activitats de competència local que es refereixin a l'obligat.",
-      "source": "TRLHL",
-      "article": "art. 20 TRLHL"
-    },
-    {
       "theme": 86,
       "block": 7,
       "q": "El personal funcionari de carrera es vincula a l'Administració per:",
@@ -1204,36 +889,6 @@
       "explain": "El règim disciplinari respecta legalitat, tipicitat, proporcionalitat i altres garanties (art. 94 TREBEP).",
       "source": "TREBEP",
       "article": "art. 94 TREBEP"
-    },
-    {
-      "theme": 38,
-      "block": 10,
-      "q": "Els béns patrimonials de les entitats locals:",
-      "options": [
-        "Són inalienables",
-        "Es regeixen pel dret privat i poden alienar-se amb procediment",
-        "No es poden gestionar",
-        "Són demanials"
-      ],
-      "correct": 1,
-      "explain": "Els béns patrimonials es regeixen pel dret privat; la seva alienació segueix el procediment de la legislació local.",
-      "source": "L33_2003",
-      "article": "Llei 33/2003"
-    },
-    {
-      "theme": 39,
-      "block": 10,
-      "q": "La defensa dels béns inclou potestats com:",
-      "options": [
-        "Cap",
-        "La recuperació d'ofici i el desnonament administratiu",
-        "La venda forçosa",
-        "La donació obligada"
-      ],
-      "correct": 1,
-      "explain": "Les entitats locals tenen prerrogatives de recuperació d'ofici, desnonament administratiu i investigació (Llei 33/2003).",
-      "source": "L33_2003",
-      "article": "arts. 41 i ss. Llei 33/2003"
     },
     {
       "theme": 61,
@@ -1506,36 +1161,6 @@
       "article": "presa de decisions"
     },
     {
-      "theme": 40,
-      "block": 3,
-      "q": "El pressupost prorrogat:",
-      "options": [
-        "Inclou tots els crèdits",
-        "Manté els crèdits inicials de l'anterior, ajustats (sense els de programes finalitzats)",
-        "Es duplica",
-        "No té vigència"
-      ],
-      "correct": 1,
-      "explain": "En la pròrroga es mantenen els crèdits inicials de l'exercici anterior, amb ajustaments legals (art. 169.6 TRLHL).",
-      "source": "TRLHL",
-      "article": "art. 169.6 TRLHL"
-    },
-    {
-      "theme": 38,
-      "block": 10,
-      "q": "La investigació de béns serveix per:",
-      "options": [
-        "Vendre'ls",
-        "Determinar la titularitat de béns que es presumeixin de l'entitat",
-        "Donar-los",
-        "Res"
-      ],
-      "correct": 1,
-      "explain": "La potestat d'investigació permet esbrinar la titularitat de béns presumptament de l'entitat (Llei 33/2003).",
-      "source": "L33_2003",
-      "article": "art. 45 Llei 33/2003"
-    },
-    {
       "theme": 89,
       "block": 18,
       "q": "El comitè de seguretat i salut:",
@@ -1611,51 +1236,6 @@
       "article": "art. 38 Llei 40/2015"
     },
     {
-      "theme": 43,
-      "block": 3,
-      "q": "Els preus públics es diferencien de les taxes en què:",
-      "options": [
-        "No es cobren",
-        "Es perceben per serveis sol·licitats voluntàriament i prestats també pel sector privat",
-        "Són un impost",
-        "No tenen regulació"
-      ],
-      "correct": 1,
-      "explain": "Els preus públics retribueixen serveis de recepció voluntària que també presta el sector privat.",
-      "source": "TRLHL",
-      "article": "arts. 41-47 TRLHL"
-    },
-    {
-      "theme": 41,
-      "block": 3,
-      "q": "La vinculació jurídica dels crèdits determina:",
-      "options": [
-        "El sou",
-        "El nivell al qual es controla la limitació quantitativa de la despesa",
-        "El nom del programa",
-        "Res"
-      ],
-      "correct": 1,
-      "explain": "Els nivells de vinculació jurídica fixen el grau de detall en què opera la limitació dels crèdits.",
-      "source": "TRLHL",
-      "article": "art. 172 TRLHL"
-    },
-    {
-      "theme": 40,
-      "block": 3,
-      "q": "Els estats de despeses i ingressos han d'estar:",
-      "options": [
-        "Desequilibrats",
-        "Anivellats (equilibri inicial)",
-        "En dèficit",
-        "En blanc"
-      ],
-      "correct": 1,
-      "explain": "El pressupost s'aprova sense dèficit inicial: els estats de despeses i ingressos s'han d'anivellar.",
-      "source": "TRLHL",
-      "article": "art. 165 TRLHL"
-    },
-    {
       "theme": 86,
       "block": 7,
       "q": "El personal directiu pot estar subjecte a:",
@@ -1686,21 +1266,6 @@
       "article": "art. 98 TREBEP"
     },
     {
-      "theme": 38,
-      "block": 10,
-      "q": "La cessió gratuïta de béns patrimonials a altres administracions:",
-      "options": [
-        "Està prohibida",
-        "És possible per a finalitats d'utilitat pública o interès social, amb procediment",
-        "És lliure sense control",
-        "La fa un particular"
-      ],
-      "correct": 1,
-      "explain": "La cessió gratuïta a entitats públiques o sense ànim de lucre és possible per a fins d'interès general, amb expedient.",
-      "source": "L33_2003",
-      "article": "Llei 33/2003; D 336/1988"
-    },
-    {
       "theme": 89,
       "block": 18,
       "q": "La formació dels treballadors en PRL:",
@@ -1729,36 +1294,6 @@
       "explain": "En obres, el pla de seguretat i salut concreta les mesures preventives i la coordinació.",
       "source": "RD171_2004",
       "article": "RD 1627/1997"
-    },
-    {
-      "theme": 42,
-      "block": 3,
-      "q": "Les bestretes de caixa fixa s'utilitzen per a:",
-      "options": [
-        "Inversions grans",
-        "Despeses periòdiques o repetitives de petita quantia",
-        "Pagar deute",
-        "Subvencions"
-      ],
-      "correct": 1,
-      "explain": "Les bestretes de caixa fixa atenen despeses menors, periòdiques o repetitives (art. 190 TRLHL).",
-      "source": "TRLHL",
-      "article": "art. 190 TRLHL"
-    },
-    {
-      "theme": 43,
-      "block": 3,
-      "q": "Els ingressos de dret privat de les hisendes locals:",
-      "options": [
-        "Són tributs",
-        "Provenen del patrimoni i altres de dret privat",
-        "No existeixen",
-        "Són sancions"
-      ],
-      "correct": 1,
-      "explain": "Els ingressos de dret privat deriven del patrimoni i altres relacions de dret privat de l'entitat.",
-      "source": "TRLHL",
-      "article": "art. 3 TRLHL"
     },
     {
       "theme": 59,
@@ -1851,21 +1386,6 @@
       "article": "qualitat"
     },
     {
-      "theme": 40,
-      "block": 3,
-      "q": "Les modificacions pressupostàries són competència, segons el tipus, de:",
-      "options": [
-        "Sempre l'Estat",
-        "El Ple o el president, segons les bases d'execució i el TRLHL",
-        "Un particular",
-        "El contractista"
-      ],
-      "correct": 1,
-      "explain": "La competència per aprovar modificacions de crèdit es reparteix entre Ple i president segons el tipus i les bases d'execució.",
-      "source": "TRLHL",
-      "article": "arts. 177-182 TRLHL"
-    },
-    {
       "theme": 62,
       "block": 14,
       "q": "La LOE exigeix garanties per danys materials per:",
@@ -1911,21 +1431,6 @@
       "article": "Llei 19/2014"
     },
     {
-      "theme": 39,
-      "block": 10,
-      "q": "L'afectació d'un bé al domini públic:",
-      "options": [
-        "És tàcita sempre",
-        "Requereix expedient (o acte presumpte en certs casos)",
-        "No es regula",
-        "La fa un notari"
-      ],
-      "correct": 1,
-      "explain": "L'afectació al domini públic exigeix acte exprés o, en certs supòsits, es produeix de manera presumpta (Llei 33/2003).",
-      "source": "L33_2003",
-      "article": "Llei 33/2003"
-    },
-    {
       "theme": 89,
       "block": 18,
       "q": "La vigilància de la salut dels treballadors:",
@@ -1956,21 +1461,6 @@
       "article": "RD 171/2004"
     },
     {
-      "theme": 40,
-      "block": 3,
-      "q": "La despesa pública requereix, abans del pagament:",
-      "options": [
-        "Res",
-        "Existència de crèdit adequat i suficient i fiscalització",
-        "Una subvenció",
-        "Un ban"
-      ],
-      "correct": 1,
-      "explain": "Tota despesa exigeix crèdit adequat i suficient i la prèvia fiscalització (TRLHL).",
-      "source": "TRLHL",
-      "article": "art. 173 TRLHL"
-    },
-    {
       "theme": 76,
       "block": 15,
       "q": "L'avaluació d'impacte ambiental ordinària es resol amb:",
@@ -1984,21 +1474,6 @@
       "explain": "L'avaluació ordinària conclou amb la declaració d'impacte ambiental (DIA), preceptiva i determinant.",
       "source": "L20_2009",
       "article": "normativa d'avaluació ambiental"
-    },
-    {
-      "theme": 43,
-      "block": 3,
-      "q": "Els impostos locals obligatoris inclouen:",
-      "options": [
-        "L'IVA",
-        "L'IBI, l'IAE i l'IVTM",
-        "L'IRPF",
-        "L'IS"
-      ],
-      "correct": 1,
-      "explain": "Són impostos obligatoris l'IBI, l'IAE i l'IVTM; potestatius l'ICIO i l'IIVTNU (plusvàlua).",
-      "source": "TRLHL",
-      "article": "arts. 59 i ss. TRLHL"
     },
     {
       "theme": 85,
@@ -2029,21 +1504,6 @@
       "explain": "El projectista redacta el projecte tècnic ajustant-se a la normativa i a l'encàrrec del promotor (art. 10 LOE).",
       "source": "LOE",
       "article": "art. 10 LOE"
-    },
-    {
-      "theme": 38,
-      "block": 10,
-      "q": "El desnonament administratiu permet:",
-      "options": [
-        "Vendre el bé",
-        "Recuperar la possessió de béns demanials ocupats indegudament",
-        "Donar el bé",
-        "Res"
-      ],
-      "correct": 1,
-      "explain": "El desnonament administratiu recupera la possessió de béns de domini públic ocupats sense títol.",
-      "source": "L33_2003",
-      "article": "art. 58 Llei 33/2003"
     },
     {
       "theme": 86,
@@ -3934,6 +3394,186 @@
       "explain": "Es pregunta l'acció de regrés. Correcta (b): després d'indemnitzar el particular, l'Administració exigeix d'ofici al personal la responsabilitat en què hagi incorregut per dol, o culpa o negligència greus (art. 36.2 Llei 40/2015). Per què no: (a) no és per qualsevol conducta, sinó per dol o culpa greu; (c) sí que es pot exigir el regrés; (d) no depèn de la petició del particular. Base: art. 36 Llei 40/2015.",
       "source": "L40_2015",
       "article": "art. 36 Llei 40/2015"
+    },
+    {
+      "theme": 38,
+      "block": 10,
+      "q": "Com es classifiquen els béns de les entitats locals?",
+      "options": [
+        "En béns mobles i béns immobles, segons la seva naturalesa física",
+        "En béns de domini públic (demanials) i béns patrimonials",
+        "En béns nous i béns vells, segons l'antiguitat i l'estat de conservació",
+        "En béns urbans i béns rústics, segons la classificació del sòl on se situen"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la classificació dels béns locals. Correcta (b): els béns es classifiquen en béns de domini públic (demanials, destinats a ús o servei públic) i béns patrimonials (no afectes, regits pel dret privat). Per què no: (a), (c) i (d) són altres criteris (físic, antiguitat, classe de sòl), no la classificació jurídica rellevant. Base: Llei 33/2003 i D 336/1988.",
+      "source": "L33_2003",
+      "article": "Llei 33/2003"
+    },
+    {
+      "theme": 38,
+      "block": 10,
+      "q": "Quina característica defineix els béns de domini públic?",
+      "options": [
+        "Que es poden vendre, gravar i embargar lliurement segons el dret privat",
+        "Que són inalienables, imprescriptibles i inembargables",
+        "Que produeixen rendes i s'integren al patrimoni de propis de l'entitat",
+        "Que es poden adquirir per usucapió pel transcurs del temps de possessió"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el règim del domini públic. Correcta (b): els béns de domini públic són inalienables, imprescriptibles i inembargables (art. 132 CE). Per què no: (a) no es poden alienar ni embargar lliurement; (c) això és propi dels béns patrimonials; (d) no es poden adquirir per usucapió (són imprescriptibles). Base: art. 132 CE; Llei 33/2003.",
+      "source": "L33_2003",
+      "article": "art. 132 CE"
+    },
+    {
+      "theme": 38,
+      "block": 10,
+      "q": "Quin títol és necessari, en general, per a l'ús privatiu del domini públic amb instal·lacions fixes?",
+      "options": [
+        "Cap títol, perquè es tracta d'un ús comú general lliure per a tothom",
+        "Una concessió administrativa",
+        "Una simple comunicació prèvia adreçada a l'ajuntament titular del bé",
+        "Un contracte de compravenda del tram de domini públic que s'ocupa"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el títol per a l'ús privatiu. Correcta (b): l'ús privatiu del domini públic amb instal·lacions fixes requereix una concessió administrativa. Per què no: (a) l'ús privatiu no és lliure (sí l'ús comú general); (c) no n'hi ha prou amb una comunicació; (d) el domini públic és inalienable, no es pot vendre. Base: art. 86 Llei 33/2003.",
+      "source": "L33_2003",
+      "article": "art. 86 Llei 33/2003"
+    },
+    {
+      "theme": 39,
+      "block": 10,
+      "q": "Quina d'aquestes és una potestat de les entitats locals per a la defensa dels seus béns?",
+      "options": [
+        "La possibilitat d'embargar lliurement els béns de domini públic propis",
+        "La recuperació d'ofici de la possessió dels béns indegudament ocupats",
+        "La cessió obligatòria dels béns patrimonials a la comunitat autònoma",
+        "La renúncia tàcita a la titularitat dels béns no inscrits al Registre"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta una potestat de defensa dels béns. Correcta (b): les entitats locals tenen, entre altres potestats, la recuperació d'ofici de la possessió dels béns (en els demanials, en qualsevol moment), la investigació, el llindament i el desnonament administratiu. Per què no: (a) els demanials són inembargables; (c) no hi ha cessió obligatòria a la CA; (d) no hi ha renúncia tàcita. Base: arts. 41 i ss. Llei 33/2003.",
+      "source": "L33_2003",
+      "article": "arts. 41 i ss. Llei 33/2003"
+    },
+    {
+      "theme": 39,
+      "block": 10,
+      "q": "L'inventari de béns de l'entitat local:",
+      "options": [
+        "És un títol de propietat que substitueix la inscripció al Registre",
+        "Comprèn tots els béns i drets, i s'aprova i rectifica anualment",
+        "Només recull els béns immobles de valor superior a un import determinat",
+        "El forma i aprova la diputació provincial en nom de tots els municipis"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta l'inventari. Correcta (b): l'inventari comprèn tots els béns i drets de l'entitat, sigui quina sigui la seva naturalesa; l'aprova el Ple i es rectifica anualment. Per què no: (a) no és un títol de propietat; (c) no es limita als immobles de valor elevat; (d) el forma cada entitat, no la diputació. Base: D 336/1988.",
+      "source": "D336_1988",
+      "article": "D 336/1988"
+    },
+    {
+      "theme": 40,
+      "block": 3,
+      "q": "Qui aprova la liquidació del pressupost de l'entitat local?",
+      "options": [
+        "El Ple de la corporació, per majoria absoluta del nombre legal de membres",
+        "El president de l'entitat, que en dona compte al Ple",
+        "L'interventor o interventora, amb caràcter executiu i vinculant",
+        "La comunitat autònoma, amb un informe previ de la diputació provincial"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta qui aprova la liquidació. Correcta (b): la liquidació del pressupost l'aprova el president de l'entitat, prèvia informe de la Intervenció, i en dona compte al Ple (art. 191 TRLHL). Per què no: (a) no l'aprova el Ple; (c) l'interventor informa, però no l'aprova; (d) no intervé la CA. Base: art. 191 TRLHL.",
+      "source": "TRLHL",
+      "article": "art. 191 TRLHL"
+    },
+    {
+      "theme": 40,
+      "block": 3,
+      "q": "Quina magnitud, derivada de la liquidació, mesura els recursos líquids disponibles al tancament de l'exercici?",
+      "options": [
+        "El resultat pressupostari de l'exercici econòmic liquidat",
+        "El romanent de tresoreria",
+        "El nivell de vinculació jurídica dels crèdits del pressupost de despeses",
+        "La taxa de referència de creixement del producte interior brut"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta una magnitud de tancament. Correcta (b): el romanent de tresoreria mesura els recursos líquids disponibles (o el dèficit) en finalitzar l'exercici i, en la seva part per a despeses generals, pot finançar modificacions de crèdit. Per què no: (a) el resultat pressupostari compara drets i obligacions reconeguts, no la liquiditat; (c) i (d) no són magnituds de liquiditat de tancament. Base: arts. 191-193 TRLHL.",
+      "source": "TRLHL",
+      "article": "art. 191 TRLHL"
+    },
+    {
+      "theme": 41,
+      "block": 3,
+      "q": "Una modificació de crèdit per atendre una despesa específica per a la qual NO existeix cap crèdit s'anomena:",
+      "options": [
+        "Suplement de crèdit, perquè reforça un crèdit que ja existeix però és insuficient",
+        "Crèdit extraordinari",
+        "Transferència de crèdit entre dues partides de la mateixa àrea de despesa",
+        "Generació de crèdit per la realització de nous ingressos no previstos"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el tipus de modificació. Correcta (b): el crèdit extraordinari atén una despesa específica i determinada per a la qual no existeix crèdit (art. 177 TRLHL). Per què no: (a) el suplement reforça un crèdit existent però insuficient; (c) la transferència trasllada import entre partides existents; (d) la generació l'incrementa per nous ingressos. Base: art. 177 TRLHL.",
+      "source": "TRLHL",
+      "article": "art. 177 TRLHL"
+    },
+    {
+      "theme": 42,
+      "block": 3,
+      "q": "Quines són, en ordre, les fases de l'execució del pressupost de despeses?",
+      "options": [
+        "Reconeixement del dret, liquidació i recaptació en període voluntari",
+        "Autorització, disposició, reconeixement de l'obligació i ordenació del pagament",
+        "Elaboració, aprovació, exposició pública i aprovació definitiva del pressupost",
+        "Previsió, compromís d'ingrés, cobrament i aplicació al pressupost vigent"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta les fases de la despesa. Correcta (b): l'execució de la despesa segueix les fases d'autorització (A), disposició o compromís (D), reconeixement de l'obligació (O) i ordenació del pagament (P). Per què no: (a) descriu les fases d'ingressos; (c) és el procediment d'aprovació del pressupost; (d) barreja conceptes d'ingressos. Base: arts. 184-185 TRLHL.",
+      "source": "TRLHL",
+      "article": "arts. 184-185 TRLHL"
+    },
+    {
+      "theme": 42,
+      "block": 3,
+      "q": "Per a què s'utilitzen les bestretes de caixa fixa?",
+      "options": [
+        "Per finançar grans inversions en infraestructures de caràcter plurianual",
+        "Per atendre despeses periòdiques o repetitives de petita quantia",
+        "Per pagar les nòmines mensuals de tot el personal de l'entitat local",
+        "Per amortitzar de manera anticipada el deute financer de la corporació"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la finalitat de les bestretes de caixa fixa. Correcta (b): són provisions de fons a habilitats de caixa per atendre despeses periòdiques o repetitives de petita quantia (art. 190 TRLHL). Per què no: (a), (c) i (d) no es financen amb bestretes de caixa fixa. Base: art. 190 TRLHL.",
+      "source": "TRLHL",
+      "article": "art. 190 TRLHL"
+    },
+    {
+      "theme": 43,
+      "block": 3,
+      "q": "Quins són els impostos d'exacció OBLIGATÒRIA per a tots els ajuntaments?",
+      "options": [
+        "L'impost sobre construccions, instal·lacions i obres i la plusvàlua municipal",
+        "L'IBI, l'IAE i l'impost sobre vehicles de tracció mecànica",
+        "L'impost sobre el valor afegit i l'impost sobre la renda de les persones físiques",
+        "Les taxes per prestació de serveis i les contribucions especials per obres"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta els impostos locals obligatoris. Correcta (b): són d'exacció obligatòria l'IBI, l'IAE i l'IVTM (impost sobre vehicles de tracció mecànica). Per què no: (a) l'ICIO i la plusvàlua (IIVTNU) són potestatius; (c) l'IVA i l'IRPF són tributs estatals; (d) les taxes i contribucions especials són altres tributs propis, no impostos obligatoris. Base: arts. 59 i ss. TRLHL.",
+      "source": "TRLHL",
+      "article": "art. 59 TRLHL"
+    },
+    {
+      "theme": 43,
+      "block": 3,
+      "q": "Quina diferència hi ha entre una taxa i un preu públic?",
+      "options": [
+        "No n'hi ha cap: són dos noms diferents per al mateix recurs tributari local",
+        "La taxa es paga per un servei de recepció obligatòria o de monopoli públic; el preu públic, per un servei de recepció voluntària també prestat pel sector privat",
+        "La taxa la fixa sempre l'Estat mitjançant una llei i el preu públic el fixa lliurement cada ajuntament sense cap mena de límit ni control posterior",
+        "La taxa només grava activitats econòmiques i el preu públic, els immobles"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la diferència entre taxa i preu públic. Correcta (b): la taxa es paga per un servei de recepció obligatòria o que presta el sector públic en monopoli; el preu públic, per serveis de recepció voluntària que també presta el sector privat (i no és un tribut). Per què no: (a) sí que hi ha diferència; (c) i (d) no descriuen correctament la distinció. Base: arts. 20 i 41 TRLHL.",
+      "source": "TRLHL",
+      "article": "arts. 20 i 41 TRLHL"
     }
   ]
 }
