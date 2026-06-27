@@ -2494,6 +2494,156 @@
       "explain": "Es pregunta quan s'apliquen els deures de coordinació. Correcta (b): la coordinació d'activitats empresarials s'aplica quan en un mateix centre de treball concorren treballadors de dues o més empreses (i autònoms) (art. 24 LPRL i RD 171/2004). Per què no: (a) amb una sola empresa no hi ha concurrència; (c) no es limita a grans obres; (d) no depèn d'un requeriment de la Inspecció. Base: art. 24 Llei 31/1995 i RD 171/2004.",
       "source": "RD171_2004",
       "article": "art. 24 LPRL; RD 171/2004"
+    },
+    {
+      "theme": 6,
+      "block": 2,
+      "q": "Quina diferència essencial hi ha entre un acte administratiu i un reglament?",
+      "options": [
+        "El reglament l'aprova el Ple i l'acte sempre el dicta l'Alcalde en exclusiva",
+        "El reglament és una norma que s'integra a l'ordenament; l'acte aplica l'ordenament a un cas",
+        "No hi ha cap diferència rellevant des del punt de vista jurídic entre tots dos",
+        "L'acte té sempre rang superior al reglament en la jerarquia de les fonts del dret"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la distinció acte/reglament. Correcta (b): el reglament és una norma que s'integra a l'ordenament (vocació de permanència, rang superior); l'acte aplica l'ordenament a un cas concret i s'esgota amb el compliment. Per què no: (a) la distinció no depèn de l'òrgan; (c) sí que hi ha diferència; (d) el reglament té rang superior a l'acte (inderogabilitat singular). Base: arts. 34-37 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "arts. 34-37 Llei 39/2015"
+    },
+    {
+      "theme": 6,
+      "block": 2,
+      "q": "Quan el silenci administratiu és positiu, la resolució expressa que es dicti després:",
+      "options": [
+        "Pot revocar lliurement l'acte que s'havia produït per silenci estimatori",
+        "Només pot ser confirmatòria de l'acte estimatori produït per silenci",
+        "Pot tenir qualsevol sentit, també desestimatori, segons l'interès públic",
+        "No es pot dictar mai un cop transcorregut el termini màxim per resoldre"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta l'abast de la resolució posterior al silenci positiu. Correcta (b): quan el silenci és estimatori, la resolució expressa posterior només pot ser confirmatòria (art. 24.3.a). Per què no: (a) no es pot revocar lliurement l'acte estimatori; (c) si fos desestimatori, no seria confirmatori (només es pot dictar de qualsevol sentit quan el silenci és negatiu); (d) l'Administració sempre ha de resoldre. Base: art. 24.3 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 24.3 Llei 39/2015"
+    },
+    {
+      "theme": 7,
+      "block": 2,
+      "q": "La revisió d'ofici dels actes nuls de ple dret (art. 106):",
+      "options": [
+        "Té un termini de prescripció de quatre anys des que es dicta l'acte nul",
+        "Es pot fer en qualsevol moment, amb el dictamen favorable del Consell consultiu",
+        "Només la pot instar la persona interessada mitjançant un recurs ordinari",
+        "La resol directament la jurisdicció contenciosa sense intervenció de l'Administració"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la revisió d'ofici d'actes nuls. Correcta (b): la revisió d'ofici dels actes nuls de ple dret es pot fer en qualsevol moment, sense termini, i requereix el dictamen favorable del Consell consultiu (art. 106). Per què no: (a) no té termini de prescripció; (c) la pot iniciar l'Administració d'ofici o a sol·licitud; (d) la resol l'Administració. Base: art. 106 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 106 Llei 39/2015"
+    },
+    {
+      "theme": 7,
+      "block": 2,
+      "q": "Per anul·lar un acte declaratiu de drets que és anul·lable, l'Administració ha de:",
+      "options": [
+        "Revocar-lo directament d'ofici sense cap més tràmit en qualsevol moment",
+        "Declarar-lo lesiu per a l'interès públic i impugnar-lo davant el contenciós",
+        "Imposar una sanció a la persona beneficiària de l'acte que es vol anul·lar",
+        "Esperar que prescrigui el dret al cap d'un any des que es va dictar l'acte"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la via per anul·lar actes favorables anul·lables. Correcta (b): l'Administració ha de declarar l'acte lesiu per a l'interès públic (en el termini de quatre anys) i després impugnar-lo davant la jurisdicció contenciosa (art. 107). Per què no: (a) no es pot revocar directament un acte favorable anul·lable; (c) la sanció no és la via; (d) no s'anul·la per simple transcurs del temps. Base: art. 107 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 107 Llei 39/2015"
+    },
+    {
+      "theme": 8,
+      "block": 2,
+      "q": "Els interessats poden promoure la recusació d'una autoritat o personal:",
+      "options": [
+        "Únicament en el moment d'iniciar-se el procediment administratiu corresponent",
+        "En qualsevol moment de la tramitació, quan concorri una causa d'abstenció",
+        "Només després que s'hagi dictat la resolució que posa fi al procediment",
+        "Exclusivament davant la jurisdicció contenciosa administrativa competent"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el moment de la recusació. Correcta (b): els interessats poden promoure la recusació en qualsevol moment de la tramitació del procediment, quan concorri una causa d'abstenció (art. 24 Llei 40/2015). Per què no: (a) no es limita a l'inici; (c) no és després de la resolució; (d) es planteja davant l'Administració, no el contenciós. Base: art. 24 Llei 40/2015.",
+      "source": "L40_2015",
+      "article": "art. 24 Llei 40/2015"
+    },
+    {
+      "theme": 9,
+      "block": 2,
+      "q": "El tràmit d'audiència a l'interessat es practica:",
+      "options": [
+        "A l'inici del procediment, abans de qualsevol actuació d'instrucció",
+        "Un cop instruït el procediment i immediatament abans de la proposta de resolució",
+        "Després de dictar-se la resolució, per si l'interessat vol al·legar-hi",
+        "Només quan ho sol·licita expressament la persona interessada per escrit"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el moment de l'audiència. Correcta (b): el tràmit d'audiència es practica un cop instruït el procediment i immediatament abans de redactar la proposta de resolució (art. 82). Per què no: (a) no és a l'inici; (c) no és després de la resolució; (d) és preceptiu (amb les excepcions legals), no a petició. Base: art. 82 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 82 Llei 39/2015"
+    },
+    {
+      "theme": 10,
+      "block": 2,
+      "q": "Com es computen els terminis fixats en mesos o en anys?",
+      "options": [
+        "Sumant els dies hàbils que conté cada mes, excloent dissabtes i festius",
+        "De data a data; si al mes de venciment no hi ha dia equivalent, l'últim dia del mes",
+        "Comptant trenta dies naturals per cada mes, amb independència del calendari",
+        "Des de la data de l'acte, sense comptar mai el mes en què es notifica"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el còmput en mesos o anys. Correcta (b): els terminis fixats en mesos o anys es computen de data a data; si al mes de venciment no hi ha dia equivalent al de la notificació, el termini acaba l'últim dia del mes (art. 30.4). Per què no: (a) els mesos no es compten per dies hàbils; (c) no són 30 dies fixos; (d) no exclou el mes de notificació. Base: art. 30.4 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 30.4 Llei 39/2015"
+    },
+    {
+      "theme": 11,
+      "block": 2,
+      "q": "Quin és el termini per resoldre i notificar un recurs d'alçada, i quin efecte té el silenci?",
+      "options": [
+        "Un mes; transcorregut, el silenci té caràcter estimatori (positiu)",
+        "Tres mesos; transcorregut, el silenci és, en general, desestimatori",
+        "Sis mesos; transcorregut, el recurs s'entén automàticament estimat",
+        "Deu dies hàbils; transcorregut, s'arxiva el recurs sense més tràmit"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el termini i el silenci de l'alçada. Correcta (b): el termini per resoldre i notificar l'alçada és de tres mesos; transcorregut sense resolució, el silenci és, en general, desestimatori (art. 122). Per què no: (a), (c) i (d) no s'ajusten al termini ni al sentit del silenci. Base: art. 122 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 122 Llei 39/2015"
+    },
+    {
+      "theme": 9,
+      "block": 2,
+      "q": "Quan es produeix la caducitat d'un procediment iniciat d'ofici?",
+      "options": [
+        "Quan la persona interessada deixa de tenir cap interès legítim en la resolució del procediment",
+        "Quan, en procediments que poden produir efectes desfavorables, venç el termini sense resoldre",
+        "Sempre que transcorrin tres mesos des de l'inici, en qualsevol procediment",
+        "Quan l'Administració decideix arxivar voluntàriament les actuacions"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la caducitat dels procediments d'ofici. Correcta (b): en els procediments iniciats d'ofici susceptibles de produir efectes desfavorables o de gravamen, el venciment del termini màxim sense resolució produeix la caducitat i l'arxiu (art. 25). Per què no: (a) no depèn de l'interès de l'interessat; (c) no és un termini fix de 3 mesos per a tots; (d) no és un arxiu voluntari. Base: art. 25 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 25 Llei 39/2015"
+    },
+    {
+      "theme": 11,
+      "block": 2,
+      "q": "Després d'interposar un recurs potestatiu de reposició, la persona interessada:",
+      "options": [
+        "Pot interposar de manera simultània el recurs contenciós administratiu davant els tribunals",
+        "No pot interposar el contenciós fins que es resolgui la reposició (de manera expressa o per silenci)",
+        "Ha d'interposar obligatòriament després un recurs d'alçada",
+        "Renuncia definitivament a la via contenciosa administrativa"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta l'efecte d'interposar reposició. Correcta (b): no es pot interposar el recurs contenciós fins que la reposició s'hagi resolt expressament o s'hagi produït la seva desestimació per silenci (art. 123.2). Per què no: (a) no es poden simultaniejar; (c) no escau una alçada posterior; (d) no es renuncia al contenciós. Base: art. 123 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 123 Llei 39/2015"
     }
   ]
 }
