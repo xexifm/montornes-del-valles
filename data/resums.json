@@ -545,51 +545,53 @@
       "key": "Llicència urbanística (187 TRLUC): acte reglat de control previ; actes subjectes (obres majors, parcel·lacions, primera ocupació...) i comunicació prèvia per als menors (187 bis). S'atorga salvant el dret de propietat i de tercers. Silenci positiu però mai per a actuacions contràries al planejament (11.3 TRLS). Caducitat per incompliment de terminis."
     },
     "89": {
-      "intro": "La Llei 31/1995, de prevenció de riscos laborals (LPRL), estableix el marc de protecció de la seguretat i salut dels treballadors, també a les administracions públiques.",
+      "intro": "La seguretat i salut en el treball té per objecte protegir els treballadors davant els riscos derivats de la feina. El marc bàsic és la Llei 31/1995, de prevenció de riscos laborals (LPRL), aplicable també a les administracions públiques.",
       "sections": [
         {
-          "h": "Principis de l'acció preventiva (art. 15)",
-          "scheme": {
-            "cap": "Principis preventius",
-            "body": "1) EVITAR els riscos\n2) AVALUAR els que no es puguin evitar\n3) COMBATRE'LS en ORIGEN\n4) ADAPTAR el treball a la persona\n5) Tenir en compte l'evolució de la TÈCNICA\n6) Substituir el perillós pel que comporti poc o cap perill\n7) PLANIFICAR la prevenció\n8) Prioritzar la protecció COL·LECTIVA sobre la individual\n9) Donar les degudes INSTRUCCIONS als treballadors"
-          }
+          "h": "Conceptes bàsics i deure de protecció",
+          "p": "La LPRL defineix conceptes com el risc laboral (possibilitat que un treballador pateixi un dany derivat de la feina) i el dany derivat del treball. Estableix el deure general de l'empresari (a l'Administració, com a ocupadora) de garantir la seguretat i la salut dels treballadors en tots els aspectes relacionats amb la feina, mitjançant una acció preventiva integrada en l'activitat de l'organització (art. 14)."
         },
         {
-          "h": "Obligacions i organització",
+          "h": "Principis de l'acció preventiva (art. 15)",
+          "p": "L'acció preventiva s'ajusta a un ordre de prioritats: evitar els riscos; avaluar els que no es puguin evitar; combatre els riscos en origen; adaptar el treball a la persona; tenir en compte l'evolució de la tècnica; substituir el que és perillós pel que comporti poc o cap perill; planificar la prevenció; adoptar mesures que anteposin la protecció col·lectiva a la individual; i donar les degudes instruccions als treballadors."
+        },
+        {
+          "h": "Instruments i drets",
           "list": [
-            "L'empresari (l'Administració) ha de garantir la seguretat i salut en tots els aspectes de la feina.",
-            "Avaluació de riscos i planificació de l'activitat preventiva.",
-            "Informació, consulta, participació i formació dels treballadors.",
-            "Vigilància de la salut; equips de protecció individual (EPI) quan calgui.",
+            "L'avaluació de riscos i la planificació de l'activitat preventiva són els instruments inicials del sistema de gestió de la prevenció.",
+            "El pla de prevenció de riscos laborals integra la prevenció en l'organització.",
+            "Drets dels treballadors: informació, consulta i participació, formació, vigilància de la salut (en general voluntària) i protecció mitjançant equips de protecció individual (EPI) quan calgui.",
             "Modalitats d'organització preventiva: assumpció pel propi empresari, treballadors designats, servei de prevenció propi o aliè."
           ]
         },
         {
-          "key": "La prevenció s'integra en tots els nivells de l'organització; els drets dels treballadors (informació, formació, vigilància de la salut) són correlatius a obligacions de l'empresari."
+          "h": "Òrgans de participació",
+          "p": "Els delegats de prevenció són els representants dels treballadors amb funcions específiques en matèria de prevenció. El comitè de seguretat i salut és l'òrgan paritari i col·legiat de participació destinat a la consulta regular i periòdica de les actuacions de l'empresa en matèria de prevenció (obligatori a partir d'un determinat nombre de treballadors)."
         }
       ],
-      "key": "LPRL 31/1995. Principis art. 15 (evitar, avaluar, combatre en origen, protecció col·lectiva > individual). Avaluació + planificació + formació + vigilància de la salut."
+      "key": "Prevenció de riscos laborals (LPRL 31/1995): deure general de l'empresari de protecció eficaç (art. 14). Principis de l'acció preventiva (art. 15): evitar, avaluar, combatre en origen, protecció col·lectiva sobre individual. Avaluació de riscos + planificació + pla de prevenció. Delegats de prevenció i comitè de seguretat i salut."
     },
     "90": {
-      "intro": "La coordinació d'activitats empresarials (CAE) s'aplica quan en un mateix centre de treball concorren treballadors de diverses empreses. Es regula a l'art. 24 de la Llei 31/1995 i al RD 171/2004.",
+      "intro": "La coordinació d'activitats empresarials (CAE) s'aplica quan en un mateix centre de treball concorren treballadors de diverses empreses. Es regula a l'art. 24 de la Llei 31/1995 i al Reial decret 171/2004.",
       "sections": [
         {
-          "h": "Objectius i mitjans",
+          "h": "Objectiu i deure de cooperació",
+          "p": "L'objectiu de la coordinació és garantir l'aplicació coherent i responsable dels principis de l'acció preventiva quan en un centre de treball desenvolupen activitats treballadors de dues o més empreses (i treballadors autònoms). Totes les empreses concurrents tenen el deure de cooperar i d'informar-se recíprocament sobre els riscos específics de les seves activitats que puguin afectar els altres, i de tenir-ho en compte en l'avaluació i la planificació de la prevenció."
+        },
+        {
+          "h": "Subjectes i obligacions",
           "list": [
-            "Garantir l'aplicació coherent de la normativa preventiva quan concorren diverses empreses.",
-            "Mitjans de coordinació: intercanvi d'informació i instruccions, reunions, mesures específiques, presència de recursos preventius, designació de persona/es encarregades de la coordinació.",
-            "El titular del centre informa i dona instruccions a les empreses concurrents; l'empresari principal vigila el compliment."
+            "L'empresari titular del centre de treball (qui té la capacitat de posar-lo a disposició) ha d'informar i donar instruccions a les empreses concurrents sobre els riscos del centre i les mesures de prevenció i d'emergència.",
+            "L'empresari principal (qui contracta o subcontracta obres o serveis corresponents a la seva pròpia activitat i es desenvolupen al seu centre) té, a més, el deure de vigilar el compliment de la normativa de prevenció per part de contractistes i subcontractistes.",
+            "Els treballadors autònoms també participen en els deures de cooperació i informació."
           ]
         },
         {
-          "h": "Subjectes",
-          "scheme": {
-            "cap": "Rols en la CAE (RD 171/2004)",
-            "body": "EMPRESARI TITULAR del centre → informa i instrueix\nEMPRESARI PRINCIPAL (contracta la pròpia activitat)\n   → deure de vigilància del compliment\nEMPRESES CONCURRENTS → cooperen i s'informen mútuament\nMITJÀ preferent quan hi ha risc greu → presència de\n   RECURSOS PREVENTIUS"
-          }
+          "h": "Mitjans de coordinació",
+          "p": "Els mitjans de coordinació es trien en funció del grau de perillositat de les activitats i poden incloure: l'intercanvi d'informació i de comunicacions, les reunions, les instruccions, l'establiment de mesures específiques, la presència de recursos preventius (preceptiva quan els riscos puguin veure's agreujats per la concurrència d'activitats) i la designació d'una o més persones encarregades de la coordinació. En les obres de construcció, a més, cal designar un coordinador de seguretat i salut i disposar del pla de seguretat i salut (RD 1627/1997)."
         }
       ],
-      "key": "CAE = art. 24 LPRL + RD 171/2004. Cooperació i informació entre empreses concurrents; deure de vigilància de l'empresari principal."
+      "key": "Coordinació d'activitats empresarials (art. 24 LPRL + RD 171/2004): cooperació i informació recíproca entre totes les empreses concurrents (i autònoms). L'empresari titular informa i instrueix; l'empresari principal té deure de vigilància. Mitjans: reunions, instruccions, recursos preventius. En obres: coordinador i pla de seguretat i salut."
     },
     "17": {
       "intro": "La funció pública local s'organitza al voltant de l'accés, la selecció, la provisió de llocs i les classes de personal. El marc bàsic és el text refós de l'Estatut bàsic de l'empleat públic (RDL 5/2015, TREBEP), desplegat per la legislació autonòmica i de règim local.",
@@ -1878,127 +1880,117 @@
       "key": "Llei 19/2014: transparència (publicitat activa al portal), dret d'accés (de qualsevol persona, sense motivar; límits taxats i ponderació amb la protecció de dades; silenci negatiu i reclamació davant la GAIP) i bon govern (principis ètics dels alts càrrecs)."
     },
     "83": {
-      "intro": "Gestió per objectius: planificació estratègica i operativa, indicadors i avaluació.",
+      "intro": "La gestió per objectius (direcció per objectius, DPO) és un model de gestió que orienta l'organització cap a la consecució de resultats definits prèviament, mitjançant la planificació estratègica i operativa, la fixació d'indicadors i l'avaluació del desenvolupament.",
       "sections": [
         {
-          "h": "Nivells de planificació",
-          "scheme": {
-            "cap": "Gestió per objectius (DPO)",
-            "body": "ESTRATÈGICA → missió, visió, objectius a llarg termini\nOPERATIVA → accions, recursos i terminis a curt\nINDICADORS → mesura de l'assoliment (SMART)\nAVALUACIÓ → seguiment i correcció"
-          }
+          "h": "Planificació estratègica i operativa",
+          "p": "La planificació estratègica defineix la missió, la visió i els objectius a llarg termini de l'organització, així com les línies d'acció prioritàries. La planificació operativa concreta aquests objectius en accions, projectes, recursos i terminis a curt termini. Hi ha d'haver alineació entre tots dos nivells: les accions operatives han de contribuir als objectius estratègics."
         },
         {
-          "h": "Notes",
-          "list": [
-            "Alineació entre objectius estratègics i operatius.",
-            "Els objectius han de ser específics, mesurables, assolibles, rellevants i temporals."
-          ]
+          "h": "Fixació d'objectius i indicadors",
+          "p": "Els objectius han de complir els criteris SMART: ser específics, mesurables, assolibles, rellevants i amb un horitzó temporal definit. Per a cada objectiu es fixen indicadors que en permeten mesurar el grau d'assoliment, i fites intermèdies que faciliten el seguiment. La participació de les persones en la definició dels objectius n'augmenta el compromís."
+        },
+        {
+          "h": "Avaluació del desenvolupament",
+          "p": "L'avaluació del desenvolupament o de l'acompliment compara els resultats obtinguts amb els objectius i els indicadors fixats, identifica les desviacions i les seves causes i estableix mesures de millora. Es vincula, si escau, amb l'avaluació de l'acompliment del personal (TREBEP, art. 20), que valora la conducta professional i el rendiment, amb efectes sobre la carrera, la formació i la retribució per productivitat."
         }
       ],
-      "key": "DPO: planificació estratègica (llarg) i operativa (curt), amb indicadors SMART i avaluació."
+      "key": "Gestió per objectius (DPO): planificació estratègica (missió, visió, objectius a llarg termini) i operativa (accions i recursos a curt), alineades. Objectius i indicadors SMART, amb fites de seguiment. Avaluació del desenvolupament/acompliment (TREBEP art. 20), amb efectes en carrera i productivitat."
     },
     "84": {
-      "intro": "Presa de decisions: anàlisi de problemes complexos i gestió del canvi en entorns públics.",
+      "intro": "La presa de decisions consisteix a triar, entre diverses alternatives, la més adequada per resoldre un problema o assolir un objectiu. En els entorns públics, sovint complexos, requereix mètode, anàlisi i una bona gestió del canvi.",
       "sections": [
         {
-          "h": "Procés decisori",
-          "scheme": {
-            "cap": "Presa de decisions",
-            "body": "1) DEFINIR el problema (causes arrel)\n2) GENERAR alternatives\n3) AVALUAR conseqüències i riscos\n4) DECIDIR i implementar\n5) FER SEGUIMENT i ajustar\nGESTIÓ DEL CANVI → comunicar, implicar, acompanyar"
-          }
+          "h": "El procés de decisió",
+          "p": "Un procés estructurat de presa de decisions comprèn: definir i delimitar el problema (identificant-ne les causes arrel, no només els símptomes); recollir i analitzar la informació rellevant; generar diverses alternatives de solució; avaluar cada alternativa segons criteris (eficàcia, cost, impacte, riscos, legalitat); triar i implementar la decisió; i fer-ne el seguiment per comprovar-ne els resultats i corregir si cal."
         },
         {
-          "h": "Notes",
-          "list": [
-            "Eines: anàlisi DAFO, arbre de problemes, anàlisi cost-benefici.",
-            "Gestionar les resistències al canvi amb participació i comunicació."
-          ]
+          "h": "Eines d'anàlisi de problemes complexos",
+          "p": "Per analitzar problemes complexos es poden emprar eines com l'anàlisi DAFO (debilitats, amenaces, fortaleses i oportunitats), l'arbre de problemes i d'objectius, l'anàlisi cost-benefici i les tècniques de participació i de consens. En entorns d'incertesa, és important valorar els riscos i preveure escenaris alternatius."
+        },
+        {
+          "h": "Gestió del canvi",
+          "p": "Moltes decisions impliquen canvis en l'organització, que solen generar resistències. La gestió del canvi requereix comunicar de manera clara els motius i els objectius del canvi, implicar i fer participar les persones afectades, acompanyar la transició amb formació i suport, i gestionar les resistències amb diàleg. Un canvi ben gestionat redueix la incertesa i augmenta les possibilitats d'èxit."
         }
       ],
-      "key": "Decidir: definir problema → alternatives → avaluar → decidir → seguiment. Gestió del canvi amb participació."
+      "key": "Presa de decisions: definir el problema (causes arrel) → analitzar informació → generar alternatives → avaluar (criteris i riscos) → decidir i implementar → seguiment. Eines: DAFO, arbre de problemes, cost-benefici. Gestió del canvi: comunicar, implicar, acompanyar i gestionar resistències."
     },
     "85": {
-      "intro": "Ètica pública i valors: el codi ètic i l'aplicació de la integritat i el servei a la ciutadania.",
+      "intro": "L'ètica pública i els valors són el conjunt de principis que han de guiar la conducta de les persones al servei de les administracions. El codi ètic i l'aplicació dels principis d'integritat i servei a la ciutadania orienten la direcció diària.",
       "sections": [
         {
-          "h": "Principis ètics",
-          "scheme": {
-            "cap": "Ètica pública",
-            "body": "INTEGRITAT i HONESTEDAT\nOBJECTIVITAT i IMPARCIALITAT\nTRANSPARÈNCIA i retiment de comptes\nEXEMPLARITAT (coherència valors-conducta)\nSERVEI a l'interès general i a la ciutadania"
-          }
+          "h": "Principis ètics i de conducta",
+          "p": "L'actuació dels empleats i directius públics s'ha de regir per principis com la integritat i l'honestedat, l'objectivitat i la imparcialitat, la neutralitat, la responsabilitat, la transparència, l'exemplaritat, l'austeritat i la dedicació al servei públic (arts. 52-54 del TREBEP i Llei 19/2014). El servei a l'interès general i a la ciutadania és l'eix de l'ètica pública."
         },
         {
-          "h": "Marc",
-          "list": [
-            "Codis de conducta dels alts càrrecs i empleats públics (Llei 19/2014; TREBEP).",
-            "Prevenció de conflictes d'interès i de la corrupció."
-          ]
+          "h": "El codi ètic i de bon govern",
+          "p": "Els codis ètics o de conducta concreten aquests principis en pautes d'actuació i compromisos exigibles. Inclouen normes sobre la prevenció dels conflictes d'interès, el règim d'incompatibilitats, l'acceptació de regals, la confidencialitat i l'ús adequat dels recursos públics. La Llei 19/2014 imposa als alts càrrecs un codi de conducta i mecanismes de seguiment."
+        },
+        {
+          "h": "Integritat i exemplaritat en la direcció",
+          "p": "En la direcció diària, la integritat es tradueix en decisions basades en l'interès general i no en interessos particulars, i l'exemplaritat exigeix coherència entre els valors declarats i la conducta real. La construcció d'una cultura d'integritat (codis, formació, canals de denúncia, avaluació) és una eina de prevenció de la corrupció i de reforç de la confiança de la ciutadania."
         }
       ],
-      "key": "Ètica pública: integritat, objectivitat, transparència, exemplaritat i servei a l'interès general."
+      "key": "Ètica pública: integritat, objectivitat, imparcialitat, transparència, exemplaritat i servei a l'interès general (TREBEP 52-54; Llei 19/2014). Codi ètic i de conducta: prevenció de conflictes d'interès, incompatibilitats, regals. Integritat i exemplaritat com a eines de prevenció de la corrupció."
     },
     "86": {
-      "intro": "El personal al servei de les AP: funcionari, laboral, directiu professional, eventual (TREBEP).",
+      "intro": "El personal al servei de les administracions públiques es classifica en diferents tipus segons la naturalesa de la seva relació. El TREBEP en regula les classes, amb especial atenció al personal directiu professional.",
       "sections": [
         {
-          "h": "Classes",
-          "scheme": {
-            "cap": "Classes de personal",
-            "body": "FUNCIONARI DE CARRERA → relació estatutària permanent\nFUNCIONARI INTERÍ → temporal, per necessitat/urgència\nPERSONAL LABORAL → fix/indefinit/temporal (dret laboral)\nPERSONAL EVENTUAL → confiança; cessament lliure\nPERSONAL DIRECTIU PROFESSIONAL → funcions directives,\n   amb avaluació i responsabilitat"
-          }
+          "h": "Classes de personal",
+          "list": [
+            "Personal funcionari de carrera: vinculat per una relació estatutària de dret administratiu de caràcter permanent; exerceix les funcions reservades que impliquen autoritat o salvaguarda d'interessos generals.",
+            "Personal funcionari interí: nomenat amb caràcter temporal per raons de necessitat i urgència justificades.",
+            "Personal laboral (fix, indefinit o temporal): vinculat per un contracte de treball i regit per la legislació laboral i el conveni col·lectiu.",
+            "Personal eventual: exerceix funcions de confiança o assessorament especial, amb nomenament i cessament lliures."
+          ]
         },
         {
-          "h": "Notes",
-          "list": [
-            "Les funcions que impliquin exercici d'autoritat es reserven a funcionaris.",
-            "El directiu es designa per mèrit, capacitat i idoneïtat, amb publicitat."
-          ]
+          "h": "El personal directiu professional",
+          "p": "El personal directiu professional (art. 13 TREBEP) és el que exerceix funcions directives professionals a les administracions, definides com a tals a les normes específiques de cada administració. La seva designació atén els principis de mèrit i capacitat i de criteris d'idoneïtat, mitjançant procediments que garanteixen la publicitat i la concurrència. Està subjecte a avaluació segons criteris d'eficàcia, eficiència i responsabilitat per la gestió, i a control de resultats."
+        },
+        {
+          "h": "Particularitats a l'àmbit local",
+          "p": "A l'Administració local, l'establiment del personal directiu professional es preveu en els reglaments orgànics municipals i en la legislació de règim local; cal distingir-lo del personal eventual de confiança i dels òrgans directius. Les funcions que impliquin l'exercici d'autoritat es reserven, en tot cas, al personal funcionari."
         }
       ],
-      "key": "Personal: carrera, interí, laboral, eventual i directiu professional (mèrit/capacitat/idoneïtat)."
+      "key": "Personal de les AP (TREBEP): funcionari de carrera (relació estatutària permanent), interí (temporal), laboral i eventual (confiança). Personal directiu professional (art. 13): funcions directives, designació per mèrit, capacitat i idoneïtat, amb avaluació i responsabilitat per la gestió."
     },
     "87": {
-      "intro": "Atenció al personal: gestió de conflictes, planificació de tasques, bon clima i resolució d'incidències.",
+      "intro": "L'atenció al personal comprèn la gestió de les persones de l'organització: la gestió de conflictes, la planificació de tasques, el manteniment d'un bon clima laboral i la resolució d'incidències i conflictes.",
       "sections": [
         {
-          "h": "Gestió de persones",
-          "scheme": {
-            "cap": "Atenció al personal",
-            "body": "PLANIFICACIÓ de tasques → càrrega equitativa i eficient\nCLIMA LABORAL → motivació, comunicació, reconeixement\nCONFLICTES → prevenció + comunicació/mediació\nINCIDÈNCIES → resolució àgil i seguiment"
-          }
+          "h": "Planificació de tasques i organització",
+          "p": "La gestió de les persones requereix planificar i distribuir la càrrega de treball de manera equitativa i eficient, ajustant les tasques a les capacitats i les disponibilitats, fixant prioritats i evitant tant la sobrecàrrega com la infrautilització. Una bona organització del treball repercuteix en la productivitat i en la satisfacció del personal."
         },
         {
-          "h": "Notes",
-          "list": [
-            "Un bon clima redueix l'absentisme i millora el rendiment.",
-            "Atenció a la conciliació i la prevenció de riscos psicosocials."
-          ]
+          "h": "Clima laboral i motivació",
+          "p": "El clima laboral és la percepció compartida sobre l'ambient de treball. Un bon clima (basat en la comunicació, el reconeixement, la participació, la confiança i el tracte respectuós) augmenta la motivació i el compromís, redueix l'absentisme i la rotació, i millora el rendiment. La conciliació de la vida personal i laboral i la prevenció dels riscos psicosocials hi contribueixen."
+        },
+        {
+          "h": "Gestió i resolució de conflictes i incidències",
+          "p": "Els conflictes són inevitables en qualsevol organització; la clau és gestionar-los de manera constructiva, identificant-ne les causes i emprant la comunicació, la negociació i, si cal, la mediació, abans de recórrer a mesures disciplinàries. Les incidències (absències, baixes, queixes) s'han de resoldre amb agilitat i fer-ne el seguiment, garantint l'equitat i el compliment de la normativa."
         }
       ],
-      "key": "Atenció al personal: planificar tasques, cuidar el clima, prevenir/resoldre conflictes i incidències."
+      "key": "Atenció al personal: planificar i distribuir la càrrega de treball de manera equitativa; cuidar el clima laboral (comunicació, reconeixement, conciliació, prevenció de riscos psicosocials); i gestionar conflictes (comunicació, negociació, mediació) i incidències amb agilitat i equitat."
     },
     "88": {
-      "intro": "Règim disciplinari del personal: aplicació, procediment i tipus de sancions (TREBEP).",
+      "intro": "El règim disciplinari del personal és el conjunt de normes que tipifiquen les faltes comeses pels empleats públics en l'exercici de les seves funcions i les sancions corresponents, i que regulen el procediment per imposar-les (TREBEP, arts. 93-98).",
       "sections": [
         {
-          "h": "Faltes i sancions",
-          "scheme": {
-            "cap": "Règim disciplinari",
-            "body": "FALTES → molt greus / greus / lleus (art. 95)\nSANCIONS (art. 96) → advertiment, suspensió de funcions,\n   demèrit, trasllat forçós, SEPARACIÓ DEL SERVEI\n   (només molt greus)\nPRESCRIPCIÓ → 3 anys (MG) / 2 (G) / 6 mesos (L)"
-          }
+          "h": "Aplicació i classificació de les faltes",
+          "p": "El règim disciplinari s'aplica al personal funcionari i, amb les especialitats pròpies, al personal laboral. Les faltes disciplinàries es classifiquen en molt greus, greus i lleus (art. 95). Són molt greus, entre altres, l'incompliment del deure de fidelitat a la Constitució i a l'Estatut, l'abús d'autoritat, la desobediència oberta, l'abandonament del servei, la falsedat o l'assetjament. Les greus i lleus es determinen en funció de criteris com la intencionalitat, el dany a l'interès públic i la reincidència."
         },
         {
-          "h": "Procediment",
-          "list": [
-            "Per faltes greus i molt greus: expedient amb garanties (instrucció separada, audiència, prova).",
-            "Principis: legalitat, tipicitat, proporcionalitat, presumpció d'innocència."
-          ]
+          "h": "Sancions",
+          "p": "Les sancions (art. 96) poden ser: la separació del servei (només per a faltes molt greus); l'acomiadament disciplinari del personal laboral; la suspensió ferma de funcions o de feina i sou; el trasllat forçós; la demèrit (penalització en la carrera); l'advertiment o l'amonestació; i altres previstes per llei. S'apliquen amb proporcionalitat a la gravetat de la falta."
         },
         {
-          "key": "La separació del servei només procedeix per faltes molt greus."
+          "h": "Procediment i prescripció",
+          "p": "Per a les faltes greus i molt greus cal instruir un expedient disciplinari amb totes les garanties (separació entre l'instructor i l'òrgan que resol, dret d'audiència i de defensa, prova i presumpció d'innocència). Les infraccions prescriuen als tres anys les molt greus, als dos anys les greus i als sis mesos les lleus (art. 97); les sancions també prescriuen en terminis anàlegs."
         }
       ],
-      "key": "Disciplinari: faltes MG/G/L; sancions fins a separació (només MG); prescripció 3/2/0,5 anys; expedient amb garanties."
+      "key": "Règim disciplinari (TREBEP 93-98): faltes molt greus, greus i lleus (art. 95). Sancions (art. 96): de l'advertiment fins a la separació del servei (només molt greus). Expedient amb garanties per a faltes greus i molt greus. Prescripció de les infraccions: 3 anys (MG), 2 (G), 6 mesos (L). Principis: legalitat, tipicitat, proporcionalitat, presumpció d'innocència."
     }
   }
 }
