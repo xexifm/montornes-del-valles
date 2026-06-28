@@ -3919,6 +3919,201 @@
       "explain": "Es pregunta el deure de l'empresari principal. Correcta (b): l'empresari principal (qui contracta obres o serveis de la pròpia activitat al seu centre) té el deure de vigilar el compliment de la normativa de prevenció pels contractistes i subcontractistes (art. 10 RD 171/2004). Per què no: (a) no assumeix la prevenció de les altres, sinó que la vigila; (c) no substitueix els seus recursos; (d) no eximeix els subcontractistes. Base: art. 10 RD 171/2004.",
       "source": "RD171_2004",
       "article": "art. 10 RD 171/2004"
+    },
+    {
+      "theme": 33,
+      "block": 8,
+      "q": "La gestió interessada d'un servei públic es caracteritza perquè:",
+      "options": [
+        "L'Administració assumeix en solitari tots els resultats de l'explotació del servei",
+        "L'empresari i l'Administració participen en els resultats segons una proporció fixada",
+        "El servei es presta sempre de manera gratuïta per als usuaris finals",
+        "El gestor adquireix la titularitat definitiva del servei un cop amortitzada la inversió"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la gestió interessada. Correcta (b): en la gestió interessada, l'empresari i l'Administració participen en els resultats de l'explotació segons una proporció prèviament fixada. Per què no: (a) no els assumeix l'Administració en solitari; (c) no implica gratuïtat; (d) la titularitat roman pública. Base: formes de gestió de serveis (LRBRL).",
+      "source": "LRBRL",
+      "article": "formes de gestió de serveis"
+    },
+    {
+      "theme": 37,
+      "block": 9,
+      "q": "L'acció de regrés de l'Administració contra el seu personal s'exerceix:",
+      "options": [
+        "De manera potestativa, segons el criteri discrecional de l'òrgan competent",
+        "D'ofici i de manera obligatòria, quan hi hagi hagut dol o culpa o negligència greus",
+        "Únicament si el particular perjudicat ho sol·licita expressament",
+        "Sempre que l'Administració hagi hagut de pagar una indemnització, en qualsevol cas"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta l'acció de regrés. Correcta (b): després d'indemnitzar el particular, l'Administració exigeix d'ofici (obligatòriament) la responsabilitat al seu personal quan hi hagi hagut dol o culpa o negligència greus (art. 36.2 Llei 40/2015). Per què no: (a) no és potestativa; (c) no depèn del particular; (d) no és per qualsevol conducta, sinó per dol o culpa greus. Base: art. 36 Llei 40/2015.",
+      "source": "L40_2015",
+      "article": "art. 36 Llei 40/2015"
+    },
+    {
+      "theme": 49,
+      "block": 11,
+      "q": "Els usos i obres de caràcter provisional, en cessar:",
+      "options": [
+        "Generen el dret a una indemnització a càrrec de l'Administració actuant",
+        "Han de cessar sense que es generi cap dret a indemnització",
+        "Es consoliden i passen a tenir caràcter definitiu i permanent",
+        "Obliguen l'Administració a expropiar els terrenys afectats pels usos"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el règim dels usos provisionals en cessar. Correcta (b): els usos provisionals tenen caràcter precari i han de cessar sense dret a indemnització quan ho ordeni l'Administració. Per què no: (a) no generen indemnització; (c) no es consoliden; (d) no obliguen a expropiar. Base: arts. 53-54 TRLUC.",
+      "source": "TRLUC",
+      "article": "arts. 53-54 TRLUC"
+    },
+    {
+      "theme": 53,
+      "block": 11,
+      "q": "La iniciativa privada en la formulació del planejament derivat:",
+      "options": [
+        "Vincula l'ajuntament, que ha d'aprovar la proposta en els termes presentats",
+        "És possible, però no vincula l'Administració, que resol de manera motivada",
+        "Està prohibida, perquè el planejament és d'iniciativa exclusivament pública",
+        "Requereix l'autorització prèvia del departament competent de la Generalitat"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la iniciativa privada en el planejament. Correcta (b): els particulars poden formular planejament derivat, però la proposta no vincula l'Administració, que conserva l'ius variandi i resol motivadament. Per què no: (a) no vincula l'ajuntament; (c) no està prohibida; (d) no cal autorització prèvia de la Generalitat. Base: art. 101 TRLUC.",
+      "source": "TRLUC",
+      "article": "art. 101 TRLUC"
+    },
+    {
+      "theme": 57,
+      "block": 12,
+      "q": "Les parcel·lacions urbanístiques en sòl no urbanitzable:",
+      "options": [
+        "Es poden autoritzar si respecten la unitat mínima de conreu de la zona",
+        "Estan prohibides",
+        "Només requereixen una comunicació prèvia a l'ajuntament",
+        "Les ha d'autoritzar el consell comarcal corresponent"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la parcel·lació en sòl no urbanitzable. Correcta (b): en sòl no urbanitzable resten prohibides les parcel·lacions urbanístiques, amb la presumpció legal davant indicis de transformació urbana. Per què no: (a), (c) i (d) no s'ajusten a la prohibició. Base: art. 188 TRLUC.",
+      "source": "TRLUC",
+      "article": "art. 188 TRLUC"
+    },
+    {
+      "theme": 63,
+      "block": 14,
+      "q": "L'execució d'obres locals per la pròpia Administració amb mitjans propis:",
+      "options": [
+        "És la regla general per a qualsevol obra municipal de qualsevol import",
+        "Només procedeix en els supòsits taxats que estableix la LCSP",
+        "Està prohibida en tot cas per la legislació de contractes vigent",
+        "Requereix sempre la prèvia adjudicació d'una concessió d'obres"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta l'execució per mitjans propis. Correcta (b): l'execució d'obres per la pròpia Administració només procedeix en els supòsits taxats de l'art. 30 LCSP (mitjans propis adequats, emergència, etc.); la regla general és l'execució per contracte. Per què no: (a) no és la regla general; (c) no està prohibida; (d) no requereix concessió. Base: art. 30 LCSP.",
+      "source": "LCSP",
+      "article": "art. 30 LCSP"
+    },
+    {
+      "theme": 65,
+      "block": 11,
+      "q": "Els ingressos obtinguts de la gestió del patrimoni públic de sòl:",
+      "options": [
+        "Es poden destinar lliurement a finançar despeses corrents del municipi",
+        "S'han d'afectar a les finalitats pròpies del patrimoni (urbanisme i habitatge)",
+        "Reverteixen íntegrament a la comunitat autònoma de Catalunya",
+        "Es reparteixen entre els propietaris de sòl de l'àmbit d'actuació"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el destí dels ingressos del patrimoni públic de sòl. Correcta (b): els béns i els ingressos del patrimoni públic de sòl s'han d'afectar a les seves finalitats (actuacions urbanístiques i polítiques d'habitatge protegit). Per què no: (a) no es poden destinar a despeses corrents alienes; (c) no reverteixen a la CA; (d) no es reparteixen entre propietaris. Base: art. 163 TRLUC.",
+      "source": "TRLUC",
+      "article": "art. 163 TRLUC"
+    },
+    {
+      "theme": 66,
+      "block": 11,
+      "q": "Les urbanitzacions amb dèficits urbanístics es regularitzen, en general, mitjançant:",
+      "options": [
+        "La demolició íntegra de totes les edificacions existents a l'àmbit",
+        "Instruments de planejament i de gestió que completin serveis i cessions",
+        "La simple inscripció de les finques al Registre de la Propietat",
+        "L'exempció dels propietaris de tota càrrega d'urbanització pendent"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la regularització de les urbanitzacions amb dèficits. Correcta (b): es regularitzen amb instruments de planejament (plans especials o de millora urbana) i de gestió (reparcel·lació) que completin la urbanització i les cessions. Per què no: (a) no es busca la demolició; (c) la inscripció no regularitza els dèficits; (d) els propietaris assumeixen les càrregues. Base: TRLUC i normativa específica.",
+      "source": "TRLUC",
+      "article": "normativa específica"
+    },
+    {
+      "theme": 71,
+      "block": 12,
+      "q": "La quantia d'una sanció urbanística:",
+      "options": [
+        "Pot suposar un benefici econòmic per a l'infractor si l'obra es legalitza",
+        "Mai no pot suposar un benefici econòmic per a la persona infractora",
+        "És sempre una quantitat fixa amb independència de la gravetat de la infracció",
+        "La determina lliurement l'Alcalde sense subjecció a cap criteri legal"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la quantia de les sancions. Correcta (b): la sanció mai no pot suposar un benefici econòmic per a l'infractor; si el benefici obtingut és superior, la multa s'incrementa fins a igualar-lo com a mínim. Per què no: (a) no pot resultar beneficiós; (c) no és una quantitat fixa (es gradua); (d) no la fixa lliurement l'Alcalde. Base: art. 219 TRLUC.",
+      "source": "TRLUC",
+      "article": "art. 219 TRLUC"
+    },
+    {
+      "theme": 74,
+      "block": 12,
+      "q": "Les mesures cautelars en un expedient de revisió d'una llicència poden incloure:",
+      "options": [
+        "La concessió automàtica d'una nova llicència en substitució de l'anterior",
+        "La suspensió dels efectes de la llicència i de les obres que empara",
+        "La imposició immediata d'una sanció econòmica a la persona titular",
+        "La inscripció de la llicència revisada al Registre Mercantil"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta les mesures cautelars en la revisió. Correcta (b): la incoació d'un expedient de revisió pot comportar mesures cautelars, com la suspensió dels efectes de la llicència i de les obres que empara, per evitar consolidar la il·legalitat. Per què no: (a) no concedeix una nova llicència; (c) la sanció no és una mesura cautelar de la revisió; (d) no és una inscripció mercantil. Base: art. 108 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 108 Llei 39/2015"
+    },
+    {
+      "theme": 79,
+      "block": 17,
+      "q": "El quadre de comandament integral serveix, principalment, per:",
+      "options": [
+        "Substituir el pressupost anual de l'entitat local en matèria d'inversions",
+        "Integrar indicadors clau per seguir l'assoliment d'objectius i decidir",
+        "Determinar les retribucions complementàries de tot el personal",
+        "Fixar el calendari de les sessions ordinàries del Ple municipal"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el quadre de comandament. Correcta (b): el quadre de comandament integra els indicadors clau per facilitar el seguiment de l'assoliment dels objectius i la presa de decisions, i detectar desviacions. Per què no: (a) no substitueix el pressupost; (c) no determina retribucions; (d) no fixa el calendari de sessions. Base: avaluació de resultats.",
+      "source": "L19_2014",
+      "article": "avaluació de resultats"
+    },
+    {
+      "theme": 80,
+      "block": 17,
+      "q": "La gestió eficaç del temps en el comandament recomana:",
+      "options": [
+        "Atendre totes les tasques alhora a mesura que arriben, sense prioritzar",
+        "Prioritzar, agrupar tasques similars i reduir les interrupcions",
+        "No planificar la jornada per mantenir la màxima flexibilitat",
+        "Delegar totes les decisions, incloses les estratègiques, en l'equip"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la gestió del temps. Correcta (b): la gestió eficaç del temps recomana prioritzar (urgent/important), agrupar tasques similars i reduir les interrupcions. Per què no: (a) atendre-ho tot alhora és ineficient; (c) cal planificar; (d) les decisions estratègiques no s'han de delegar totes. Base: eines de comandament.",
+      "source": "L31_1995",
+      "article": "eines de comandament"
+    },
+    {
+      "theme": 83,
+      "block": 17,
+      "q": "La planificació operativa, a diferència de l'estratègica:",
+      "options": [
+        "Defineix la missió i la visió de l'organització a llarg termini",
+        "Concreta accions, recursos i terminis a curt termini",
+        "És sempre voluntària i no requereix indicadors de seguiment",
+        "Correspon en exclusiva al nivell polític de la corporació"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la planificació operativa. Correcta (b): la planificació operativa concreta els objectius en accions, recursos i terminis a curt termini, alineats amb l'estratègia. Per què no: (a) la missió i la visió a llarg termini són de la planificació estratègica; (c) requereix indicadors; (d) no correspon en exclusiva al nivell polític. Base: gestió per objectius.",
+      "source": "L19_2014",
+      "article": "gestió per objectius"
     }
   ]
 }
