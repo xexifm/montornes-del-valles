@@ -6499,6 +6499,651 @@
       "explain": "Es pregunta la declaració de lesivitat. Correcta (a): declaració de lesivitat (art. 107) i impugnació contenciosa. Per què no: (b), (c) i (d) són incorrectes. Base: art. 107 Llei 39/2015.",
       "source": "L39_2015",
       "article": "Art. 107"
+    },
+    {
+      "theme": 75,
+      "block": 15,
+      "q": "La cèdula d'habitabilitat és el document que acredita que un habitatge:",
+      "options": [
+        "Compleix les condicions mínimes d'habitabilitat per ser destinat a residència",
+        "Disposa de la millor qualificació energètica possible i d'instal·lacions domòtiques de darrera generació",
+        "Està lliure de càrregues",
+        "Té el preu taxat"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la cèdula d'habitabilitat. Correcta (a): acredita el compliment de les condicions mínimes d'habitabilitat. Per què no: (b), (c) i (d) són incorrectes. Base: Llei 18/2007.",
+      "source": "L18_2007",
+      "article": "Cèdula"
+    },
+    {
+      "theme": 75,
+      "block": 15,
+      "q": "L'habitatge amb protecció oficial s'adjudica, amb caràcter general, a través de:",
+      "options": [
+        "El Registre de sol·licitants d'habitatge amb protecció oficial",
+        "Una subhasta pública al millor postor entre totes les persones interessades a accedir a aquests habitatges",
+        "La lliure venda al mercat",
+        "Un sorteig sense requisits"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta l'adjudicació de l'HPO. Correcta (a): a través del Registre de sol·licitants, garantint transparència i igualtat. Per què no: (b), (c) i (d) són incorrectes. Base: Llei 18/2007.",
+      "source": "L18_2007",
+      "article": "Registre sol·licitants"
+    },
+    {
+      "theme": 76,
+      "block": 15,
+      "q": "L'avaluació ambiental estratègica recau sobre:",
+      "options": [
+        "Els plans i programes, com el planejament urbanístic",
+        "Els projectes concrets d'obra o instal·lació que es volen autoritzar de manera individualitzada",
+        "Els contractes menors",
+        "Les ordenances fiscals"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta l'AAE. Correcta (a): recau sobre plans i programes. Per què no: (b) és l'avaluació d'impacte ambiental; (c) i (d) són incorrectes. Base: legislació ambiental.",
+      "source": "L20_2009",
+      "article": "Avaluació estratègica"
+    },
+    {
+      "theme": 76,
+      "block": 15,
+      "q": "L'avaluació d'impacte ambiental d'un projecte conclou amb:",
+      "options": [
+        "La declaració d'impacte ambiental (DIA)",
+        "Una llicència d'obres de caràcter provisional vàlida únicament durant la fase de construcció del projecte",
+        "Una taxa ambiental",
+        "Un contracte"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la conclusió de l'AIA. Correcta (a): la declaració d'impacte ambiental (DIA), determinant per a l'autorització. Per què no: (b), (c) i (d) són incorrectes. Base: legislació ambiental.",
+      "source": "L20_2009",
+      "article": "DIA"
+    },
+    {
+      "theme": 76,
+      "block": 15,
+      "q": "En matèria de medi ambient, la distribució competencial a Catalunya respon a:",
+      "options": [
+        "Una competència compartida: bases estatals i desenvolupament i gestió de la Generalitat",
+        "Una competència exclusiva i excloent de l'Estat sobre la totalitat de la matèria ambiental sense excepcions",
+        "Una competència municipal exclusiva",
+        "L'absència de competència pública"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el repartiment competencial. Correcta (a): competència compartida (bases estatals + desenvolupament i gestió autonòmics, art. 144 EAC). Per què no: (b), (c) i (d) són incorrectes. Base: EAC.",
+      "source": "EAC2006",
+      "article": "Art. 144"
+    },
+    {
+      "theme": 77,
+      "block": 16,
+      "q": "Estan obligats a relacionar-se electrònicament amb les administracions, segons l'art. 14.2 de la Llei 39/2015:",
+      "options": [
+        "Les persones jurídiques i les entitats sense personalitat jurídica",
+        "Totes les persones físiques majors d'edat amb independència de la seva capacitat i mitjans per fer-ho",
+        "Només els menors d'edat",
+        "Cap subjecte"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta els subjectes obligats. Correcta (a): persones jurídiques, entitats sense personalitat, professionals col·legiats i empleats públics. Per què no: (b) les persones físiques poden triar; (c) i (d) són incorrectes. Base: art. 14.2 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "Art. 14.2"
+    },
+    {
+      "theme": 77,
+      "block": 16,
+      "q": "La signatura electrònica qualificada, respecte de les dades consignades en forma electrònica:",
+      "options": [
+        "Té el mateix valor jurídic que la signatura manuscrita",
+        "Té un valor merament indiciari que sempre necessita ser ratificat posteriorment de manera presencial",
+        "No té cap valor jurídic",
+        "Només val per a documents interns"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el valor de la signatura. Correcta (a): equival a la signatura manuscrita. Per què no: (b), (c) i (d) són incorrectes. Base: normativa de signatura electrònica.",
+      "source": "L39_2015",
+      "article": "Signatura electrònica"
+    },
+    {
+      "theme": 78,
+      "block": 17,
+      "q": "El cicle de millora contínua dels processos administratius es coneix com a:",
+      "options": [
+        "Cicle PDCA (planificar, fer, verificar i actuar)",
+        "Cadena de muntatge seqüencial inspirada en els processos industrials de producció en sèrie de béns",
+        "Mètode de cas únic",
+        "Pressupost base zero"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el cicle de millora. Correcta (a): PDCA (planificar-fer-verificar-actuar). Per què no: (b), (c) i (d) són incorrectes. Base: gestió de la qualitat.",
+      "source": "L19_2014",
+      "article": "PDCA"
+    },
+    {
+      "theme": 78,
+      "block": 17,
+      "q": "Les cartes de serveis són documents que:",
+      "options": [
+        "Informen la ciutadania dels serveis i dels compromisos de qualitat assumits",
+        "Estableixen les sancions disciplinàries aplicables al personal que incompleixi els objectius marcats",
+        "Aproven el pressupost",
+        "Regulen els tributs"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta les cartes de serveis. Correcta (a): informen dels serveis i fixen compromisos de qualitat. Per què no: (b), (c) i (d) són incorrectes. Base: qualitat del servei.",
+      "source": "L19_2014",
+      "article": "Cartes de serveis"
+    },
+    {
+      "theme": 78,
+      "block": 17,
+      "q": "L'objectiu de la millora de la qualitat del servei públic és incrementar:",
+      "options": [
+        "L'eficàcia, l'eficiència i la satisfacció de les persones usuàries",
+        "Exclusivament el nombre d'expedients oberts amb independència de si es resolen o de la seva qualitat",
+        "Només la despesa pública",
+        "La complexitat dels tràmits"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta l'objectiu. Correcta (a): eficàcia, eficiència i satisfacció dels usuaris. Per què no: (b), (c) i (d) són incorrectes. Base: qualitat del servei.",
+      "source": "L19_2014",
+      "article": "Qualitat"
+    },
+    {
+      "theme": 79,
+      "block": 17,
+      "q": "Les fases del cicle d'avaluació de l'assoliment d'objectius són:",
+      "options": [
+        "Planificació, execució, seguiment i revisió",
+        "Adjudicació, formalització, recepció i liquidació, pròpies de la tramitació dels contractes públics",
+        "Cap fase definida",
+        "Només la planificació"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta les fases. Correcta (a): planificació, execució, seguiment/mesura i revisió. Per què no: (b) són fases contractuals; (c) i (d) són incorrectes. Base: avaluació d'objectius.",
+      "source": "L19_2014",
+      "article": "Fases"
+    },
+    {
+      "theme": 79,
+      "block": 17,
+      "q": "Els indicadors d'avaluació d'objectius han de complir, idealment, els criteris:",
+      "options": [
+        "SMART (específics, mesurables, assolibles, rellevants i amb horitzó temporal)",
+        "De màxima complexitat tècnica per garantir que només els puguin interpretar persones expertes",
+        "De caràcter secret",
+        "De revisió decennal"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta els indicadors. Correcta (a): criteris SMART. Per què no: (b), (c) i (d) són incorrectes. Base: avaluació d'objectius.",
+      "source": "L19_2014",
+      "article": "Indicadors SMART"
+    },
+    {
+      "theme": 79,
+      "block": 17,
+      "q": "El quadre de comandament, en l'avaluació de resultats, serveix per:",
+      "options": [
+        "Integrar els indicadors clau i detectar a temps les desviacions",
+        "Substituir definitivament la planificació estratègica i operativa de l'organització en tots els seus nivells",
+        "Aprovar sancions",
+        "Eliminar el seguiment"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el quadre de comandament. Correcta (a): integra indicadors clau i ajuda a detectar desviacions. Per què no: (b), (c) i (d) són incorrectes. Base: avaluació d'objectius.",
+      "source": "L19_2014",
+      "article": "Quadre de comandament"
+    },
+    {
+      "theme": 80,
+      "block": 17,
+      "q": "Una tècnica d'organització del treball per prioritzar tasques és:",
+      "options": [
+        "Distingir el que és urgent del que és important (matriu d'Eisenhower)",
+        "Atendre sempre primer la tasca més antiga amb independència de la seva importància o urgència real",
+        "Fer totes les tasques alhora",
+        "No planificar"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta una tècnica de priorització. Correcta (a): distingir urgent/important (matriu d'Eisenhower). Per què no: (b), (c) i (d) són incorrectes. Base: organització del treball.",
+      "source": "TREBEP",
+      "article": "Priorització"
+    },
+    {
+      "theme": 80,
+      "block": 17,
+      "q": "En la gestió de l'estrès laboral, des de l'organització cal:",
+      "options": [
+        "Prevenir els riscos psicosocials i ajustar la càrrega de treball de manera realista",
+        "Incrementar de manera sostinguda la pressió sobre l'equip per maximitzar el rendiment a curt termini",
+        "Ignorar les fonts d'estrès",
+        "Eliminar el descans"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la gestió de l'estrès. Correcta (a): prevenir riscos psicosocials i ajustar la càrrega. Per què no: (b), (c) i (d) són incorrectes. Base: L31/1995 i organització.",
+      "source": "L31_1995",
+      "article": "Riscos psicosocials"
+    },
+    {
+      "theme": 80,
+      "block": 17,
+      "q": "Una reunió de treball eficaç ha de tenir, com a mínim:",
+      "options": [
+        "Un objectiu clar, un ordre del dia i un seguiment dels acords",
+        "Una durada com més llarga millor per esgotar tots els temes possibles encara que no estiguin previstos",
+        "Cap ordre del dia",
+        "Assistència obligatòria de tot el personal"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta les reunions eficaces. Correcta (a): objectiu clar, ordre del dia, durada ajustada i seguiment. Per què no: (b), (c) i (d) són incorrectes. Base: eines del comandament.",
+      "source": "TREBEP",
+      "article": "Reunions"
+    },
+    {
+      "theme": 81,
+      "block": 17,
+      "q": "El lideratge situacional recomana:",
+      "options": [
+        "Adaptar l'estil de direcció a la maduresa i competència de cada persona i a la tasca",
+        "Aplicar sempre el mateix estil directiu i autoritari amb independència de les persones i de les circumstàncies",
+        "Delegar-ho tot sempre",
+        "No dirigir mai"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el lideratge situacional. Correcta (a): adaptar l'estil a la persona i la tasca. Per què no: (b), (c) i (d) són incorrectes. Base: lideratge d'equips.",
+      "source": "TREBEP",
+      "article": "Lideratge situacional"
+    },
+    {
+      "theme": 81,
+      "block": 17,
+      "q": "Davant un conflicte en un equip, el comandament ha de recórrer preferentment a:",
+      "options": [
+        "La comunicació, la negociació i la mediació",
+        "La imposició immediata de mesures disciplinàries com a primera i única resposta a qualsevol desacord",
+        "La ignorància del conflicte",
+        "L'acomiadament directe"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la gestió de conflictes. Correcta (a): comunicació, negociació i mediació abans de mesures coercitives. Per què no: (b), (c) i (d) són incorrectes. Base: lideratge d'equips.",
+      "source": "TREBEP",
+      "article": "Gestió de conflictes"
+    },
+    {
+      "theme": 81,
+      "block": 17,
+      "q": "L'assertivitat, com a habilitat de comunicació, consisteix a:",
+      "options": [
+        "Expressar el propi punt de vista respectant alhora els altres",
+        "Imposar la pròpia opinió de manera agressiva sense tenir en compte en cap cas la posició dels interlocutors",
+        "Callar sempre",
+        "Evitar tota comunicació"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta l'assertivitat. Correcta (a): expressar el propi punt de vista respectant els altres. Per què no: (b) és agressivitat; (c) i (d) són passivitat. Base: comunicació.",
+      "source": "TREBEP",
+      "article": "Assertivitat"
+    },
+    {
+      "theme": 82,
+      "block": 16,
+      "q": "El dret d'accés a la informació pública, segons la Llei 19/2014, es pot exercir:",
+      "options": [
+        "Per qualsevol persona, sense necessitat de motivar la sol·licitud",
+        "Únicament per les persones que acreditin un interès legítim, directe i personal en la informació demanada",
+        "Només per càrrecs electes",
+        "Només mitjançant advocat"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el dret d'accés. Correcta (a): qualsevol persona, sense motivar ni acreditar interès. Per què no: (b), (c) i (d) són incorrectes. Base: Llei 19/2014.",
+      "source": "L19_2014",
+      "article": "Dret d'accés"
+    },
+    {
+      "theme": 82,
+      "block": 16,
+      "q": "Contra la denegació del dret d'accés a la informació pública, a Catalunya es pot presentar una reclamació davant:",
+      "options": [
+        "La Comissió de Garantia del Dret d'Accés a la Informació Pública (GAIP)",
+        "El Tribunal Constitucional, en tant que òrgan competent per a la tutela directa d'aquest dret fonamental",
+        "El defensor del poble estatal",
+        "La diputació"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la via de reclamació. Correcta (a): la GAIP. Per què no: (b), (c) i (d) són incorrectes. Base: Llei 19/2014.",
+      "source": "L19_2014",
+      "article": "GAIP"
+    },
+    {
+      "theme": 83,
+      "block": 17,
+      "q": "La planificació estratègica es diferencia de l'operativa en què l'estratègica:",
+      "options": [
+        "Fixa els objectius generals a llarg termini i les línies prioritàries",
+        "Concreta les accions, els recursos i els terminis del dia a dia a molt curt termini de manera detallada",
+        "No fixa cap objectiu",
+        "És irrellevant"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la distinció. Correcta (a): l'estratègica fixa objectius a llarg termini. Per què no: (b) descriu l'operativa; (c) i (d) són incorrectes. Base: gestió per objectius.",
+      "source": "TREBEP",
+      "article": "Planificació estratègica"
+    },
+    {
+      "theme": 83,
+      "block": 17,
+      "q": "En la gestió per objectius, els objectius generals de l'organització:",
+      "options": [
+        "Es despleguen en objectius d'àrea i, si escau, individuals, alineats entre si",
+        "Es mantenen secrets i no es comuniquen mai a les unitats ni a les persones que els han de complir",
+        "No es mesuren",
+        "Són fixos i immutables"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el desplegament. Correcta (a): es despleguen en objectius d'àrea i individuals alineats. Per què no: (b), (c) i (d) són incorrectes. Base: gestió per objectius.",
+      "source": "TREBEP",
+      "article": "Desplegament"
+    },
+    {
+      "theme": 83,
+      "block": 17,
+      "q": "L'avaluació de l'acompliment, prevista a l'Estatut bàsic de l'empleat públic, mesura:",
+      "options": [
+        "La conducta professional i el rendiment o els resultats assolits",
+        "Exclusivament l'antiguitat administrativa acumulada per la persona empleada al llarg de la seva carrera",
+        "El lloc de naixement",
+        "El nivell d'estudis només"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta l'avaluació de l'acompliment. Correcta (a): la conducta professional i el rendiment. Per què no: (b), (c) i (d) són incorrectes. Base: TREBEP.",
+      "source": "TREBEP",
+      "article": "Avaluació de l'acompliment"
+    },
+    {
+      "theme": 84,
+      "block": 17,
+      "q": "El primer pas en l'anàlisi d'un problema complex per prendre una decisió és:",
+      "options": [
+        "Definir el problema i identificar-ne les causes reals",
+        "Implantar de manera immediata la primera solució que se'ns acudeixi sense més anàlisi ni informació prèvia",
+        "Ignorar el problema",
+        "Sancionar el personal"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el primer pas. Correcta (a): definir el problema i identificar-ne les causes. Per què no: (b), (c) i (d) són incorrectes. Base: presa de decisions.",
+      "source": "TREBEP",
+      "article": "Anàlisi del problema"
+    },
+    {
+      "theme": 84,
+      "block": 17,
+      "q": "Un cop generades diverses alternatives de solució, cal:",
+      "options": [
+        "Avaluar-les segons criteris objectius (eficàcia, cost, viabilitat) i decidir",
+        "Triar-ne una a l'atzar mitjançant un sorteig per evitar haver de comparar-les entre si de manera raonada",
+        "No decidir mai",
+        "Acumular alternatives sense triar"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta l'avaluació d'alternatives. Correcta (a): avaluar segons criteris objectius i decidir. Per què no: (b), (c) i (d) són incorrectes. Base: presa de decisions.",
+      "source": "TREBEP",
+      "article": "Alternatives"
+    },
+    {
+      "theme": 84,
+      "block": 17,
+      "q": "En la gestió del canvi en entorns públics, per superar les resistències cal:",
+      "options": [
+        "Comunicar, fer participar les persones afectades i acompanyar el procés",
+        "Imposar el canvi sense cap explicació ni participació per estalviar temps i evitar discussions innecessàries",
+        "Renunciar a tot canvi",
+        "Amagar la informació"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la gestió del canvi. Correcta (a): comunicació, participació i acompanyament. Per què no: (b), (c) i (d) són incorrectes. Base: gestió del canvi.",
+      "source": "TREBEP",
+      "article": "Gestió del canvi"
+    },
+    {
+      "theme": 85,
+      "block": 17,
+      "q": "Davant un conflicte d'interès en un expedient, l'empleat públic té el deure de:",
+      "options": [
+        "Abstenir-se d'intervenir-hi i comunicar-ho",
+        "Resoldre l'expedient amb la màxima celeritat possible per evitar que el conflicte d'interès transcendeixi",
+        "Acceptar regals",
+        "Afavorir el conegut"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el deure davant el conflicte d'interès. Correcta (a): abstenir-se i comunicar-ho. Per què no: (b), (c) i (d) vulneren l'ètica pública. Base: TREBEP / Llei 40/2015.",
+      "source": "TREBEP",
+      "article": "Abstenció"
+    },
+    {
+      "theme": 85,
+      "block": 17,
+      "q": "Els principis ètics i de conducta dels empleats públics inclouen, entre altres:",
+      "options": [
+        "La integritat, l'objectivitat, la imparcialitat i el servei a la ciutadania",
+        "La defensa prioritària dels interessos particulars del seu departament per damunt de l'interès general comú",
+        "El secretisme",
+        "El favoritisme"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta els principis ètics. Correcta (a): integritat, objectivitat, imparcialitat i servei a la ciutadania. Per què no: (b), (c) i (d) els contradiuen. Base: arts. 52-54 TREBEP.",
+      "source": "TREBEP",
+      "article": "Codi de conducta"
+    },
+    {
+      "theme": 85,
+      "block": 17,
+      "q": "L'ètica pública en la direcció diària exigeix, davant pressions per afavorir un conegut:",
+      "options": [
+        "Rebutjar el favoritisme i garantir el tracte igual i la legalitat",
+        "Accedir a la petició si qui la formula és una persona influent o amb capacitat de generar problemes",
+        "Demanar una compensació",
+        "Ocultar la decisió"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta l'aplicació pràctica. Correcta (a): rebutjar el favoritisme i garantir el tracte igual. Per què no: (b), (c) i (d) són incorrectes. Base: ètica pública.",
+      "source": "TREBEP",
+      "article": "Imparcialitat"
+    },
+    {
+      "theme": 86,
+      "block": 7,
+      "q": "L'exercici de potestats públiques i la salvaguarda dels interessos generals estan reservats a:",
+      "options": [
+        "El personal funcionari",
+        "El personal laboral temporal contractat per a necessitats conjunturals de durada determinada i limitada",
+        "El personal eventual",
+        "Qualsevol persona"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la reserva de funcions. Correcta (a): el personal funcionari. Per què no: (b), (c) i (d) són incorrectes. Base: art. 9.2 TREBEP.",
+      "source": "TREBEP",
+      "article": "Art. 9.2"
+    },
+    {
+      "theme": 86,
+      "block": 7,
+      "q": "El personal eventual es caracteritza per:",
+      "options": [
+        "Exercir funcions de confiança o assessorament especial i ser de lliure nomenament i cessament",
+        "Ocupar amb caràcter permanent i mitjançant oposició els llocs de treball estructurals de l'organització",
+        "Tenir inamovibilitat",
+        "Exercir potestats públiques"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el personal eventual. Correcta (a): funcions de confiança o assessorament, de lliure nomenament i cessament. Per què no: (b), (c) i (d) descriuen el funcionari de carrera. Base: art. 12 TREBEP.",
+      "source": "TREBEP",
+      "article": "Art. 12"
+    },
+    {
+      "theme": 86,
+      "block": 7,
+      "q": "El règim d'incompatibilitats del personal al servei de les administracions parteix, com a regla general, de:",
+      "options": [
+        "No poder exercir més d'un lloc de treball públic ni activitats que comprometin la imparcialitat",
+        "La plena llibertat per acumular tots els llocs públics i privats que la persona sigui capaç de compatibilitzar",
+        "L'absència de límits",
+        "La prohibició de tota feina"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta les incompatibilitats. Correcta (a): regla general d'un sol lloc públic i no comprometre la imparcialitat. Per què no: (b), (c) i (d) són incorrectes. Base: normativa d'incompatibilitats.",
+      "source": "TREBEP",
+      "article": "Incompatibilitats"
+    },
+    {
+      "theme": 87,
+      "block": 7,
+      "q": "Davant un conflicte entre dos treballadors d'un equip, el comandament ha de:",
+      "options": [
+        "Escoltar les parts i cercar una solució mitjançant el diàleg o la mediació",
+        "Prendre partit immediatament per la persona que tingui més antiguitat dins de l'organització administrativa",
+        "Ignorar-lo",
+        "Acomiadar-los tots dos"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la gestió del conflicte. Correcta (a): escoltar les parts i cercar solució amb diàleg/mediació. Per què no: (b), (c) i (d) són incorrectes. Base: atenció al personal.",
+      "source": "TREBEP",
+      "article": "Conflictes"
+    },
+    {
+      "theme": 87,
+      "block": 7,
+      "q": "El repartiment de tasques dins d'un equip ha de ser:",
+      "options": [
+        "Equitatiu i transparent, amb funcions i responsabilitats clares",
+        "Decidit en exclusiva i de manera secreta per cada treballador segons les seves preferències personals del moment",
+        "Aleatori",
+        "Inexistent"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el repartiment de tasques. Correcta (a): equitatiu i transparent, amb funcions clares. Per què no: (b), (c) i (d) són incorrectes. Base: planificació de tasques.",
+      "source": "TREBEP",
+      "article": "Planificació de tasques"
+    },
+    {
+      "theme": 87,
+      "block": 7,
+      "q": "El bon clima laboral es construeix, entre altres factors, amb:",
+      "options": [
+        "Comunicació fluida, reconeixement de la feina i tracte respectuós",
+        "La competència agressiva entre companys fomentada deliberadament com a única via per millorar el rendiment",
+        "L'absència de comunicació",
+        "El menyspreu"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el bon clima. Correcta (a): comunicació, reconeixement i respecte. Per què no: (b), (c) i (d) són incorrectes. Base: clima laboral.",
+      "source": "TREBEP",
+      "article": "Clima laboral"
+    },
+    {
+      "theme": 88,
+      "block": 7,
+      "q": "Les faltes disciplinàries dels empleats públics es classifiquen en:",
+      "options": [
+        "Molt greus, greus i lleus",
+        "Penals, civils i mercantils, segons l'ordre jurisdiccional davant el qual s'hagin de substanciar finalment",
+        "Públiques i privades",
+        "Doloses només"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la classificació de faltes. Correcta (a): molt greus, greus i lleus. Per què no: (b), (c) i (d) són incorrectes. Base: TREBEP, règim disciplinari.",
+      "source": "TREBEP",
+      "article": "Faltes"
+    },
+    {
+      "theme": 88,
+      "block": 7,
+      "q": "El procediment disciplinari als empleats públics ha de garantir, entre altres:",
+      "options": [
+        "La presumpció d'innocència i el dret de defensa de la persona expedientada",
+        "La imposició de la sanció sense cap mena d'instrucció prèvia ni audiència quan els fets siguin notoris",
+        "La irrecurribilitat",
+        "L'anonimat de l'instructor"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta les garanties. Correcta (a): presumpció d'innocència i dret de defensa. Per què no: (b), (c) i (d) són incorrectes. Base: TREBEP.",
+      "source": "TREBEP",
+      "article": "Garanties"
+    },
+    {
+      "theme": 89,
+      "block": 18,
+      "q": "En la prevenció de riscos laborals, l'ordre de prioritat de les mesures de protecció és:",
+      "options": [
+        "Prioritzar la protecció col·lectiva per davant de la individual",
+        "Recórrer sempre i en primer lloc als equips de protecció individual abans que a qualsevol mesura col·lectiva",
+        "Eliminar la formació",
+        "No avaluar riscos"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la jerarquia de mesures. Correcta (a): la protecció col·lectiva té prioritat sobre la individual. Per què no: (b), (c) i (d) són incorrectes. Base: Llei 31/1995.",
+      "source": "L31_1995",
+      "article": "Protecció col·lectiva"
+    },
+    {
+      "theme": 89,
+      "block": 18,
+      "q": "L'instrument central de la prevenció de riscos laborals que identifica els perills és:",
+      "options": [
+        "L'avaluació de riscos",
+        "La memòria econòmica anual de l'entitat, que recull les despeses en matèria de personal i inversions",
+        "El pressupost",
+        "El conveni col·lectiu"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta l'instrument central. Correcta (a): l'avaluació de riscos. Per què no: (b), (c) i (d) són incorrectes. Base: Llei 31/1995.",
+      "source": "L31_1995",
+      "article": "Avaluació de riscos"
+    },
+    {
+      "theme": 90,
+      "block": 18,
+      "q": "La coordinació d'activitats empresarials s'aplica quan:",
+      "options": [
+        "En un mateix centre de treball hi concorren treballadors de diverses empreses",
+        "Una única empresa exerceix la seva activitat de manera totalment aïllada i sense cap relació amb altres empreses",
+        "No hi ha cap risc",
+        "No hi ha treballadors"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la coordinació d'activitats. Correcta (a): quan concorren al mateix centre treballadors de diverses empreses. Per què no: (b), (c) i (d) són incorrectes. Base: Llei 31/1995, art. 24.",
+      "source": "L31_1995",
+      "article": "Art. 24"
+    },
+    {
+      "theme": 90,
+      "block": 18,
+      "q": "La coordinació d'activitats empresarials té per objecte:",
+      "options": [
+        "Prevenir els riscos derivats de la concurrència de diverses empreses en un mateix centre",
+        "Repartir els beneficis econòmics obtinguts entre totes les empreses que comparteixen el centre de treball",
+        "Eliminar la prevenció",
+        "Augmentar els riscos"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta l'objecte. Correcta (a): prevenir els riscos de la concurrència. Per què no: (b), (c) i (d) són incorrectes. Base: Llei 31/1995.",
+      "source": "L31_1995",
+      "article": "Coordinació"
+    },
+    {
+      "theme": 90,
+      "block": 18,
+      "q": "En una obra de construcció, la figura encarregada de coordinar la prevenció durant l'execució és:",
+      "options": [
+        "El coordinador de seguretat i salut",
+        "El cap de compres de l'empresa principal, que s'encarrega també de gestionar el subministrament de materials",
+        "L'interventor municipal",
+        "El secretari"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el coordinador. Correcta (a): el coordinador de seguretat i salut. Per què no: (b), (c) i (d) són incorrectes. Base: normativa d'obres de construcció.",
+      "source": "L31_1995",
+      "article": "Coordinador SS"
     }
   ]
 }
