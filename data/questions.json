@@ -3559,6 +3559,171 @@
       "explain": "Es pregunta l'avaluació de riscos. Correcta (b): l'avaluació de riscos és l'instrument inicial del sistema de gestió de la prevenció, a partir del qual es planifica l'activitat preventiva (art. 16 LPRL). Per què no: (a) no és voluntària ni individual; (c) és responsabilitat de l'empresari, no de la Inspecció; (d) és preventiva, no posterior a l'accident. Base: art. 16 Llei 31/1995.",
       "source": "L31_1995",
       "article": "art. 16 Llei 31/1995"
+    },
+    {
+      "theme": 4,
+      "block": 1,
+      "q": "La Junta de Govern Local és un òrgan necessari:",
+      "options": [
+        "En tots els municipis, sigui quina sigui la seva població de dret",
+        "Als municipis de més de 5.000 habitants i, en els altres, quan ho acordi el Ple",
+        "Únicament als municipis de més de 50.000 habitants o capitals de província",
+        "Només quan el reglament orgànic municipal en prevegi expressament l'existència"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta quan és necessària la Junta de Govern Local. Correcta (b): la JGL és òrgan necessari als municipis de més de 5.000 habitants i, en la resta, quan ho disposi el reglament orgànic o ho acordi el Ple (art. 20 LRBRL). Per què no: (a) no és a tots; (c) no es limita als de 50.000; (d) també ho és per llei a partir de 5.000 hab. Base: art. 20 LRBRL.",
+      "source": "LRBRL",
+      "article": "art. 20 LRBRL"
+    },
+    {
+      "theme": 6,
+      "block": 2,
+      "q": "Quan és obligatòria la motivació d'un acte administratiu?",
+      "options": [
+        "Sempre, en qualsevol acte de tràmit que es dicti durant el procediment",
+        "En els actes que limiten drets, els discrecionals i els sancionadors, entre d'altres",
+        "Únicament en els actes que dicta un òrgan col·legiat per majoria",
+        "Mai, llevat que la persona interessada en demani expressament la motivació"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta quan cal motivar. Correcta (b): l'art. 35 imposa motivar, entre d'altres, els actes que limiten drets o interessos legítims, els discrecionals, els sancionadors, els que resolen recursos i els que se separen del criteri precedent. Per què no: (a) no tots els actes de tràmit; (c) no depèn del tipus d'òrgan; (d) la motivació no depèn que es demani. Base: art. 35 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 35 Llei 39/2015"
+    },
+    {
+      "theme": 7,
+      "block": 2,
+      "q": "Els actes administratius es presumeixen:",
+      "options": [
+        "Nuls fins que un òrgan superior en confirmi expressament la validesa",
+        "Vàlids i produeixen efectes des de la data en què es dicten",
+        "Eficaços només a partir de la seva inscripció en un registre públic",
+        "Provisionals fins que transcorri el termini per interposar-hi recursos"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la presumpció de validesa. Correcta (b): els actes administratius es presumeixen vàlids i produeixen efectes des de la data en què es dicten, llevat de demora de l'eficàcia (art. 38 i 39). Per què no: (a) no es presumeixen nuls; (c) l'eficàcia no depèn d'una inscripció registral; (d) no són provisionals fins al termini de recurs. Base: arts. 38-39 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "arts. 38-39 Llei 39/2015"
+    },
+    {
+      "theme": 9,
+      "block": 2,
+      "q": "Quina és, en defecte de norma específica, la durada del termini per resoldre un procediment?",
+      "options": [
+        "Quinze dies hàbils des de l'entrada de la sol·licitud al registre",
+        "Tres mesos",
+        "Sis mesos en tots els procediments iniciats a sol·licitud de l'interessat",
+        "Un any des de l'acord d'incoació del procediment d'ofici"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el termini supletori. Correcta (b): quan les normes reguladores no fixin el termini màxim, aquest serà de tres mesos (art. 21.3). Per què no: (a) no són quinze dies; (c) sis mesos és per a procediments concrets (p. ex. responsabilitat patrimonial); (d) no és un any. Base: art. 21 Llei 39/2015.",
+      "source": "L39_2015",
+      "article": "art. 21 Llei 39/2015"
+    },
+    {
+      "theme": 20,
+      "block": 5,
+      "q": "Quina és la regla general d'utilització dels procediments obert i restringit segons la LCSP?",
+      "options": [
+        "Són d'ús excepcional i només per a contractes de gran complexitat tècnica",
+        "L'adjudicació es fa ordinàriament per procediment obert o restringit",
+        "Només es poden utilitzar en els contractes de subministrament i de serveis",
+        "Requereixen sempre l'autorització prèvia del Consell de Ministres"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la regla general dels procediments. Correcta (b): l'adjudicació es fa ordinàriament per procediment obert o restringit; els altres (negociat, diàleg competitiu) tenen caràcter més restringit o per a supòsits específics (art. 131 LCSP). Per què no: (a) no són excepcionals; (c) no es limiten a serveis o subministraments; (d) no requereixen autorització del Consell de Ministres. Base: art. 131 LCSP.",
+      "source": "LCSP",
+      "article": "art. 131 LCSP"
+    },
+    {
+      "theme": 24,
+      "block": 5,
+      "q": "La recepció o conformitat de la prestació d'un contracte:",
+      "options": [
+        "És un tràmit prescindible si el contractista emet la factura corresponent",
+        "És un acte formal i positiu que constata el compliment i obre la garantia",
+        "La fa unilateralment el contractista en finalitzar la prestació",
+        "Es produeix automàticament al cap d'un any de la formalització del contracte"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la recepció. Correcta (b): el compliment es constata mitjançant un acte formal i positiu de recepció o conformitat, a partir del qual comença el termini de garantia (art. 210). Per què no: (a) no és prescindible; (c) no la fa unilateralment el contractista; (d) no es produeix automàticament al cap d'un any. Base: art. 210 LCSP.",
+      "source": "LCSP",
+      "article": "art. 210 LCSP"
+    },
+    {
+      "theme": 44,
+      "block": 11,
+      "q": "Quina classe de sòl està preservada del procés d'urbanització i transformació?",
+      "options": [
+        "El sòl urbà no consolidat pendent de reforma interior",
+        "El sòl no urbanitzable",
+        "El sòl urbanitzable delimitat amb pla parcial aprovat",
+        "El sòl que té la condició de solar dins de la trama urbana"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la classe de sòl preservada. Correcta (b): el sòl no urbanitzable és el que el planejament preserva del procés d'urbanització i de transformació (per valors a protegir o per riscos). Per què no: (a) el sòl urbà no consolidat es transforma; (c) l'urbanitzable es destina a transformar-se; (d) el solar és sòl urbà apte per edificar. Base: art. 32 TRLUC.",
+      "source": "TRLUC",
+      "article": "art. 32 TRLUC"
+    },
+    {
+      "theme": 51,
+      "block": 11,
+      "q": "Quins documents formen part, com a mínim, d'un POUM?",
+      "options": [
+        "Únicament els plànols d'ordenació i el pressupost de les obres d'urbanització",
+        "Memòria (i memòria social), normes urbanístiques, plànols i avaluació econòmica i ambiental",
+        "Exclusivament les normes urbanístiques i les ordenances fiscals del municipi",
+        "Només l'agenda de les actuacions i el catàleg de béns protegits"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el contingut del POUM. Correcta (b): el POUM comprèn la memòria (i la memòria social), les normes urbanístiques, els plànols, el catàleg, l'agenda i l'avaluació econòmica i financera i la documentació ambiental. Per què no: (a), (c) i (d) són parts incompletes del contingut documental. Base: art. 59 TRLUC.",
+      "source": "TRLUC",
+      "article": "art. 59 TRLUC"
+    },
+    {
+      "theme": 56,
+      "block": 12,
+      "q": "La llicència urbanística s'atorga:",
+      "options": [
+        "Conferint al titular un dret il·limitat sobre la finca, oposable a tercers",
+        "Deixant fora el dret de propietat i sens perjudici del de tercers",
+        "Amb caràcter discrecional, segons l'oportunitat que apreciï l'ajuntament",
+        "Únicament a favor de les administracions públiques promotores d'obres"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta com s'atorga la llicència. Correcta (b): les llicències s'atorguen salvant el dret de propietat i sens perjudici del de tercers (no resolen qüestions de propietat civil). Per què no: (a) no confereix un dret il·limitat ni resol conflictes de propietat; (c) és un acte reglat, no discrecional; (d) no es limita a les administracions. Base: art. 188 TRLUC.",
+      "source": "TRLUC",
+      "article": "art. 188 TRLUC"
+    },
+    {
+      "theme": 17,
+      "block": 7,
+      "q": "Mitjançant quin instrument s'articulen les necessitats de personal de nou ingrés?",
+      "options": [
+        "La relació de llocs de treball aprovada anualment pel Ple municipal",
+        "L'oferta pública d'ocupació",
+        "El conveni col·lectiu del personal laboral de la corporació",
+        "El pressupost general de l'entitat, en el seu annex de personal"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta l'instrument d'accés. Correcta (b): les necessitats de recursos humans amb dotació pressupostària que s'hagin de proveir amb personal de nou ingrés s'articulen a través de l'oferta pública d'ocupació (art. 70 TREBEP). Per què no: (a) la relació de llocs ordena els llocs, no articula l'accés; (c) el conveni regula condicions laborals; (d) el pressupost dota econòmicament, no convoca l'accés. Base: art. 70 TREBEP.",
+      "source": "TREBEP",
+      "article": "art. 70 TREBEP"
+    },
+    {
+      "theme": 18,
+      "block": 7,
+      "q": "El dret de vaga dels funcionaris públics:",
+      "options": [
+        "No existeix, perquè estan sotmesos a un règim estatutari especial",
+        "Existeix, amb la garantia del manteniment dels serveis essencials",
+        "És il·limitat i no admet cap restricció en cap circumstància",
+        "Només el poden exercir els funcionaris de l'Administració local"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el dret de vaga. Correcta (b): els funcionaris tenen dret a l'exercici de la vaga, amb la garantia del manteniment dels serveis essencials de la comunitat (art. 15 TREBEP). Per què no: (a) sí que existeix; (c) no és il·limitat (cal garantir serveis essencials); (d) no es limita a l'àmbit local. Base: art. 15 TREBEP.",
+      "source": "TREBEP",
+      "article": "art. 15 TREBEP"
     }
   ]
 }
