@@ -3214,6 +3214,171 @@
       "explain": "Es pregunta la classificació de les faltes disciplinàries. Correcta (b): les faltes disciplinàries es classifiquen en molt greus, greus i lleus (art. 95 TREBEP). Per què no: (a), (c) i (d) no són la classificació legal de les faltes disciplinàries. Base: art. 95 TREBEP.",
       "source": "TREBEP",
       "article": "art. 95 TREBEP"
+    },
+    {
+      "theme": 12,
+      "block": 3,
+      "q": "Quin caràcter té l'exercici pressupostari de les entitats locals?",
+      "options": [
+        "Bianual, de manera que comprèn dos anys naturals consecutius",
+        "Anual, coincidint amb l'any natural",
+        "Quadriennal, coincidint amb el mandat de la corporació",
+        "Indefinit fins que s'aprovi un nou pressupost que el substitueixi"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la durada de l'exercici pressupostari. Correcta (b): l'exercici pressupostari coincideix amb l'any natural (art. 163 TRLHL). Per què no: (a), (c) i (d) no s'ajusten al principi d'anualitat. Base: art. 163 TRLHL.",
+      "source": "TRLHL",
+      "article": "art. 163 TRLHL"
+    },
+    {
+      "theme": 13,
+      "block": 3,
+      "q": "Qui forma el pressupost general de l'entitat local i l'eleva al Ple?",
+      "options": [
+        "L'interventor o interventora, en exercici del control intern de la gestió",
+        "El president de l'entitat (l'Alcalde)",
+        "El secretari de la corporació, com a fedatari públic municipal",
+        "La Comissió Especial de Comptes, abans de l'aprovació pel Ple"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta qui forma el pressupost. Correcta (b): el president de l'entitat (l'Alcalde) forma el pressupost general i l'eleva al Ple per a la seva aprovació, amb l'informe de la Intervenció (art. 168 TRLHL). Per què no: (a) l'interventor informa, però no el forma; (c) el secretari no el forma; (d) la Comissió de Comptes informa els comptes, no forma el pressupost. Base: art. 168 TRLHL.",
+      "source": "TRLHL",
+      "article": "art. 168 TRLHL"
+    },
+    {
+      "theme": 40,
+      "block": 3,
+      "q": "En quina data, com a màxim, s'ha d'aprovar la liquidació del pressupost?",
+      "options": [
+        "Abans del 31 de desembre del mateix exercici que es liquida",
+        "Abans de l'1 de març de l'exercici següent",
+        "En el termini de sis mesos des del tancament de l'exercici econòmic",
+        "Abans de l'aprovació del pressupost de l'exercici següent, sigui quina sigui la data"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el termini de la liquidació. Correcta (b): la liquidació del pressupost s'ha d'aprovar abans del dia 1 de març de l'exercici següent (art. 191 TRLHL). Per què no: (a), (c) i (d) no s'ajusten al termini legal. Base: art. 191 TRLHL.",
+      "source": "TRLHL",
+      "article": "art. 191 TRLHL"
+    },
+    {
+      "theme": 41,
+      "block": 3,
+      "q": "Què expressa el nivell de vinculació jurídica dels crèdits?",
+      "options": [
+        "El nombre màxim de modificacions de crèdit que es poden fer en un exercici",
+        "El nivell fins al qual la limitació quantitativa del crèdit és exigible",
+        "El percentatge de despesa que s'ha d'executar obligatòriament cada trimestre",
+        "La quantia mínima a partir de la qual cal la fiscalització de la Intervenció"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la vinculació jurídica. Correcta (b): la vinculació jurídica és el nivell (àrea, capítol, article o concepte) fins al qual la limitació quantitativa del crèdit és exigible; com més ampli, més flexibilitat de gestió. Per què no: (a), (c) i (d) no descriuen la vinculació jurídica. Base: art. 172 TRLHL.",
+      "source": "TRLHL",
+      "article": "art. 172 TRLHL"
+    },
+    {
+      "theme": 42,
+      "block": 3,
+      "q": "Què són els pagaments a justificar?",
+      "options": [
+        "Pagaments que es fan sense cap document i que no s'han de justificar mai",
+        "Pagaments expedits quan els documents justificatius no es poden aportar abans",
+        "Bestretes de fons al personal a compte de la nòmina del mes següent",
+        "Pagaments d'inversions plurianuals que s'imputen a diversos exercicis"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta els pagaments a justificar. Correcta (b): són pagaments que s'expedeixen quan els documents justificatius no es poden aportar abans de formular la proposta de pagament; els perceptors n'han de justificar després l'aplicació (art. 190 TRLHL). Per què no: (a) sí que s'han de justificar; (c) descriu una altra figura; (d) no són despeses plurianuals. Base: art. 190 TRLHL.",
+      "source": "TRLHL",
+      "article": "art. 190 TRLHL"
+    },
+    {
+      "theme": 32,
+      "block": 8,
+      "q": "L'Administració, en una concessió de servei públic, pot ordenar-ne la intervenció temporal en cas d'incompliment greu. Aquesta potestat s'anomena:",
+      "options": [
+        "Rescat de la concessió per raons d'interès públic sobrevingut",
+        "Segrest o intervenció del servei",
+        "Reversió anticipada dels béns afectes al servei públic",
+        "Resolució del contracte per mutu acord de les parts"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la potestat d'intervenció temporal. Correcta (b): el segrest o intervenció permet a l'Administració assumir temporalment la gestió del servei en cas d'incompliment greu que en posi en perill la prestació, sense extingir la concessió. Per què no: (a) el rescat extingeix la concessió i assumeix la gestió directa; (c) la reversió és en extingir-se; (d) el mutu acord és una altra causa d'extinció. Base: LCSP i legislació de règim local.",
+      "source": "LCSP",
+      "article": "règim de la concessió"
+    },
+    {
+      "theme": 34,
+      "block": 8,
+      "q": "Quin instrument és imprescindible per a la creació d'un consorci?",
+      "options": [
+        "Una llei aprovada pel Parlament de Catalunya en tots els casos",
+        "Un conveni de creació amb els estatuts corresponents",
+        "Una concessió administrativa atorgada per la Generalitat",
+        "Una ordenança fiscal aprovada per cada entitat consorciada"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la creació del consorci. Correcta (b): el consorci es crea mitjançant un conveni signat per les administracions o entitats que l'integren, al qual s'incorporen els estatuts (art. 119 Llei 40/2015). Per què no: (a) no cal una llei; (c) no és una concessió; (d) no és una ordenança fiscal. Base: art. 119 Llei 40/2015.",
+      "source": "L40_2015",
+      "article": "art. 119 Llei 40/2015"
+    },
+    {
+      "theme": 35,
+      "block": 8,
+      "q": "Quin requisit ha de complir el beneficiari d'una subvenció?",
+      "options": [
+        "Reintegrar sempre una part de la subvenció en finalitzar l'activitat",
+        "Justificar el compliment de la finalitat i la realització de la despesa",
+        "Renunciar a sol·licitar qualsevol altra subvenció per a la mateixa activitat",
+        "Constituir una garantia equivalent al doble de l'import concedit"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta una obligació del beneficiari. Correcta (b): el beneficiari ha de complir l'objectiu, justificar el compliment dels requisits i la realització de l'activitat i la despesa, i sotmetre's al control (art. 14 i 30 Llei 38/2003). Per què no: (a) el reintegrament només procedeix per incompliment; (c) ha de comunicar altres ajuts, no renunciar-hi; (d) no cal garantia del doble de l'import. Base: arts. 14 i 30 Llei 38/2003.",
+      "source": "L38_2003",
+      "article": "arts. 14 i 30 Llei 38/2003"
+    },
+    {
+      "theme": 38,
+      "block": 10,
+      "q": "L'ús comú general dels béns de domini públic:",
+      "options": [
+        "Requereix una concessió administrativa prèvia en tots els casos",
+        "És lliure, d'acord amb la naturalesa del bé i les normes que el regulen",
+        "Tributa sempre mitjançant una taxa per aprofitament especial",
+        "Només es permet als veïns empadronats al municipi titular del bé"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta l'ús comú general. Correcta (b): l'ús comú general (passejar, circular) és el que correspon per igual a tothom i és lliure, conforme a la naturalesa del bé. Per què no: (a) la concessió és per a l'ús privatiu; (c) l'ús comú general no tributa (sí l'aprofitament especial); (d) no es limita als empadronats. Base: art. 85 Llei 33/2003.",
+      "source": "L33_2003",
+      "article": "art. 85 Llei 33/2003"
+    },
+    {
+      "theme": 39,
+      "block": 10,
+      "q": "El desnonament administratiu permet a les entitats locals:",
+      "options": [
+        "Recuperar la possessió dels béns de domini públic ocupats sense títol",
+        "Vendre directament els béns patrimonials sense procediment de licitació",
+        "Expropiar béns de particulars per a obres d'interès general",
+        "Embargar béns de domini públic per cobrar deutes tributaris pendents"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta el desnonament administratiu. Correcta (b): el desnonament administratiu permet recuperar la possessió de béns de domini públic ocupats indegudament (sense títol). Per què no: (b és correcta) — (a-distractor) no és per vendre patrimonials; (c) no és una expropiació; (d) els demanials són inembargables. Base: art. 58 Llei 33/2003.",
+      "source": "L33_2003",
+      "article": "art. 58 Llei 33/2003"
+    },
+    {
+      "theme": 36,
+      "block": 9,
+      "q": "Què exclou la responsabilitat patrimonial de l'Administració?",
+      "options": [
+        "El cas fortuït, encara que el dany sigui conseqüència del servei públic",
+        "La força major",
+        "La concurrència de la culpa de la víctima en la producció del dany",
+        "El funcionament anormal del servei públic causant del dany"
+      ],
+      "correct": 1,
+      "explain": "Es pregunta la causa d'exoneració. Correcta (b): la força major exclou la responsabilitat patrimonial (art. 32.1 Llei 40/2015). Per què no: (a) el cas fortuït NO exonera (sí indemnitza); (c) la culpa de la víctima modula o trenca el nexe, però no és la causa legal d'exoneració general; (d) el funcionament anormal és, precisament, un títol d'imputació, no una exoneració. Base: art. 32.1 Llei 40/2015.",
+      "source": "L40_2015",
+      "article": "art. 32.1 Llei 40/2015"
     }
   ]
 }
