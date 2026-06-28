@@ -4114,6 +4114,591 @@
       "explain": "Es pregunta la planificació operativa. Correcta (b): la planificació operativa concreta els objectius en accions, recursos i terminis a curt termini, alineats amb l'estratègia. Per què no: (a) la missió i la visió a llarg termini són de la planificació estratègica; (c) requereix indicadors; (d) no correspon en exclusiva al nivell polític. Base: gestió per objectius.",
       "source": "L19_2014",
       "article": "gestió per objectius"
+    },
+    {
+      "theme": 2,
+      "block": 1,
+      "q": "El títol I de l'Estatut d'autonomia de Catalunya regula:",
+      "options": [
+        "Els drets, deures i principis rectors",
+        "El finançament de la Unió Europea",
+        "El règim electoral general de l'Estat",
+        "La planificació urbanística municipal"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el contingut del títol I de l'EAC. Correcta (a): el títol I recull els drets, deures i principis rectors. Per què no: (b) i (c) no són matèria estatutària catalana; (d) l'urbanisme es regula en la legislació sectorial. Base: estructura de l'EAC.",
+      "source": "EAC2006",
+      "article": "Títol I"
+    },
+    {
+      "theme": 12,
+      "block": 3,
+      "q": "El pressupost de les entitats locals té caràcter:",
+      "options": [
+        "Anual i coincideix amb l'any natural",
+        "Bianual amb pròrroga automàtica",
+        "Quinquennal",
+        "Indefinit fins a la seva modificació"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la vigència del pressupost. Correcta (a): l'exercici pressupostari és anual i coincideix amb l'any natural (art. 112 LRBRL i TRLHL). Per què no: (b), (c) i (d) no s'ajusten al principi d'anualitat. Base: TRLHL, principi d'anualitat.",
+      "source": "TRLHL",
+      "article": "Anualitat"
+    },
+    {
+      "theme": 13,
+      "block": 3,
+      "q": "L'aprovació inicial del pressupost general de l'entitat local correspon a:",
+      "options": [
+        "El Ple de la corporació",
+        "L'alcalde o president",
+        "La Junta de Govern Local",
+        "La intervenció municipal"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta l'òrgan que aprova el pressupost. Correcta (a): l'aprovació del pressupost és competència del Ple (art. 22 LRBRL i TRLHL). Per què no: (b) l'alcalde el forma i el tramet; (c) la Junta de Govern no l'aprova; (d) la intervenció n'emet informe. Base: TRLHL, art. 168-169.",
+      "source": "TRLHL",
+      "article": "Aprovació"
+    },
+    {
+      "theme": 13,
+      "block": 3,
+      "q": "Si en finalitzar l'exercici no s'ha aprovat el pressupost següent:",
+      "options": [
+        "Es prorroga automàticament el de l'exercici anterior",
+        "No es pot fer cap despesa fins a l'aprovació",
+        "S'aplica el pressupost de l'Estat",
+        "Es dissol la corporació"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la pròrroga pressupostària. Correcta (a): es prorroga automàticament el pressupost anterior, amb els ajustos legals, fins a l'aprovació del nou. Per què no: (b) la pròrroga permet continuar funcionant; (c) i (d) són incorrectes. Base: art. 169.6 TRLHL.",
+      "source": "TRLHL",
+      "article": "Pròrroga"
+    },
+    {
+      "theme": 19,
+      "block": 8,
+      "q": "Els convenis interadministratius es regulen amb caràcter general a:",
+      "options": [
+        "La Llei 40/2015, de règim jurídic del sector públic",
+        "La Llei 39/2015, de procediment administratiu",
+        "El Codi civil",
+        "La Llei de contractes del sector públic"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la regulació dels convenis. Correcta (a): els convenis es regulen als arts. 47 i següents de la Llei 40/2015. Per què no: (b) la 39/2015 regula el procediment; (c) i (d) no en són la norma reguladora general (els convenis queden, a més, exclosos de la LCSP). Base: arts. 47-53 Llei 40/2015.",
+      "source": "L40_2015",
+      "article": "Art. 47"
+    },
+    {
+      "theme": 23,
+      "block": 5,
+      "q": "Perquè l'adjudicatari pugui cedir un contracte del sector públic a un tercer cal, com a regla general:",
+      "options": [
+        "L'autorització prèvia i expressa de l'òrgan de contractació",
+        "Només comunicar-ho per escrit després de la cessió",
+        "El silenci de l'administració durant un mes",
+        "Que ho aprovi la mesa de contractació sense més requisits"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el règim de la cessió. Correcta (a): la cessió exigeix autorització prèvia i expressa de l'òrgan de contractació i que el cessionari tingui solvència (art. 214 LCSP). Per què no: (b) i (c) no són suficients; (d) no correspon a la mesa. Base: art. 214 LCSP.",
+      "source": "LCSP",
+      "article": "Art. 214"
+    },
+    {
+      "theme": 23,
+      "block": 5,
+      "q": "En la subcontractació, el contractista principal:",
+      "options": [
+        "Continua sent responsable de l'execució davant l'administració",
+        "Trasllada tota la responsabilitat al subcontractista",
+        "Queda alliberat un cop subcontracta",
+        "No pot subcontractar mai"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la responsabilitat en la subcontractació. Correcta (a): el contractista principal segueix sent l'únic responsable de l'execució davant l'administració (art. 215 LCSP). Per què no: (b) i (c) no traslladen la responsabilitat; (d) la subcontractació és lícita amb límits. Base: art. 215 LCSP.",
+      "source": "LCSP",
+      "article": "Art. 215"
+    },
+    {
+      "theme": 25,
+      "block": 5,
+      "q": "Amb caràcter general, l'adjudicació del contracte d'obres exigeix l'aprovació prèvia:",
+      "options": [
+        "Del projecte d'obres corresponent",
+        "Només d'una memòria d'idees",
+        "D'un estudi de mercat",
+        "De l'acta de replanteig posterior"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta un requisit del contracte d'obres. Correcta (a): cal el projecte aprovat i, amb caràcter previ, el replanteig (art. 231 i 236 LCSP). Per què no: (b) una memòria d'idees no basta; (c) l'estudi de mercat és per a altres finalitats; (d) el replanteig de comprovació és posterior a l'adjudicació però l'acta de replanteig prèvia forma part del projecte. Base: art. 231 LCSP.",
+      "source": "LCSP",
+      "article": "Art. 231"
+    },
+    {
+      "theme": 26,
+      "block": 5,
+      "q": "En la concessió d'obres, el risc operacional:",
+      "options": [
+        "L'ha d'assumir el concessionari",
+        "El suporta íntegrament l'administració",
+        "No existeix",
+        "El comparteixen a parts iguals sempre"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el risc operacional. Correcta (a): el tret distintiu de les concessions és que el concessionari assumeix el risc operacional (de demanda o disponibilitat). Per què no: (b) si el risc fos de l'administració no seria concessió; (c) sí que existeix; (d) no necessàriament a parts iguals. Base: art. 14 LCSP.",
+      "source": "LCSP",
+      "article": "Risc operacional"
+    },
+    {
+      "theme": 2,
+      "block": 1,
+      "q": "L'Estatut d'autonomia de Catalunya de 2006 es va aprovar finalment mitjançant:",
+      "options": [
+        "Llei orgànica de les Corts Generals i ratificació en referèndum del poble de Catalunya",
+        "Un acord adoptat exclusivament pel Parlament de Catalunya sense intervenció estatal",
+        "Un decret aprovat pel Govern de la Generalitat amb informe del Consell de Garanties",
+        "Una sentència interpretativa dictada pel Tribunal Constitucional sobre l'autonomia"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta com s'aprova l'Estatut. Correcta (a): l'EAC és llei orgànica de les Corts Generals ratificada en referèndum pel poble de Catalunya (art. 147 CE). Per què no: (b) cal l'aval estatal i el referèndum; (c) no és un decret; (d) el TC no aprova estatuts. Base: art. 147 CE.",
+      "source": "EAC2006",
+      "article": "Aprovació"
+    },
+    {
+      "theme": 2,
+      "block": 1,
+      "q": "Segons l'Estatut, la Generalitat de Catalunya com a sistema institucional està integrada per:",
+      "options": [
+        "El Parlament, la Presidència de la Generalitat, el Govern i les altres institucions estatutàries",
+        "Únicament pel Govern i el president, que concentren tota la representació institucional",
+        "De manera exclusiva pel Parlament, en tant que òrgan de representació del poble",
+        "Els ajuntaments i les diputacions provincials del territori de Catalunya"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la composició de la Generalitat. Correcta (a): s'integra pel Parlament, la Presidència, el Govern i la resta d'institucions estatutàries. Per què no: (b) i (c) són parcials; (d) els ens locals no formen part de la Generalitat-institució. Base: EAC, sistema institucional.",
+      "source": "EAC2006",
+      "article": "Institucions"
+    },
+    {
+      "theme": 2,
+      "block": 1,
+      "q": "Dins l'estructura de l'Estatut d'autonomia de Catalunya, el títol I està dedicat a regular:",
+      "options": [
+        "Els drets, els deures i els principis rectors aplicables en l'àmbit de Catalunya",
+        "El finançament i els fons estructurals procedents de la Unió Europea",
+        "El règim electoral general aplicable al conjunt de l'Estat espanyol",
+        "La planificació urbanística i les competències dels municipis catalans"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el contingut del títol I de l'EAC. Correcta (a): el títol I recull els drets, deures i principis rectors. Per què no: (b) i (c) no són matèria estatutària catalana; (d) l'urbanisme es regula en lleis sectorials. Base: estructura de l'EAC.",
+      "source": "EAC2006",
+      "article": "Títol I"
+    },
+    {
+      "theme": 5,
+      "block": 1,
+      "q": "Les competències pròpies dels municipis es determinen, d'acord amb la Llei de bases de règim local:",
+      "options": [
+        "Per llei estatal o autonòmica, garantint la participació del municipi en els assumptes que l'afecten",
+        "Lliurement per cada alcalde mitjançant un decret motivat de la seva pròpia autoritat",
+        "De manera exclusiva i directa pel text de la Constitució espanyola de 1978",
+        "Mitjançant els convenis de col·laboració subscrits amb la diputació provincial"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta com es determinen les competències pròpies. Correcta (a): per llei (estatal o autonòmica) amb garantia de participació (art. 25 LRBRL). Per què no: (b) l'alcalde no s'autoatribueix competències; (c) la CE garanteix l'autonomia però no les detalla; (d) els convenis no atribueixen competències pròpies. Base: art. 25 LRBRL.",
+      "source": "LRBRL",
+      "article": "Art. 25"
+    },
+    {
+      "theme": 5,
+      "block": 1,
+      "q": "Les competències que un municipi exerceix per delegació d'una altra administració pública:",
+      "options": [
+        "S'exerceixen en els termes que fixa la delegació, que pot preveure tècniques de direcció i control",
+        "Esdevenen pròpies del municipi de manera definitiva i ja no es poden revocar mai",
+        "No necessiten que l'administració delegant aporti el finançament corresponent",
+        "Eximeixen completament el municipi de qualsevol mena de responsabilitat per la gestió"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el règim de les competències delegades. Correcta (a): s'exerceixen segons la delegació, amb control de l'administració delegant (art. 27 LRBRL). Per què no: (b) no esdevenen pròpies; (c) cal el finançament; (d) no eximeix de responsabilitat. Base: art. 27 LRBRL.",
+      "source": "LRBRL",
+      "article": "Art. 27"
+    },
+    {
+      "theme": 5,
+      "block": 1,
+      "q": "Les competències diferents de les pròpies i de les delegades que un municipi vulgui exercir requereixen:",
+      "options": [
+        "Que no posin en risc la sostenibilitat financera ni generin duplicitats amb una altra administració",
+        "En tot cas l'autorització prèvia i expressa del ministeri estatal que sigui competent",
+        "La seva aprovació mitjançant un referèndum convocat entre el veïnat del municipi",
+        "La cessió formal i prèvia de la titularitat per part de la diputació provincial"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el règim de les competències impròpies. Correcta (a): l'art. 7.4 LRBRL exigeix que no hi hagi duplicitats i que no es posi en risc la sostenibilitat financera. Per què no: (b), (c) i (d) no són els requisits legals. Base: art. 7.4 LRBRL.",
+      "source": "LRBRL",
+      "article": "Art. 7.4"
+    },
+    {
+      "theme": 12,
+      "block": 3,
+      "q": "El pressupost de l'entitat local, com a instrument de planificació de la gestió pública, expressa fonamentalment:",
+      "options": [
+        "La previsió dels ingressos i l'autorització de l'import màxim de les despeses de l'exercici",
+        "Únicament i de manera exclusiva les despeses obligatòries derivades del capítol de personal",
+        "Un càlcul merament orientatiu i sense cap mena de caràcter vinculant per a la corporació",
+        "El patrimoni net i el conjunt de béns i drets de què és titular l'entitat local"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la naturalesa del pressupost. Correcta (a): previsió d'ingressos i límit màxim de despeses de l'exercici. Per què no: (b) inclou totes les despeses; (c) els crèdits són limitatius; (d) el patrimoni net és una altra magnitud. Base: TRLHL.",
+      "source": "TRLHL",
+      "article": "Concepte"
+    },
+    {
+      "theme": 12,
+      "block": 3,
+      "q": "Quant a la seva vigència temporal, el pressupost de les entitats locals té caràcter:",
+      "options": [
+        "Anual, de manera que coincideix amb l'any natural d'acord amb el principi d'anualitat",
+        "Bianual, amb una pròrroga automàtica prevista per a un tercer exercici consecutiu",
+        "Quinquennal, vinculat als períodes de planificació estratègica de la corporació",
+        "Indefinit en el temps, fins que el ple n'aprovi formalment la modificació o derogació"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la vigència del pressupost. Correcta (a): l'exercici és anual i coincideix amb l'any natural. Per què no: (b), (c) i (d) no s'ajusten a l'anualitat. Base: TRLHL, principi d'anualitat.",
+      "source": "TRLHL",
+      "article": "Anualitat"
+    },
+    {
+      "theme": 13,
+      "block": 3,
+      "q": "Després de l'aprovació inicial pel ple, el pressupost general de l'entitat local s'exposa al públic durant:",
+      "options": [
+        "Quinze dies hàbils, durant els quals els interessats hi poden presentar reclamacions",
+        "Un mes natural complet, amb publicació al butlletí oficial de la província corresponent",
+        "Quaranta-vuit hores, en règim d'urgència, abans de l'aprovació definitiva pel ple",
+        "Tres mesos, termini durant el qual queda suspesa l'execució de qualsevol despesa"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el termini d'exposició pública. Correcta (a): 15 dies hàbils per a reclamacions; si no n'hi ha, s'entén definitivament aprovat. Per què no: (b), (c) i (d) no són el termini legal. Base: art. 169 TRLHL.",
+      "source": "TRLHL",
+      "article": "Art. 169"
+    },
+    {
+      "theme": 13,
+      "block": 3,
+      "q": "Si en finalitzar l'exercici econòmic no s'ha aprovat encara el pressupost de l'exercici següent:",
+      "options": [
+        "Es prorroga automàticament el de l'exercici anterior, amb els ajustos que estableix la llei",
+        "No es pot autoritzar ni reconèixer cap mena de despesa fins a la seva aprovació definitiva",
+        "S'aplica directament i de manera supletòria el pressupost general aprovat per l'Estat",
+        "Es procedeix a la dissolució de la corporació i a la convocatòria de noves eleccions"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la pròrroga pressupostària. Correcta (a): es prorroga automàticament el pressupost anterior fins a l'aprovació del nou. Per què no: (b) la pròrroga permet seguir funcionant; (c) i (d) són incorrectes. Base: art. 169.6 TRLHL.",
+      "source": "TRLHL",
+      "article": "Pròrroga"
+    },
+    {
+      "theme": 13,
+      "block": 3,
+      "q": "L'aprovació del pressupost general de l'entitat local correspon, com a competència indelegable, a:",
+      "options": [
+        "El Ple de la corporació, a proposta prèvia formulada per la presidència de l'entitat",
+        "L'alcalde o president, mitjançant un decret amb l'informe favorable de la intervenció",
+        "La Junta de Govern Local, en exercici de les competències executives que té atribuïdes",
+        "La intervenció municipal, com a òrgan responsable del control intern de l'entitat"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta l'òrgan que aprova el pressupost. Correcta (a): l'aprovació és competència del Ple (art. 22 LRBRL). Per què no: (b) l'alcalde el forma i el tramet; (c) la Junta no l'aprova; (d) la intervenció n'informa. Base: art. 168-169 TRLHL.",
+      "source": "TRLHL",
+      "article": "Aprovació"
+    },
+    {
+      "theme": 14,
+      "block": 4,
+      "q": "Per a l'aprovació d'una ordenança local s'exigeix, com a procediment, com a mínim:",
+      "options": [
+        "Aprovació inicial pel ple, informació pública i audiència, i posterior aprovació definitiva",
+        "Únicament un decret de l'alcaldia degudament motivat i publicat al tauler d'anuncis",
+        "L'aprovació prèvia per part del Govern de la Generalitat amb caràcter de control de legalitat",
+        "La celebració d'un referèndum de caràcter obligatori i vinculant entre el veïnat"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el procediment d'aprovació d'ordenances. Correcta (a): aprovació inicial pel ple, informació pública (mínim 30 dies) i aprovació definitiva (art. 49 LRBRL). Per què no: (b) no basta un decret; (c) i (d) no són requisits. Base: art. 49 LRBRL.",
+      "source": "LRBRL",
+      "article": "Art. 49"
+    },
+    {
+      "theme": 14,
+      "block": 4,
+      "q": "Les ordenances i els reglaments de les entitats locals constitueixen una manifestació de la potestat:",
+      "options": [
+        "Reglamentària o normativa que la llei reconeix expressament a les entitats locals",
+        "Sancionadora de manera exclusiva, ja que regulen infraccions i les sancions corresponents",
+        "Expropiatòria, com a instrument per a l'obtenció forçosa de béns i drets de tercers",
+        "Jurisdiccional, en la mesura que resolen conflictes entre particulars i l'administració"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta quina potestat exerceixen. Correcta (a): són expressió de la potestat reglamentària (art. 4 LRBRL). Per què no: (b) la sancionadora és diferent; (c) i (d) no corresponen a la potestat normativa. Base: art. 4 LRBRL.",
+      "source": "LRBRL",
+      "article": "Art. 4"
+    },
+    {
+      "theme": 14,
+      "block": 4,
+      "q": "Una ordenança local aprovada definitivament entra en vigor:",
+      "options": [
+        "Un cop publicat el text íntegre al butlletí oficial i transcorregut el termini legalment previst",
+        "Des del mateix moment en què el ple n'acorda l'aprovació inicial de manera provisional",
+        "Quan l'alcalde ho decideix discrecionalment mitjançant la corresponent resolució",
+        "Amb la simple aprovació definitiva pel ple, sense necessitat de cap publicació posterior"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta l'entrada en vigor. Correcta (a): cal la publicació íntegra al BOP i el transcurs del termini de l'art. 65.2 LRBRL. Per què no: (b) l'aprovació inicial no basta; (c) no és discrecional; (d) sense publicació no produeix efectes. Base: art. 70.2 LRBRL.",
+      "source": "LRBRL",
+      "article": "Art. 70.2"
+    },
+    {
+      "theme": 19,
+      "block": 8,
+      "q": "Els convenis administratius subscrits entre administracions tenen, amb caràcter general, una durada màxima de:",
+      "options": [
+        "Quatre anys, que es poden prorrogar, abans de finalitzar, fins a quatre anys addicionals",
+        "Un any de durada màxima, amb caràcter improrrogable per imperatiu legal exprés",
+        "Deu anys com a regla general, atesa la naturalesa institucional de la col·laboració",
+        "Durada indefinida, mentre cap de les parts signants no en denunciï la vigència"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la durada dels convenis. Correcta (a): l'art. 49 de la Llei 40/2015 fixa 4 anys, prorrogables fins a 4 anys més. Per què no: (b), (c) i (d) no s'ajusten a la llei. Base: art. 49.h Llei 40/2015.",
+      "source": "L40_2015",
+      "article": "Art. 49"
+    },
+    {
+      "theme": 19,
+      "block": 8,
+      "q": "Els convenis que comportin compromisos de caràcter financer han d'anar precedits, en tot cas, de:",
+      "options": [
+        "Una memòria justificativa que n'acrediti la necessitat, l'oportunitat i la sostenibilitat",
+        "La signatura prèvia del conveni per totes dues administracions abans de cap tràmit",
+        "Un procediment de licitació pública amb publicitat i concurrència entre interessats",
+        "La convocatòria d'un referèndum consultiu entre la població dels municipis afectats"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta un requisit dels convenis amb efectes econòmics. Correcta (a): cal una memòria justificativa (necessitat, impacte econòmic, caràcter no contractual) ex art. 50 Llei 40/2015. Per què no: (b) la memòria és prèvia; (c) els convenis no se sotmeten a licitació; (d) no cal referèndum. Base: art. 50 Llei 40/2015.",
+      "source": "L40_2015",
+      "article": "Art. 50"
+    },
+    {
+      "theme": 19,
+      "block": 8,
+      "q": "El règim jurídic general dels convenis interadministratius està recollit, fonamentalment, a:",
+      "options": [
+        "La Llei 40/2015, de règim jurídic del sector públic, en els seus articles 47 i següents",
+        "La Llei 39/2015, del procediment administratiu comú de les administracions públiques",
+        "El Codi civil, com a normativa supletòria reguladora dels contractes entre les parts",
+        "La Llei de contractes del sector públic, que regula amb detall el seu procediment"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la regulació dels convenis. Correcta (a): arts. 47 i ss. de la Llei 40/2015. Per què no: (b) la 39/2015 regula el procediment; (c) i (d) no en són la norma reguladora (queden exclosos de la LCSP). Base: arts. 47-53 Llei 40/2015.",
+      "source": "L40_2015",
+      "article": "Art. 47"
+    },
+    {
+      "theme": 23,
+      "block": 5,
+      "q": "El plec d'un contracte pot limitar la part de la prestació susceptible de ser subcontractada:",
+      "options": [
+        "Sí, quan ho justifiqui degudament, dins els límits que estableix la legislació de contractes",
+        "No, en cap cas, perquè la subcontractació és un dret incondicionat del contractista",
+        "Només si ho autoritza prèviament i per escrit el mateix subcontractista proposat",
+        "Únicament quan es tracti de contractes d'obres, però mai en els altres tipus contractuals"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta els límits a la subcontractació. Correcta (a): el plec pot fixar límits justificats dins l'art. 215 LCSP. Per què no: (b) sí que es pot limitar; (c) no depèn del subcontractista; (d) no és exclusiu de les obres. Base: art. 215 LCSP.",
+      "source": "LCSP",
+      "article": "Art. 215"
+    },
+    {
+      "theme": 25,
+      "block": 5,
+      "q": "El contracte d'obres, segons la Llei de contractes del sector públic, té per objecte:",
+      "options": [
+        "La realització d'una obra o l'execució d'algun dels treballs que enumera l'annex de la llei",
+        "La prestació de serveis de caràcter intel·lectual o tècnic en benefici de l'administració",
+        "L'adquisició, l'arrendament o el lísing de productes o béns mobles per a l'entitat",
+        "La gestió i l'explotació d'un servei públic de titularitat de l'administració contractant"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta l'objecte del contracte d'obres. Correcta (a): executar una obra o els treballs de l'annex de la LCSP. Per què no: (b) és el de serveis; (c) el de subministrament; (d) la concessió de serveis. Base: art. 13 LCSP.",
+      "source": "LCSP",
+      "article": "Art. 13"
+    },
+    {
+      "theme": 25,
+      "block": 5,
+      "q": "Un cop formalitzat un contracte d'obres, l'acta de comprovació del replanteig s'estén:",
+      "options": [
+        "A l'inici de l'execució, per verificar la realitat geomètrica i la disponibilitat dels terrenys",
+        "En el moment d'acabar l'obra, com a pas previ a la seva recepció per l'administració",
+        "Abans fins i tot de redactar el projecte, com a primer document de la fase preparatòria",
+        "Coincidint amb la liquidació final, un cop transcorregut el termini de garantia de l'obra"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta l'acta de comprovació del replanteig. Correcta (a): s'estén a l'inici de l'execució i marca el començament del termini (art. 237 LCSP). Per què no: (b) i (d) corresponen a fases finals; (c) el replanteig de projecte és anterior, però l'acta de comprovació és a l'inici. Base: art. 237 LCSP.",
+      "source": "LCSP",
+      "article": "Art. 237"
+    },
+    {
+      "theme": 26,
+      "block": 5,
+      "q": "El tret que caracteritza el contracte de concessió d'obres és que la contraprestació del concessionari consisteix:",
+      "options": [
+        "En el dret a explotar l'obra, o bé en aquest dret acompanyat del dret a percebre un preu",
+        "Sempre i en tot cas en un preu cert que abona directament l'administració contractant",
+        "En una subvenció a fons perdut concedida per l'administració per finançar la construcció",
+        "En la transmissió plena de la propietat de l'obra construïda a favor del concessionari"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la nota essencial. Correcta (a): el concessionari es retribueix amb el dret d'explotació (assumint el risc), eventualment amb un preu. Per què no: (b) si fos només preu seria contracte d'obres; (c) i (d) no la defineixen. Base: art. 14 LCSP.",
+      "source": "LCSP",
+      "article": "Art. 14"
+    },
+    {
+      "theme": 26,
+      "block": 5,
+      "q": "La durada de les concessions d'obres està limitada legalment amb la finalitat d'evitar:",
+      "options": [
+        "Que es restringeixi la competència més enllà del temps necessari per recuperar la inversió",
+        "Que l'obra construïda mantingui en tot moment la seva condició de bé de domini públic",
+        "Que el concessionari hagi de fer front al pagament dels impostos que gravin l'activitat",
+        "Que l'administració pugui intervenir i controlar el desenvolupament de l'explotació"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el fonament del límit temporal. Correcta (a): es limita perquè no s'allargui més del necessari per recuperar la inversió i una retribució raonable (art. 29 LCSP). Per què no: (b), (c) i (d) no en són la raó. Base: art. 29 LCSP.",
+      "source": "LCSP",
+      "article": "Art. 29"
+    },
+    {
+      "theme": 27,
+      "block": 5,
+      "q": "Es considera també contracte de subministrament, segons la LCSP, l'adquisició de béns:",
+      "options": [
+        "De manera successiva i per preu unitari, sense fixar-ne prèviament el nombre total exacte",
+        "Sempre que el lliurament dels béns es produeixi en un sol acte i de forma simultània",
+        "Únicament quan tinguin la consideració jurídica de béns immobles per a l'administració",
+        "Exclusivament en els casos en què el valor estimat del contracte superi el milió d'euros"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta una modalitat. Correcta (a): la LCSP inclou l'adquisició successiva per preu unitari sense determinar el nombre total. Per què no: (b) no cal lliurament únic; (c) els immobles no són subministrament; (d) no depèn de l'import. Base: art. 16.3 LCSP.",
+      "source": "LCSP",
+      "article": "Art. 16"
+    },
+    {
+      "theme": 27,
+      "block": 5,
+      "q": "En el contracte de subministrament, la recepció dels béns lliurats pel contractista:",
+      "options": [
+        "Comporta la comprovació que s'ajusten a les prescripcions tècniques fixades en el plec",
+        "Es pot ometre sempre, perquè en aquest tipus de contracte resulta del tot innecessària",
+        "La duu a terme el mateix contractista, que en certifica unilateralment la conformitat",
+        "S'entén produïda de manera automàtica amb la simple formulació de la comanda inicial"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la recepció. Correcta (a): l'administració comprova que els béns s'ajusten al plec abans de donar-los per rebuts. Per què no: (b) és necessària; (c) la fa l'administració; (d) la comanda no equival a recepció. Base: LCSP, recepció.",
+      "source": "LCSP",
+      "article": "Recepció"
+    },
+    {
+      "theme": 28,
+      "block": 5,
+      "q": "En els contractes de serveis que impliquin prestacions directes a favor de la ciutadania, la LCSP:",
+      "options": [
+        "Estableix garanties específiques per assegurar-ne la continuïtat, la qualitat i els drets dels usuaris",
+        "Prohibeix de manera absoluta i en tot cas que aquests serveis es puguin contractar amb tercers",
+        "N'imposa obligatòriament la prestació mitjançant gestió directa per la mateixa administració",
+        "Els exclou completament de la regulació continguda en la legislació de contractes públics"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta una especialitat dels serveis a les persones. Correcta (a): la LCSP preveu garanties de continuïtat, qualitat i drets dels usuaris. Per què no: (b) no els prohibeix; (c) no obliga a gestió directa; (d) no els exclou. Base: LCSP, serveis a les persones.",
+      "source": "LCSP",
+      "article": "Serveis a les persones"
+    },
+    {
+      "theme": 28,
+      "block": 5,
+      "q": "La durada dels contractes de serveis, amb caràcter general, d'acord amb la LCSP, està:",
+      "options": [
+        "Limitada, i les pròrrogues han d'estar previstes en el plec i ser acordades per l'òrgan de contractació",
+        "No subjecta a cap mena de límit temporal, ja que depèn únicament de la voluntat de les parts",
+        "Fixada de manera imperativa en deu anys per a tots els contractes d'aquesta naturalesa",
+        "Determinada lliurement i de manera unilateral pel contractista adjudicatari del servei"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la durada. Correcta (a): és limitada i les pròrrogues han d'estar previstes en el plec (art. 29 LCSP). Per què no: (b) sí que té límit; (c) no és sempre 10 anys; (d) no la fixa el contractista. Base: art. 29 LCSP.",
+      "source": "LCSP",
+      "article": "Art. 29"
+    },
+    {
+      "theme": 28,
+      "block": 5,
+      "q": "El contracte de serveis, en la Llei de contractes del sector públic, té per objecte:",
+      "options": [
+        "Prestacions de fer consistents en el desenvolupament d'una activitat dirigida a l'administració",
+        "La transmissió de la propietat d'un bé moble a favor de l'administració contractant",
+        "L'explotació d'una obra pública amb assumpció del risc operacional pel contractista",
+        "L'execució material d'una construcció o d'una obra d'acord amb un projecte aprovat"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta l'objecte del contracte de serveis. Correcta (a): prestacions de fer (activitats) per a l'administració. Per què no: (b) seria compra/subministrament; (c) concessió; (d) obres. Base: art. 17 LCSP.",
+      "source": "LCSP",
+      "article": "Art. 17"
+    },
+    {
+      "theme": 29,
+      "block": 5,
+      "q": "La diferència essencial entre el contracte de serveis i el contracte de concessió de serveis rau en què, en la concessió:",
+      "options": [
+        "El concessionari assumeix el risc operacional derivat de l'explotació del servei",
+        "L'administració abona en tot cas un preu cert al contractista per la seva prestació",
+        "No es produeix la transferència de cap mena de risc a la part contractista privada",
+        "En cap cas s'arriba a prestar el servei directament als usuaris finals del servei"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la distinció. Correcta (a): la concessió transfereix el risc operacional al concessionari. Per què no: (b) en el de serveis hi ha preu cert; (c) sí que hi ha risc; (d) la concessió presta servei als usuaris. Base: art. 15 LCSP.",
+      "source": "LCSP",
+      "article": "Art. 15"
+    },
+    {
+      "theme": 29,
+      "block": 5,
+      "q": "L'equilibri econòmic d'una concessió de serveis es pot restablir, entre altres supòsits, quan concorre:",
+      "options": [
+        "El factum principis o un risc imprevisible que altera substancialment l'economia del contracte",
+        "Qualsevol disminució, per petita que sigui, dels beneficis ordinaris esperats pel concessionari",
+        "La sola voluntat unilateral del concessionari de revisar les condicions econòmiques pactades",
+        "Un increment de costos de caràcter ordinari i que ja era previsible en el moment de licitar"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta el restabliment de l'equilibri. Correcta (a): procedeix davant ius variandi, factum principis o riscos imprevisibles. Per què no: (b) i (d) el risc ordinari el suporta el concessionari; (c) no depèn de la seva sola voluntat. Base: LCSP, equilibri econòmic.",
+      "source": "LCSP",
+      "article": "Equilibri econòmic"
+    },
+    {
+      "theme": 29,
+      "block": 5,
+      "q": "En una concessió de serveis, malgrat tractar-se d'una forma de gestió indirecta, l'administració conserva:",
+      "options": [
+        "La titularitat del servei i els poders d'intervenció, policia i control sobre la seva prestació",
+        "La gestió material directa i quotidiana del servei, que continua prestant amb mitjans propis",
+        "La totalitat dels riscos econòmics derivats de l'explotació del servei durant tota la concessió",
+        "La condició d'usuària del servei, en igualtat de condicions amb la resta de ciutadans"
+      ],
+      "correct": 0,
+      "explain": "Es pregunta la posició de l'administració. Correcta (a): manté la titularitat i els poders de control. Per què no: (b) la gestió material la fa el concessionari; (c) el risc és del concessionari; (d) no és usuària. Base: LCSP, concessió.",
+      "source": "LCSP",
+      "article": "Concessió"
     }
   ]
 }
