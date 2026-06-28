@@ -2611,6 +2611,487 @@
         "LCSP",
         "LRBRL"
       ]
+    },
+    {
+      "id": "c33-formes-gestio",
+      "theme": 33,
+      "block": 8,
+      "maxPoints": 45,
+      "title": "Elecció de la forma de gestió d'un servei",
+      "context": "L'Ajuntament vol crear un servei municipal d'esports i dubta entre gestionar-lo directament mitjançant una societat mercantil de capital íntegrament públic o de manera indirecta. El servei no implica exercici d'autoritat.",
+      "prompt": "Distingiu les formes de gestió directa i indirecta, indiqueu què exigeix optar per una societat pública i quins serveis es reserven a la gestió directa.",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Gestió directa: pròpia entitat, organisme autònom, entitat pública empresarial o societat de capital 100% públic",
+          "weight": 12,
+          "keywords": [
+            [
+              "gestio directa",
+              "directa"
+            ],
+            [
+              "organisme autonom",
+              "entitat publica empresarial",
+              "societat",
+              "100%",
+              "integrament public"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c2",
+          "label": "Gestió indirecta: concessió, gestió interessada, societat d'economia mixta",
+          "weight": 11,
+          "keywords": [
+            [
+              "gestio indirecta",
+              "indirecta"
+            ],
+            [
+              "concessio",
+              "gestio interessada",
+              "economia mixta"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c3",
+          "label": "Optar per societat o EPE exigeix acreditar-ne la sostenibilitat i eficiència (memòria i informes)",
+          "weight": 12,
+          "keywords": [
+            [
+              "sostenibilitat",
+              "eficiencia"
+            ],
+            [
+              "memoria",
+              "informes",
+              "acreditar",
+              "85.2"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c4",
+          "label": "Els serveis que impliquin autoritat es reserven a la gestió directa per la pròpia entitat o organisme autònom",
+          "weight": 10,
+          "keywords": [
+            [
+              "autoritat"
+            ],
+            [
+              "gestio directa",
+              "propia entitat",
+              "organisme autonom"
+            ]
+          ],
+          "threshold": 0.5
+        }
+      ],
+      "model": "La gestió de serveis públics pot ser directa (per la pròpia entitat, un organisme autònom local, una entitat pública empresarial local o una societat mercantil local de capital íntegrament públic) o indirecta (mitjançant concessió, gestió interessada o societat d'economia mixta). Per optar per la gestió directa mitjançant una entitat pública empresarial o una societat de capital íntegrament públic, l'art. 85.2 LRBRL exigeix acreditar, amb una memòria i els informes preceptius (entre ells el de la Intervenció), que aquesta forma és més sostenible i eficient que les altres alternatives. Els serveis que impliquin l'exercici d'autoritat es reserven a la gestió directa per la pròpia entitat o per un organisme autònom. Com que el servei d'esports no implica autoritat, totes les formes són possibles, amb l'elecció motivada que correspongui.",
+      "sources": [
+        "LRBRL"
+      ]
+    },
+    {
+      "id": "c34-consorci",
+      "theme": 34,
+      "block": 8,
+      "maxPoints": 45,
+      "title": "Creació i adscripció d'un consorci",
+      "context": "Diversos ajuntaments volen crear un consorci per gestionar de manera conjunta la promoció turística de la comarca. Es plantegen com s'ha de crear i quina rellevància té determinar a quina administració queda adscrit.",
+      "prompt": "Expliqueu la naturalesa del consorci, els instruments per a la seva creació i la importància i els criteris de l'adscripció.",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "El consorci és un ens de dret públic amb personalitat jurídica pròpia per a finalitats d'interès comú",
+          "weight": 11,
+          "keywords": [
+            [
+              "dret public",
+              "personalitat juridica propia"
+            ],
+            [
+              "interes comu",
+              "finalitat comuna"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c2",
+          "label": "Es crea mitjançant conveni de creació amb els estatuts",
+          "weight": 12,
+          "keywords": [
+            [
+              "conveni"
+            ],
+            [
+              "estatuts"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c3",
+          "label": "L'adscripció determina el règim pressupostari, comptable, de control i de personal aplicable",
+          "weight": 13,
+          "keywords": [
+            [
+              "adscripcio"
+            ],
+            [
+              "regim pressupostari",
+              "comptable",
+              "control",
+              "personal"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c4",
+          "label": "L'adscripció es fa segons criteris ordenats (control efectiu, finançament majoritari, vots)",
+          "weight": 9,
+          "keywords": [
+            [
+              "control efectiu",
+              "finançament majoritari",
+              "nombre de vots"
+            ],
+            [
+              "criteris",
+              "120"
+            ]
+          ],
+          "threshold": 0.5
+        }
+      ],
+      "model": "El consorci és una entitat de dret públic, de base associativa, amb personalitat jurídica pròpia, creada per diverses administracions (o amb entitats privades sense ànim de lucre) per a la consecució de finalitats d'interès comú (arts. 118 i ss. Llei 40/2015). Es crea mitjançant un conveni signat per les entitats que l'integren, al qual s'incorporen els estatuts (que regulen l'organització, el funcionament i els fins). És cabdal determinar a quina administració queda adscrit, perquè l'adscripció determina el règim pressupostari, comptable, de control econòmic i de personal aplicable al consorci. L'adscripció es fixa d'acord amb els criteris ordenats de l'art. 120 (control efectiu de la gestió, finançament majoritari de les activitats, nombre de vots als òrgans de govern, etc.).",
+      "sources": [
+        "L40_2015"
+      ]
+    },
+    {
+      "id": "c37-resp-personal",
+      "theme": 37,
+      "block": 9,
+      "maxPoints": 45,
+      "title": "Responsabilitat del personal i acció de regrés",
+      "context": "L'Ajuntament ha hagut d'indemnitzar un ciutadà pels danys causats per l'actuació d'un empleat municipal que va actuar amb negligència greu. Es planteja si pot reclamar a l'empleat i com.",
+      "prompt": "Expliqueu davant qui reclama el particular, en quins casos i com l'Administració pot exigir responsabilitat al seu personal, i la relació amb la via penal.",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "El particular reclama directament a l'Administració, no a l'empleat",
+          "weight": 12,
+          "keywords": [
+            [
+              "reclama a l'administracio",
+              "directament a l'administracio"
+            ],
+            [
+              "no a l'empleat",
+              "no directament"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c2",
+          "label": "L'AP exigeix d'ofici el regrés al personal per dol o culpa/negligència greus",
+          "weight": 14,
+          "keywords": [
+            [
+              "regres",
+              "exigir",
+              "d'ofici"
+            ],
+            [
+              "dol",
+              "culpa greu",
+              "negligencia greu"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c3",
+          "label": "Criteris de ponderació: resultat danyós, grau de culpabilitat, responsabilitat professional",
+          "weight": 9,
+          "keywords": [
+            [
+              "grau de culpabilitat",
+              "resultat danyos",
+              "responsabilitat professional"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c4",
+          "label": "En via penal, l'Administració és responsable civil subsidiari",
+          "weight": 8,
+          "keywords": [
+            [
+              "penal"
+            ],
+            [
+              "responsable civil subsidiari",
+              "subsidiari"
+            ]
+          ],
+          "threshold": 0.5
+        }
+      ],
+      "model": "El particular perjudicat reclama directament a l'Administració, no a l'empleat causant del dany (la responsabilitat patrimonial és directa). Un cop l'Administració ha indemnitzat el tercer, ha d'exigir d'ofici al personal al seu servei la responsabilitat en què hagi incorregut per dol, o culpa o negligència greus (acció de regrés, art. 36.2 Llei 40/2015). Per ponderar-la es tenen en compte el resultat danyós produït, el grau de culpabilitat, la responsabilitat professional del personal i la seva relació amb la producció del resultat, mitjançant un procediment amb audiència de l'interessat. Com que en el cas hi va haver negligència greu, escau l'exigència del regrés. Si el dany derivés d'un delicte, la responsabilitat civil es podria exigir en el procés penal, amb l'Administració com a responsable civil subsidiari.",
+      "sources": [
+        "L40_2015"
+      ]
+    },
+    {
+      "id": "c39-bens-recuperacio",
+      "theme": 39,
+      "block": 10,
+      "maxPoints": 45,
+      "title": "Ocupació indeguda d'un bé de domini públic",
+      "context": "Un particular ha tancat i ocupat un tram de camí públic municipal, incorporant-lo a la seva finca. L'Ajuntament vol recuperar-ne la possessió.",
+      "prompt": "Indiqueu quines potestats té l'Ajuntament per recuperar el bé, el règim del domini públic i el paper de l'inventari.",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "El camí és un bé de domini públic: inalienable, imprescriptible i inembargable",
+          "weight": 12,
+          "keywords": [
+            [
+              "domini public",
+              "demanial"
+            ],
+            [
+              "inalienable",
+              "imprescriptible",
+              "inembargable"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c2",
+          "label": "Recuperació d'ofici de la possessió (en demanials, en qualsevol moment)",
+          "weight": 13,
+          "keywords": [
+            [
+              "recuperacio d'ofici",
+              "recuperar la possessio"
+            ],
+            [
+              "qualsevol moment",
+              "demanial"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c3",
+          "label": "Pot emprar el desnonament administratiu per a béns demanials ocupats sense títol",
+          "weight": 10,
+          "keywords": [
+            [
+              "desnonament administratiu",
+              "desnonament"
+            ],
+            [
+              "sense titol"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c4",
+          "label": "L'inventari facilita la defensa, però no és per si sol títol de propietat",
+          "weight": 8,
+          "keywords": [
+            [
+              "inventari"
+            ],
+            [
+              "no es titol",
+              "facilita la defensa",
+              "prova"
+            ]
+          ],
+          "threshold": 0.5
+        }
+      ],
+      "model": "El camí públic és un bé de domini públic d'ús públic, i com a tal és inalienable, imprescriptible i inembargable (art. 132 CE): el particular no l'ha pogut adquirir per usucapió. L'Ajuntament disposa de la potestat de recuperació d'ofici de la possessió, que en els béns demanials pot exercir en qualsevol moment, sense necessitat d'acudir als tribunals. Per recuperar la possessió d'un bé de domini públic ocupat sense títol pot emprar el desnonament administratiu (art. 58 Llei 33/2003). L'inventari de béns, on hauria de constar el camí, facilita la defensa del bé, tot i que no constitueix per si sol un títol de propietat; també disposa de les potestats d'investigació i de llindament. Tot això és independent de la possible imposició de sancions i de l'exigència de restituir la situació anterior.",
+      "sources": [
+        "L33_2003"
+      ]
+    },
+    {
+      "id": "c40-prorroga-pressupost",
+      "theme": 40,
+      "block": 3,
+      "maxPoints": 45,
+      "title": "Liquidació i pròrroga del pressupost",
+      "context": "A 1 de gener, l'Ajuntament no ha aprovat el pressupost del nou exercici. A més, ha de tancar i liquidar el de l'exercici anterior. Es plantegen els efectes d'aquesta situació.",
+      "prompt": "Expliqueu què passa amb el pressupost no aprovat (pròrroga), qui aprova la liquidació i en quin termini, i quines magnituds en resulten.",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Si a 1/1 no està aprovat, es prorroga automàticament el de l'exercici anterior amb els crèdits inicials",
+          "weight": 13,
+          "keywords": [
+            [
+              "prorroga",
+              "prorroga automatica"
+            ],
+            [
+              "credits inicials",
+              "exercici anterior"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c2",
+          "label": "S'exclouen de la pròrroga els crèdits de programes que finalitzaven l'exercici anterior",
+          "weight": 9,
+          "keywords": [
+            [
+              "s'exclouen",
+              "exclou"
+            ],
+            [
+              "programes que finalitzen",
+              "serveis que finalitzen"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c3",
+          "label": "La liquidació l'aprova el president, abans de l'1 de març, donant-ne compte al Ple",
+          "weight": 12,
+          "keywords": [
+            [
+              "president",
+              "alcalde"
+            ],
+            [
+              "1 de marc",
+              "abans de l'1 de marc"
+            ],
+            [
+              "compte al ple"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c4",
+          "label": "De la liquidació en resulten el resultat pressupostari i el romanent de tresoreria",
+          "weight": 11,
+          "keywords": [
+            [
+              "resultat pressupostari"
+            ],
+            [
+              "romanent de tresoreria",
+              "romanent"
+            ]
+          ],
+          "threshold": 0.5
+        }
+      ],
+      "model": "Si a l'inici de l'exercici (1 de gener) no està aprovat el pressupost, es prorroga automàticament el de l'exercici anterior amb els seus crèdits inicials, fins a l'entrada en vigor del nou (art. 169.6 TRLHL); de la pròrroga s'exclouen els crèdits destinats a serveis o programes que havien de finalitzar en l'exercici anterior. Pel que fa al tancament, la liquidació del pressupost l'aprova el president de l'entitat (l'Alcalde), prèvia informe de la Intervenció, abans de l'1 de març de l'exercici següent, i en dona compte al Ple (art. 191 TRLHL). De la liquidació en resulten magnituds com el resultat pressupostari (diferència entre drets i obligacions reconeguts, amb ajustaments), els romanents de crèdit i el romanent de tresoreria, que mesura els recursos líquids disponibles al tancament i, en la part per a despeses generals, pot finançar modificacions de crèdit.",
+      "sources": [
+        "TRLHL"
+      ]
+    },
+    {
+      "id": "c42-fases-despesa",
+      "theme": 42,
+      "block": 3,
+      "maxPoints": 45,
+      "title": "Execució del pressupost de despeses",
+      "context": "L'Ajuntament ha d'adjudicar i pagar un contracte de subministrament. Es plantegen quines fases pressupostàries cal seguir i quins controls hi intervenen.",
+      "prompt": "Enumereu i expliqueu les fases d'execució de la despesa, i indiqueu el requisit de crèdit i el control que hi intervé.",
+      "criteria": [
+        {
+          "id": "c1",
+          "label": "Fases: autorització (A), disposició (D), reconeixement de l'obligació (O) i ordenació del pagament (P)",
+          "weight": 14,
+          "keywords": [
+            [
+              "autoritzacio"
+            ],
+            [
+              "disposicio",
+              "compromis"
+            ],
+            [
+              "reconeixement de l'obligacio",
+              "obligacio"
+            ],
+            [
+              "ordenacio del pagament",
+              "pagament"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c2",
+          "label": "Es poden acumular en un sol acte (ADO/ADOP)",
+          "weight": 8,
+          "keywords": [
+            [
+              "ado",
+              "adop",
+              "acumular"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c3",
+          "label": "Tota despesa requereix l'existència de crèdit adequat i suficient",
+          "weight": 12,
+          "keywords": [
+            [
+              "credit adequat",
+              "credit suficient",
+              "existencia de credit"
+            ]
+          ],
+          "threshold": 0.5
+        },
+        {
+          "id": "c4",
+          "label": "Fiscalització prèvia per la Intervenció (control intern)",
+          "weight": 10,
+          "keywords": [
+            [
+              "fiscalitzacio",
+              "intervencio"
+            ],
+            [
+              "control intern",
+              "previa"
+            ]
+          ],
+          "threshold": 0.5
+        }
+      ],
+      "model": "L'execució del pressupost de despeses segueix quatre fases successives: l'autorització (A), acte que aprova la realització d'una despesa per una quantia certa, reservant el crèdit; la disposició o compromís (D), acord ferm amb un tercer determinat per un import exactament determinat; el reconeixement de l'obligació (O), que declara l'existència d'un deute exigible després de l'acreditació de la prestació; i l'ordenació del pagament (P). Diverses fases es poden acumular en un sol acte administratiu (ADO o ADOP). Tota despesa requereix l'existència de crèdit adequat i suficient al pressupost (principi d'especialitat). A més, hi intervé el control intern de la Intervenció mitjançant la fiscalització prèvia, que comprova la legalitat de la despesa abans d'aprovar-la, sens perjudici del control financer i del control extern posterior (Sindicatura de Comptes).",
+      "sources": [
+        "TRLHL"
+      ]
     }
   ]
 }
